@@ -732,37 +732,4 @@ Predict poorly rated listings
 A future extension could develop a predictive model to identify listings at greater risk of receiving poor ratings.
 
 This could help hosts identify potential problems before guest satisfaction declines.
-Day 1 activity
-☑ Designated a group member as the Program Manager
-
-☑ Created the group GitHub repository
-
-☑ Added all group members to the GitHub repository
-
-☑ Each group member created and worked on their individual branch
-
-☑ Each group member made at least one commit to their branch
-
-☑ Each group member pushed their branch to the group repository
-
-☑ Started data cleaning of the selected Airbnb dataset
-
-☑ Sketched an initial Entity Relationship Model for the relational database structure
-
-☐ All group members to submit the GitHub repository URL to the Ironhack student platform under First Project: SQL, From Data to Insight
-
-Day 2
-
-☑ Updated the main branch with the latest content from all group member branches
-
-☑ Each group member made one or more commits to their individual branch and pushed the branch to the group repository
-
-☑ Reviewed and understood the significance of each data field in the Airbnb dataset
-
-☑ Created an Entity Relationship Diagram ERD based on the Entity Relationship Model
-
-☑ Created a functional MySQL database based on the ERD and defined appropriate data types for each column
-
-☑ Transformed and sanitized the Airbnb data according to the project analysis goals
-
-☑ Loaded the cleaned dataset into the MySQL database while maintaining data integrity
+ß
