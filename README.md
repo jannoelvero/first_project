@@ -1,21 +1,38 @@
-# Project overview
+# From Poor Ratings to Exceptional Stays
+
+## A Data Driven Analysis of Factors Influencing Airbnb Guest Satisfaction
+
 This project analyzes Airbnb property listings to identify factors associated with property prices and guest ratings, with particular attention to poorly rated listings.
 
 The main business problem is:
 
-What factors contribute to lower Airbnb guest ratings, and what improvements can hosts prioritize to improve poorly rated listings?
+> **What factors contribute to lower Airbnb guest ratings, and what improvements can hosts prioritize to improve poorly rated listings?**
 
-The project follows an integrated Python and SQL data analytics workflow.
+The project combines Python and MySQL within one analytics workflow. Python and Pandas were used for data loading, cleaning, transformation, feature engineering, exploratory data analysis, statistical testing, and visualization. MySQL was used to store the cleaned dataset and perform structured queries, filtering, grouping, and aggregation.
 
-Python and Pandas are used for data loading, cleaning, transformation, feature engineering, exploratory data analysis, statistical testing, and visualization.
+## Team
 
-MySQL is used to store the cleaned dataset and perform structured SQL queries, aggregations, filtering, grouping, and analytical operations.
+| Team Member | Role |
+| --- | --- |
+| Jan Noel Vero | Program Manager |
+| Nadiya | Member |
 
-The overall project workflow is:
+## Goal and Objective
 
+### Goal
+
+Identify the characteristics of low rated Airbnb listings and determine which property features are associated with higher guest satisfaction.
+
+### Objective
+
+Analyze Airbnb listing characteristics that influence guest ratings and identify practical strategies for improving underperforming listings.
+
+## Project Workflow
+
+```text
 Raw Airbnb Data
         ↓
-Load Data with Python
+Python Data Loading
         ↓
 Data Validation
         ↓
@@ -29,161 +46,83 @@ Feature Engineering
         ↓
 Clean Dataset
         ↓
-Python EDA             MySQL Database
-        ↓                     ↓
-Statistical Tests       SQL Analysis
-        ↓                     ↓
-        └───────┬─────────────┘
-                ↓
-          Visualizations
-                ↓
-           Key Findings
-                ↓
-         Recommendations
-
-The project uses Python and SQL together rather than treating them as separate analytical processes.
-
-Python is primarily used for data preparation, statistical analysis, and visualization, while SQL is used for structured storage and querying of the cleaned data.
-# Installation
-
-1. **Clone the repository**:
-2. git clone https://github.com/jannoelvero/first_project.git
-
-```bash
-git clone https://github.com/YourUsername/repository_name.git
+Python EDA               MySQL Database
+        ↓                       ↓
+Statistical Tests          SQL Analysis
+        ↓                       ↓
+        └──────────┬────────────┘
+                   ↓
+             Visualizations
+                   ↓
+              Key Findings
+                   ↓
+            Recommendations
 ```
 
-2. **Install UV**
+Python and SQL were used as complementary analytical tools. Python supported data preparation, statistical testing, and visualization, while SQL supported structured storage, filtering, grouping, aggregation, and analytical querying.
 
-If you're a MacOS/Linux user type:
+## Research Questions
 
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
-
-If you're a Windows user open an Anaconda Powershell Prompt and type :
-
-```bash
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
-
-3. **Create an environment**
-
-```bash
-uv venv 
-```
-
-3. **Activate the environment**
-
-If you're a MacOS/Linux user type (if you're using a bash shell):
-
-```bash
-source ./venv/bin/activate
-```
-
-If you're a MacOS/Linux user type (if you're using a csh/tcsh shell):
-
-```bash
-source ./venv/bin/activate.csh
-```
-
-If you're a Windows user type:
-
-```bash
-.\venv\Scripts\activate
-```
-
-4. **Install dependencies**:
-
-```bash
-uv pip install -r requirements.txt
-```
-The project uses:
-
-Python
-Pandas
-NumPy
-MySQL
-SQL
-SQLAlchemy
-PyMySQL
-SciPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-
-MySQL Setup
-
-The cleaned dataset is also stored in MySQL.
-
-The project database is:
-
-airbnb_project
-
-The main SQL table is:
-
-airbnb_listings
-
-Python connects to MySQL using SQLAlchemy and PyMySQL.
-# Questions 
-...
-The project investigates the following research questions.
-
-RQ1
+### RQ1
 
 What is the distribution of Airbnb listings based on high, average, and low ratings?
 
-RQ2
+### RQ2
 
 Is there a significant difference in price between poorly rated and highly rated Airbnb listings?
 
-RQ3
+### RQ3
 
 Which property types are more likely to receive poor guest ratings?
 
-RQ4
+### RQ4
 
 Do amenities significantly influence the price of Airbnb listings?
 
-RQ5
+### RQ5
 
 Do amenities significantly influence Airbnb ratings?
 
-RQ6
+### RQ6
 
 Does the location of an Airbnb listing significantly influence guest ratings?
 
-RQ7
+### RQ7
 
 Does the location of an Airbnb listing significantly influence Airbnb prices?
 
-RQ8
+### RQ8
 
 Does the number of reviews significantly influence Airbnb ratings?
 
-RQ9
+### RQ9
 
-Which month has the highest number of reviews and the highest average Airbnb rating?
+Which month is associated with the highest aggregated review count and the highest average Airbnb rating in the dataset?
 
-RQ10
+### RQ10
 
 What improvements should Airbnb hosts prioritize to transform poorly rated listings into highly rated accommodations?
-# Dataset 
-...
+
+## Dataset
+
 The project uses Airbnb property listing data containing information about property characteristics, listing descriptions, location, price, guest ratings, reviews, and amenities.
 
-Following the cleaning and feature engineering process, the final dataset contains:
+Following cleaning and feature engineering, the final dataset contains:
 
-604 Airbnb listings
-
-24 variables
+| Dataset Metric | Final Result |
+| --- | ---: |
+| Airbnb listings | 604 |
+| Variables | 24 |
 
 The cleaned dataset is exported as:
 
+```text
 airbnb_cleaned.csv
+```
 
-The final variables are:
+### Final Variables
 
+```text
 Property Name
 Listing Description
 Property Type
@@ -208,135 +147,75 @@ Waterfront
 Sea View
 Mountain View
 Amenity Count
+```
 
-The cleaned dataset is also transferred from Python into MySQL for SQL based analysis.
+## Data Cleaning and Preparation
 
-Database: airbnb_project
-
-Table: airbnb_listings
-## Main dataset issues
-
-- ...
-- ...
-- ...
 The original Airbnb data required cleaning and transformation before reliable analysis could be performed.
 
-The main issues identified were:
+### Main Dataset Issues
 
-Missing values in selected variables, particularly ratings.
-Duplicate listing records.
-Price information that was not initially suitable for numeric analysis.
-Rating information that required cleaning and standardization.
-Review information that required extraction and conversion.
-Property and location information stored in formats that required restructuring.
-Date information that needed to be converted into month.
-Property names containing unusual or invalid special character patterns.
-Amenities embedded within listing descriptions rather than stored as separate analytical variables.
-Differences in structure across the source datasets that required standardization before combining the data.
-## Solutions for the dataset issues
-...
+1. Missing values, particularly in ratings
+2. Duplicate listing records
+3. Price information that required conversion to numeric values
+4. Rating information that required cleaning and standardization
+5. Review information that required extraction and conversion
+6. Property and location information that required restructuring
+7. Date information that required conversion into month
+8. Property names containing invalid special character patterns
+9. Amenities embedded within listing descriptions
+10. Structural differences across the source datasets
+
+### Cleaning Process
+
 Python and Pandas were used for the main data preparation process.
 
-Data loading
+Initial inspection included dataset dimensions, column names, data types, missing values, duplicate records, unique values, and descriptive statistics.
 
-The original datasets were loaded into Pandas DataFrames for inspection and cleaning.
+Missing ratings were identified and handled during cleaning. Duplicate records were inspected and removed, followed by a final duplicate check.
 
-The initial inspection included:
-
-Dataset dimensions
-Column names
-Data types
-Missing values
-Duplicate records
-Unique values
-Descriptive statistics
-Missing values
-
-Missing values were identified using Pandas.
-
-Ratings with missing values were handled during the cleaning process to ensure that the final dataset could be used consistently for analysis.
-
-Duplicate records
-
-Duplicate records were identified, inspected, and removed.
-
-A final duplicate check was performed after cleaning.
-
-Property information
-
-Property information was cleaned and standardized.
-
-Property names containing invalid or inappropriate special character patterns were identified and removed where necessary.
-
-Location
+Property information was cleaned and standardized. Listings with invalid property name patterns were removed where necessary.
 
 Location information was restructured into:
 
+```text
 City
 Country
+```
 
-This allowed geographic comparisons to be performed during the exploratory and statistical analyses.
+Date information was transformed into a standardized `Month` variable.
 
-Month
+Price was cleaned and converted into numeric format using:
 
-Date information was transformed into a standardized:
-
-Month
-
-variable for monthly analysis.
-
-Price
-
-The price variable was cleaned and converted into numeric format.
-
-The final variable used for analysis is:
-
+```text
 Price(in dollar)
+```
 
-This allows calculations such as:
+Rating information was cleaned and converted into numeric format.
 
-Average price
-Median price
-Minimum price
-Maximum price
-Price comparison
-Price ranking
-Rating
+### Rating Categories
 
-Rating information was cleaned and converted into a numeric variable.
+| Rating Category | Definition |
+| --- | --- |
+| Low Rating | Below 4.5 |
+| Average Rating | 4.5 to below 4.8 |
+| High Rating | 4.8 or above |
 
-Listings were subsequently classified into rating categories for analysis.
+The number of reviews was extracted and stored as `Number of Reviews`.
 
-The categories used were:
+## Feature Engineering
 
-Low Rating
-Rating below 4.5
+Additional variables were created to support the analysis:
 
-Average Rating
-Rating from 4.5 to below 4.8
-
-High Rating
-Rating of 4.8 or above
-Reviews
-
-The number of reviews was extracted and stored as:
-
-Number of Reviews
-
-This variable was used to investigate the relationship between review volume and guest rating.
-
-Feature engineering
-
-Additional variables were created to support the analysis.
-
-These included:
-
+```text
 Rating Rank
 Price Rank
 Amenity Count
+```
 
-Individual amenity indicators were also extracted from listing descriptions:
+Individual amenity indicators were extracted from listing descriptions:
 
+```text
 WiFi
 Pool
 Sauna
@@ -349,387 +228,418 @@ Beach
 Waterfront
 Sea View
 Mountain View
+```
 
-Each amenity variable identifies whether the amenity was detected in the listing information.
+Each amenity variable indicates whether that amenity was detected in the listing information. `Amenity Count` represents the number of identified amenities associated with each listing.
 
-Amenity Count represents the number of identified amenities associated with each listing.
-
-Clean dataset
-
-After cleaning, validation, duplicate removal, and feature engineering, the final dataset contained:
-
-604 listings
-24 variables
-
-The dataset was exported as:
-
-airbnb_cleaned.csv
-MySQL integration
+## MySQL Integration
 
 The cleaned Pandas DataFrame was transferred into MySQL using SQLAlchemy and PyMySQL.
 
-The MySQL database is:
+Database:
 
+```sql
 airbnb_project
+```
 
-The table is:
+Main table:
 
+```sql
 airbnb_listings
+```
 
-SQL was then used for:
+SQL was used for filtering, grouping, aggregation, property comparisons, location comparisons, rating analysis, price analysis, review analysis, and amenity analysis.
 
-Filtering
-Grouping
-Aggregation
-Property comparisons
-Location comparisons
-Rating analysis
-Price analysis
-Review analysis
-Amenity analysis
-Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Exploratory data analysis was conducted using Python and SQL.
 
 The analysis examined:
 
-Dataset structure
-Rating distribution
-Price distribution
-Property types
-Countries and cities
-Guest ratings
-Number of reviews
-Amenities
-Monthly patterns
-Relationships between analytical variables
+1. Dataset structure
+2. Rating distribution
+3. Price distribution
+4. Property types
+5. Countries and cities
+6. Guest ratings
+7. Number of reviews
+8. Amenities
+9. Monthly patterns
+10. Relationships between analytical variables
 
-SQL was used for structured aggregation and filtering, while Python was used for statistical analysis and visualization.
+## Statistical Methodology
 
-Statistical Analysis
+Inferential statistical methods were used to evaluate whether observed relationships and differences were statistically significant.
 
-Because several research questions ask whether relationships or differences are statistically significant, inferential statistical methods were used in addition to descriptive analysis.
+### Mann Whitney U Test
 
-Mann Whitney U Test
+Used to compare prices between poorly rated and highly rated Airbnb listings.
 
-The Mann Whitney U test was used to compare prices between poorly rated and highly rated Airbnb listings.
+### Spearman Correlation
 
-Spearman Correlation
+Used to examine relationships between:
 
-Spearman correlation was used to examine relationships between:
+1. Amenity Count and Price
+2. Amenity Count and Rating
+3. Number of Reviews and Rating
 
-Amenity Count and Price
-Amenity Count and Rating
-Number of Reviews and Rating
-Kruskal Wallis Test
+### Kruskal Wallis Test
 
-The Kruskal Wallis test was used to evaluate differences in:
+Used to evaluate differences in:
 
-Ratings across locations
-Prices across locations
+1. Ratings across locations
+2. Prices across locations
 
-These nonparametric methods were appropriate for examining relationships and group differences without relying on normal distribution assumptions.
+These nonparametric methods were used to examine relationships and group differences without relying on normal distribution assumptions.
 
-# Conclussions
-...
-RQ1: Rating Distribution
+# Key Findings
+
+## RQ1: Rating Distribution
 
 The majority of properties in the dataset are highly rated.
 
-The rating distribution is:
+| Rating Category | Listings | Percentage |
+| --- | ---: | ---: |
+| High | 460 | 76.16% |
+| Average | 124 | 20.53% |
+| Low | 20 | 3.31% |
 
-Rating Category	Listings	Percentage
-High	460	76.16%
-Average	124	20.53%
-Low	20	3.31%
+Only 20 listings are classified as poorly rated. Because this group represents a small proportion of the dataset, comparisons involving low rated properties should be interpreted cautiously.
 
-Only 20 listings are classified as poorly rated.
-
-This means the low rating group represents a relatively small proportion of the dataset and comparisons involving this group should be interpreted with appropriate caution.
-
-RQ2: Price and Rating
+## RQ2: Price and Rating
 
 Highly rated listings were more expensive than poorly rated listings.
 
-Poorly rated listings had an average price of:
-
-$102.55
-
-Highly rated listings had an average price of:
-
-$168.93
-
-The median prices were:
-
-Poorly Rated: $79
-
-Highly Rated: $131
+| Metric | Poorly Rated | Highly Rated |
+| --- | ---: | ---: |
+| Average Price | $102.55 | $168.93 |
+| Median Price | $79 | $131 |
 
 The Mann Whitney U test produced:
 
-U Statistic: 2939.5
+| Statistic | Result |
+| --- | ---: |
+| U Statistic | 2939.5 |
+| P Value | 0.0063 |
 
-P Value: 0.0063
+The difference is statistically significant at the 0.05 significance level. Listing price is therefore significantly associated with rating category in this dataset.
 
-The result is statistically significant at the 0.05 significance level.
+## RQ3: Property Type and Poor Ratings
 
-Therefore, the analysis indicates a significant difference in price between poorly rated and highly rated listings in this dataset.
+Hotel rooms and hotels recorded the highest proportion of poorly rated listings at 16.67 percent, followed by lofts at 15.38 percent.
 
-RQ3: Property Type and Poor Ratings
+Apartments had a lower poor rating proportion of 9.33 percent but contributed the greatest number of poorly rated listings overall, with seven properties.
 
-Hotels and hotel rooms showed the highest proportion of poorly rated listings at:
+Hotels and hotel rooms each contain only six listings, meaning their 16.67 percent rate represents one poorly rated property in each category. Results for property types with small sample sizes should therefore be interpreted cautiously.
 
-16.67%
+## RQ4: Amenities and Price
 
-Lofts followed at:
+The relationship between amenity count and Airbnb price produced:
 
-15.38%
-
-Apartments had a lower proportion of poorly rated listings at:
-
-9.33%
-
-However, apartments accounted for the largest absolute number of poorly rated properties, with seven listings.
-
-Property types represented by very small numbers of listings should be interpreted cautiously.
-
-RQ4: Amenities and Price
-
-The relationship between amenity count and Airbnb price was examined using Spearman correlation.
-
-The result was:
-
-Spearman Correlation: 0.101
-
-P Value: 0.013
+| Statistic | Result |
+| --- | ---: |
+| Spearman Correlation | 0.101 |
+| P Value | 0.013 |
 
 The relationship is statistically significant but weak.
 
-Listings with no identified amenities mentioned had an average price of approximately:
+| Amenities Mentioned | Listings | Average Price | Median Price |
+| ---: | ---: | ---: | ---: |
+| 0 | 409 | $144.04 | $112.00 |
+| 1 | 159 | $188.80 | $131.00 |
+| 2 | 28 | $195.25 | $154.50 |
+| 3 | 8 | $224.75 | $130.00 |
 
-$144.04
+Average price generally rises as more amenities are mentioned, but median prices do not increase consistently. Amenity count alone is therefore not a strong determinant of price.
 
-Listings with three identified amenities had an average price of approximately:
-
-$224.75
-
-The results suggest that listings mentioning more amenities tend to have somewhat higher prices, but amenity count alone is not a strong predictor of price.
-
-RQ5: Amenities and Rating
+## RQ5: Amenities and Guest Ratings
 
 The relationship between amenity count and Airbnb rating produced:
 
-Spearman Correlation: negative 0.115
+| Statistic | Result |
+| --- | ---: |
+| Spearman Correlation | -0.115 |
+| P Value | 0.0045 |
 
-P Value: 0.0045
+The relationship is statistically significant but very weak and negative.
 
-The relationship is statistically significant but very weak.
+| Amenities Mentioned | Listings | Average Rating | Median Rating |
+| ---: | ---: | ---: | ---: |
+| 0 | 409 | 4.858 | 4.890 |
+| 1 | 159 | 4.827 | 4.860 |
+| 2 | 28 | 4.830 | 4.855 |
+| 3 | 8 | 4.802 | 4.830 |
 
-The negative correlation indicates that simply mentioning or providing more amenities does not necessarily result in higher guest ratings.
+The number of amenities mentioned is not a strong driver of guest satisfaction. More amenities do not necessarily correspond with better guest ratings.
 
-Guest satisfaction therefore appears to depend on factors beyond the number of amenities.
+## RQ6: Location and Rating
 
-RQ6: Location and Rating
+Guest ratings differed significantly across locations.
 
-Guest ratings differed significantly across geographic locations.
+| Statistic | Result |
+| --- | ---: |
+| Kruskal Wallis H | 74.730 |
+| P Value | Below 0.001 |
 
-The Kruskal Wallis test produced:
+Selected average ratings included:
 
-H Statistic: 74.730
+| Location | Average Rating |
+| --- | ---: |
+| North Carolina, US | 4.963 |
+| United Kingdom | 4.927 |
+| Germany | 4.925 |
+| Malaysia | 4.747 |
+| Vietnam | 4.756 |
+| Spain | 4.762 |
 
-P Value: below 0.001
+Location is significantly associated with guest ratings in this dataset. The test establishes that at least one location differs from another, but it does not establish that location causes the observed rating differences.
 
-North Carolina recorded an average rating of approximately:
+## RQ7: Location and Price
 
-4.963
+Airbnb prices differed significantly across locations.
 
-The United Kingdom recorded approximately:
+| Statistic | Result |
+| --- | ---: |
+| Kruskal Wallis H | 175.778 |
+| P Value | 4.68 × 10⁻²⁵ |
 
-4.927
+Selected average prices included:
 
-Germany recorded approximately:
+| Location | Average Price |
+| --- | ---: |
+| California, US | $371.91 |
+| Texas, US | $264.60 |
+| North Carolina, US | $235.83 |
+| Germany | $79.38 |
+| Vietnam | $66.62 |
+| Malaysia | $56.70 |
 
-4.925
+The findings show that geographic market differences are an important factor in Airbnb pricing.
 
-Other locations, including Malaysia, Vietnam, and Spain, recorded lower average ratings within the analyzed data.
+## RQ8: Number of Reviews and Rating
 
-The results indicate that location is significantly associated with guest ratings.
+The relationship between review count and guest rating produced:
 
-However, this relationship should not be interpreted as evidence that location directly causes higher or lower ratings.
+| Statistic | Result |
+| --- | ---: |
+| Spearman Correlation | -0.184 |
+| P Value | 5.38 × 10⁻⁶ |
 
-RQ7: Location and Price
+The relationship is statistically significant but weak. Listings with more reviews tend to have slightly lower ratings in this dataset.
 
-Airbnb prices also differed significantly across locations.
+This result does not demonstrate that receiving more reviews causes ratings to decline.
 
-The Kruskal Wallis test produced:
+## RQ9: Month, Reviews, and Rating
 
-H Statistic: 175.778
+Listings associated with June had the highest aggregated `Number of Reviews` value at 66,386.
 
-P Value: below 0.001
+May recorded the highest average rating at 4.98, but May contains only one listing.
 
-California recorded the highest average price at approximately:
+The monthly distribution is highly uneven:
 
-$371.91
+1. June contains 401 of the 604 listings
+2. January contains one listing
+3. May contains one listing
+4. December contains two listings
 
-Texas followed at approximately:
+This result requires careful interpretation. `Number of Reviews` represents the review count associated with each listing and does not establish that those reviews were written during the month assigned to the listing.
 
-$264.60
+Therefore, the June result should be interpreted as the highest aggregated review count among listings associated with June, not as evidence that June had the highest monthly review activity or represented peak travel season.
 
-North Carolina recorded approximately:
+## RQ10: Improving Poorly Rated Listings
 
-$235.83
+The combined findings indicate that hosts should prioritize the overall guest experience rather than simply increasing the number of amenities.
 
-Lower average prices included:
+The analysis supports four main areas of improvement:
 
-Malaysia: $56.70
+### Service Quality
 
-Vietnam: $66.62
+Prioritize cleanliness, property condition, service consistency, and accurate listing descriptions.
 
-Germany: $79.38
+### Guest Expectations
 
-The results demonstrate that geographic market differences are important when analyzing Airbnb pricing.
+Set realistic expectations and ensure that the actual stay matches what is promised in the listing.
 
-RQ8: Number of Reviews and Rating
+### Smart Pricing
 
-The relationship between number of reviews and rating produced:
+Position and price the property competitively relative to its local market and property type.
 
-Spearman Correlation: negative 0.184
+### Amenity Quality
 
-P Value: below 0.001
+Provide useful, functional, relevant, and well maintained amenities. Quantity alone does not improve guest ratings.
 
-The relationship is statistically significant but weak.
+# Business Recommendations
 
-Listings with more reviews tend to have slightly lower ratings.
+## Prioritize Guest Experience
 
-However, this does not demonstrate that receiving more reviews causes ratings to decline.
+Focus on the quality and consistency of the stay, particularly cleanliness, property condition, service quality, and accuracy of listing information.
 
-RQ9: Month, Reviews, and Rating
+## Ensure Value for Money
 
-June had the highest aggregated review count in the dataset:
+The quality of the accommodation and overall guest experience should justify the listing price.
 
-66,386 reviews
+## Benchmark Locally
 
-May recorded the highest average rating:
+Compare the property with similar listings in the same geographic market and property type when setting prices and positioning the listing.
 
-4.98
+## Curate Useful Amenities
 
-However, May contains only one listing.
+Focus on functional and relevant amenities that improve the guest experience rather than increasing the number of amenities simply for marketing purposes.
 
-The dataset is also heavily concentrated in June, which contains:
+## Monitor Guest Feedback
 
-401 of the 604 listings
+Track recurring complaints and guest comments to identify specific operational issues requiring attention.
 
-January and May contain only one listing each, while December contains only two.
+# Limitations
 
-Therefore, monthly comparisons must be interpreted cautiously.
+## Rating Group Imbalance
 
-An additional limitation is that Number of Reviews represents the review count associated with a listing and does not necessarily represent reviews written during that specific month.
+Only 20 of the 604 listings were classified as poorly rated. The relatively small low rating group limits the strength of comparisons involving underperforming properties.
 
-The monthly analysis therefore describes the characteristics of listings associated with each month rather than definitive monthly guest review activity.
+## Property Type Sample Sizes
 
-RQ10: Improving Poorly Rated Listings
+Some property types have very small numbers of listings. For example, hotels and hotel rooms each contain only six listings. Percentage comparisons for these categories should therefore be interpreted cautiously.
 
-The combined results indicate that Airbnb hosts should focus on the overall guest experience rather than relying primarily on increasing the number of amenities.
+## Geographic Imbalance
 
-Amenities showed only weak relationships with both price and rating.
+The number of listings varies considerably across locations, so results for geographic groups with smaller samples should be interpreted carefully.
 
-Location showed significant relationships with price and guest rating, while certain property types showed greater exposure to poor ratings.
+## Monthly Imbalance
 
-The findings suggest that hosts should prioritize:
+June contains 401 of the 604 listings, while January and May contain only one listing each and December contains only two.
 
-Property cleanliness and condition
+## Review Data Limitation
 
-Service quality and consistency
+`Number of Reviews` represents the review count associated with a listing and does not necessarily represent reviews submitted during the listing's associated month. Monthly review totals should therefore not be interpreted as actual review activity occurring within each month.
 
-Accurate property descriptions
+## Association Does Not Establish Causation
 
-Appropriate pricing relative to the local market
+The statistical analyses identify associations and differences within the dataset. They do not establish that price, location, amenities, property type, or review volume directly cause higher or lower ratings.
 
-Guest expectation management
+# Next Steps
 
-Monitoring recurring guest complaints
+Future analysis could strengthen the project by:
 
-Quality and functionality of amenities
+1. Expanding the dataset to include more poorly rated listings
+2. Improving geographic balance across locations
+3. Collecting review level data with individual review dates
+4. Analyzing individual amenities rather than only total amenity count
+5. Adding variables such as bedrooms, bathrooms, guest capacity, property size, neighborhood, host experience, host response rate, cleaning quality, cancellation policy, and length of stay
+6. Conducting multivariable regression analysis
+7. Conducting post hoc testing after significant Kruskal Wallis results
+8. Developing a predictive model to identify listings at greater risk of receiving poor ratings
 
-Responsiveness to guest feedback
+# Technologies Used
 
-The findings indicate associations within this dataset and should not be interpreted as proof of causal relationships.
-# Next steps
-...
-Several improvements could strengthen future analysis.
+| Technology | Purpose |
+| --- | --- |
+| Python | Data analysis and statistical workflow |
+| Pandas | Data cleaning and transformation |
+| NumPy | Numerical operations |
+| MySQL | Relational database and SQL analysis |
+| SQL | Structured querying |
+| SQLAlchemy | Python and MySQL integration |
+| PyMySQL | MySQL database connectivity |
+| SciPy | Statistical testing |
+| Matplotlib | Data visualization |
+| Seaborn | Data visualization |
+| Jupyter Notebook | Interactive analysis |
+| Git | Version control |
+| GitHub | Collaboration and repository management |
+| UV | Python environment and dependency management |
 
-Expand the dataset
+# Repository Structure
 
-A larger dataset would provide more observations for poorly rated listings and reduce the imbalance between low, average, and highly rated properties.
+```text
+first_project/
+│
+├── data/
+├── figures/
+├── notebooks/
+├── slides/
+├── sql_scripts/
+├── src/
+├── config.yaml
+├── pyproject.toml
+├── uv.lock
+└── README.md
+```
 
-Improve geographic representation
+### `data`
 
-The dataset contains uneven numbers of listings across locations.
+Contains project datasets, including the cleaned dataset used for analysis.
 
-Future analysis should use more balanced geographic samples.
+### `figures`
 
-Collect review level data
+Contains charts and visualizations generated during the analysis.
 
-Future datasets should include individual review dates rather than relying only on the total number of reviews associated with each property.
+### `notebooks`
 
-This would allow more reliable analysis of:
+Contains Jupyter notebooks used for data cleaning, exploratory data analysis, statistical testing, and visualization.
 
-Seasonality
-Monthly review activity
-Changes in guest satisfaction over time
-Analyze individual amenities
+### `slides`
 
-Future analysis could investigate whether specific amenities have stronger relationships with price or rating than total amenity count.
+Contains the final project presentation.
 
-For example:
+### `sql_scripts`
 
-WiFi
-Pool
-Parking
-Kitchen
-Waterfront
-Sea View
-Mountain View
-Add additional property variables
+Contains SQL scripts used for database creation and analysis.
 
-Future datasets could include:
+### `src`
 
-Number of bedrooms
-Number of bathrooms
-Guest capacity
-Property size
-Host experience
-Host response rate
-Neighborhood
-Cleaning quality
-Cancellation policy
-Length of stay
+Contains reusable Python functions for data cleaning and visualization.
 
-These variables may help explain price and rating differences more effectively.
+# Installation
 
-Conduct multivariable analysis
+## Clone the Repository
 
-Future work could use regression models to analyze several predictors simultaneously.
+```bash
+git clone https://github.com/jannoelvero/first_project.git
+cd first_project
+```
 
-This could help determine the relative importance of:
+## Install UV
 
-Location
-Property Type
-Price
-Amenities
-Number of Reviews
+For macOS and Linux:
 
-while controlling for other variables.
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
-Conduct post hoc analysis
+For Windows PowerShell:
 
-The Kruskal Wallis tests show that significant differences exist across locations but do not identify every specific pair of locations that differs.
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
 
-Post hoc statistical testing could be used to investigate these differences further.
+## Create and Synchronize the Environment
 
-Predict poorly rated listings
+```bash
+uv sync
+```
 
-A future extension could develop a predictive model to identify listings at greater risk of receiving poor ratings.
+## Activate the Environment
 
-This could help hosts identify potential problems before guest satisfaction declines.
-ß
+For macOS and Linux:
+
+```bash
+source .venv/bin/activate
+```
+
+For Windows:
+
+```powershell
+.venv\Scripts\activate
+```
+
+# Conclusion
+
+The analysis shows that Airbnb guest ratings are associated with multiple listing and market characteristics rather than a single factor.
+
+A large majority of listings are highly rated, while poorly rated listings represent only a small proportion of the dataset. Highly rated listings are significantly more expensive than poorly rated listings, and location is significantly associated with both price and guest rating.
+
+Amenities and review volume show statistically significant but weak relationships with ratings. This indicates that simply adding more amenities is unlikely to substantially improve guest satisfaction.
+
+The strongest practical message from the project is that hosts should focus on the overall guest experience. Cleanliness, property condition, accurate listing information, realistic guest expectations, appropriate local pricing, useful amenities, and responsiveness to feedback are more actionable priorities for improving underperforming listings.
+
+The project demonstrates an integrated Python and SQL analytics workflow, moving from raw data preparation through database analysis, statistical testing, visualization, interpretation, and business recommendations.
