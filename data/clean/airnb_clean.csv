@@ -1,0 +1,833 @@
+property_name,property_type,amenity_text,amenities_found,amenity_count,date,start_month,start_day,end_month,end_day,price_in_dollar,review_and_rating,rating,review,location,city,country
+"Chalet in Skykomish, Washington, US",Chalet,Sky Haus - A-Frame Cabin,[],0,Jun 11 - 16,Jun,11,Jun,16,306.0,4.85 (531),4.85,531.0,"Skykomish, Washington, US","Skykomish, Washington",US
+"Cabin in Hancock, New York, US",Cabin,The Catskill A-Frame - Mid-Century Modern Cabin,[],0,Jun 6 - 11,Jun,6,Jun,11,485.0,4.77 (146),4.77,146.0,"Hancock, New York, US","Hancock, New York",US
+"Cabin in West Farmington, Ohio, US",Cabin,The Triangle: A-Frame Cabin for your city retreat,[],0,Jul 9 - 14,Jul,9,Jul,14,119.0,4.91 (515),4.91,515.0,"West Farmington, Ohio, US","West Farmington, Ohio",US
+"Home in Blue Ridge, Georgia, US",Home,*Summer Sizzle* 5 Min to Blue Ridge* Pets* Hot tub,['Jacuzzi'],1,Jun 11 - 16,Jun,11,Jun,16,192.0,4.94 (88),4.94,88.0,"Blue Ridge, Georgia, US","Blue Ridge, Georgia",US
+"Treehouse in Grandview, Texas, US",Treehouse,Luxury Treehouse Couples Getaway w/ Peaceful Views,[],0,Jun 4 - 9,Jun,4,Jun,9,232.0,4.99 (222),4.99,222.0,"Grandview, Texas, US","Grandview, Texas",US
+"Tiny home in Puerto Escondido, Mexico",Tiny home,Casa Tiny near Casa Wabi,[],0,Jun 21 - 26,Jun,21,Jun,26,261.0,4.84 (555),4.84,555.0,"Puerto Escondido, Mexico",Puerto Escondido,Mexico
+"Home in Saco, Maine, US",Home,The Beach House. Oceanfront & Sunrise Views!,[],0,Jun 4 - 9,Jun,4,Jun,9,607.0,4.64 (90),4.64,90.0,"Saco, Maine, US","Saco, Maine",US
+"Chalet in Grand Étang, Canada",Chalet,• Cedar Peak • 2 Bedroom Barrier-Free Chalet,[],0,Jun 8 - 15,Jun,8,Jun,15,381.0,5.0 (48),5.0,48.0,"Grand Étang, Canada",Grand Étang,Canada
+"Room in Mexico City, Mexico",Room,"Room in apartment, traditional neighborhood",[],0,Jul 3 - 8,Jul,3,Jul,8,29.0,4.84 (58),4.84,58.0,"Mexico City, Mexico",Mexico City,Mexico
+"Tiny home in Sandy Valley, Nevada, US",Tiny home,Peacock Tiny House near Las Vegas,[],0,Jun 26 - Jul 1,Jun,26,Jul,1,154.0,4.92 (744),4.92,744.0,"Sandy Valley, Nevada, US","Sandy Valley, Nevada",US
+"Guest suite in Huntsville, Canada",Guest suite,Hidden Valley’s Guest Suite - explore nature,['Nature'],1,Sep 4 - 10,Sep,4,Sep,10,207.0,4.97 (265),4.97,265.0,"Huntsville, Canada",Huntsville,Canada
+"Cabin in Nelson, Canada",Cabin,Downey Family Cabin. Barrel Sauna Included!,['Sauna'],1,Jun 1 - 6,Jun,1,Jun,6,162.0,4.99 (226),4.99,226.0,"Nelson, Canada",Nelson,Canada
+"Dome in Joshua Tree, California, US",Dome,Dome in the Desert in Joshua Tree,[],0,Jun 1 - 6,Jun,1,Jun,6,268.0,4.94 (944),4.94,944.0,"Joshua Tree, California, US","Joshua Tree, California",US
+"Barn in Vero Beach, Florida, US",Barn,Private Barn Studio at Pura Vida Florida Farm,[],0,Sep 11 - 16,Sep,11,Sep,16,111.0,4.95 (417),4.95,417.0,"Vero Beach, Florida, US","Vero Beach, Florida",US
+"Tiny home in Bolton, Vermont, US",Tiny home,Cozy Tiny House Cabin between Burlington and Stowe,[],0,Jun 1 - 6,Jun,1,Jun,6,174.0,4.97 (372),4.97,372.0,"Bolton, Vermont, US","Bolton, Vermont",US
+"Cabin in Ucluelet, Canada",Cabin,Peace Cabin - private waterfront forest retreat,['Waterfront'],1,Sep 8 - 13,Sep,8,Sep,13,497.0,4.99 (69),4.99,69.0,"Ucluelet, Canada",Ucluelet,Canada
+"Barn in Essex, Canada",Barn,14th Homestead Barn Loft,[],0,Jun 11 - 16,Jun,11,Jun,16,163.0,4.9 (289),4.9,289.0,"Essex, Canada",Essex,Canada
+"Apartment in Bacalar, Mexico",Apartment,"Lagoon Front Hut: Daily Cleaning, Bikes & Kayaks!",[],0,Jun 18 - 23,Jun,18,Jun,23,141.0,4.89 (633),4.89,633.0,"Bacalar, Mexico",Bacalar,Mexico
+"Treehouse in Travelers Rest, South Carolina, US",Treehouse,The Forestry House - A modern luxury treehouse.,[],0,Aug 20 - 25,Aug,20,Aug,25,282.0,New,,,"Travelers Rest, South Carolina, US","Travelers Rest, South Carolina",US
+"Farm stay in Del Norte County, California, US",Farm stay,Underground Hobbit Hole @ Sustainable Ecovillage,[],0,Jun 9 - 14,Jun,9,Jun,14,89.0,4.54 (195),4.54,195.0,"Del Norte County, California, US","Del Norte County, California",US
+"Treehouse in San Carlos, Costa Rica",Treehouse,Rainforest Tree House with Hot Springs,[],0,Aug 31 - Sep 5,Aug,31,Sep,5,132.0,4.84 (763),4.84,763.0,"San Carlos, Costa Rica",San Carlos,Costa Rica
+"Treehouse in Frazeysburg, Ohio, US",Treehouse,Tullihas in the Trees Off-Grid Treehouse,[],0,Jun 4 - 9,Jun,4,Jun,9,143.0,4.98 (181),4.98,181.0,"Frazeysburg, Ohio, US","Frazeysburg, Ohio",US
+"Cabin in Rodney, Canada",Cabin,SECLUDED LAKESIDE CABIN,[],0,Jul 23 - 28,Jul,23,Jul,28,463.0,4.99 (172),4.99,172.0,"Rodney, Canada",Rodney,Canada
+"Room in La Habana, Cuba",Room,Fauria Colonial House (Room 3),[],0,Jun 21 - 26,Jun,21,Jun,26,29.0,4.92 (75),4.92,75.0,"La Habana, Cuba",La Habana,Cuba
+"Dome in Terlingua, Texas, US",Dome,Domeland: Off-grid Adobe Dome near Big Bend,[],0,Jul 9 - 14,Jul,9,Jul,14,136.0,4.95 (863),4.95,863.0,"Terlingua, Texas, US","Terlingua, Texas",US
+"Home in Port Angeles, Washington, US",Home,Lake Sutherland Waterfront Cabin w/ Expansive Dock,['Waterfront'],1,Sep 1 - 6,Sep,1,Sep,6,688.0,4.82 (83),4.82,83.0,"Port Angeles, Washington, US","Port Angeles, Washington",US
+"Treehouse in Fredericksburg, Texas, US",Treehouse,Luxury Tree House X Magical Romantic Forest! Pool!,['Pool'],1,Jun 18 - 23,Jun,18,Jun,23,658.0,4.91 (142),4.91,142.0,"Fredericksburg, Texas, US","Fredericksburg, Texas",US
+"Cottage in Harcourt, Canada",Cottage,Scandinavian-Inspired Tiny Home Experience,[],0,Sep 3 - 8,Sep,3,Sep,8,392.0,4.98 (95),4.98,95.0,"Harcourt, Canada",Harcourt,Canada
+"Tiny home in Medellín, Colombia",Tiny home,Tiny House Cubo Nube Santa Elena 40 min. Medellin.,[],0,Jun 17 - 22,Jun,17,Jun,22,67.0,4.95 (197),4.95,197.0,"Medellín, Colombia",Medellín,Colombia
+"Cabin in Medellín, Colombia",Cabin,Chalet Boutique Saltamontes Santa Elena,[],0,Jun 4 - 9,Jun,4,Jun,9,51.0,4.94 (232),4.94,232.0,"Medellín, Colombia",Medellín,Colombia
+"Cabin in Bryson City, North Carolina, US",Cabin,Secluded View! A-Frame Hot Tub and Fire Pit,['Jacuzzi'],1,Jun 19 - 24,Jun,19,Jun,24,354.0,4.95 (20),4.95,20.0,"Bryson City, North Carolina, US","Bryson City, North Carolina",US
+"Place to stay in Retiro, Colombia",Place to stay,★ BubbleSky Glamping ★ One Night Under Stars ★3,[],0,Jun 23 - 28,Jun,23,Jun,28,107.0,4.9 (154),4.9,154.0,"Retiro, Colombia",Retiro,Colombia
+"Cabin in Bluefields, Jamaica",Cabin,Cozy Oceanview Cabin,[],0,Jul 14 - 21,Jul,14,Jul,21,102.0,4.88 (76),4.88,76.0,"Bluefields, Jamaica",Bluefields,Jamaica
+"Hut in Bavaro, Dominican Republic",Hut,Hut #1 Romantic Luxury Beachfront,['Ocean front'],1,Jul 1 - 6,Jul,1,Jul,6,171.0,4.89 (377),4.89,377.0,"Bavaro, Dominican Republic",Bavaro,Dominican Republic
+"Treehouse in Marion, North Carolina, US",Treehouse,Treehouse w/Breathtaking Views+HotTub+Hiking+Falls,[],0,Aug 12 - 17,Aug,12,Aug,17,286.0,5.0 (21),5.0,21.0,"Marion, North Carolina, US","Marion, North Carolina",US
+"Dome in Sandgate, Vermont, US",Dome,“Whimsical Stone Abode” - Boston Magazine,[],0,Jun 6 - 11,Jun,6,Jun,11,301.0,5.0 (244),5.0,244.0,"Sandgate, Vermont, US","Sandgate, Vermont",US
+"Condo in Puerto Vallarta, Mexico",Condo,Buddha Loft in Romantic Zone of Puerto Vallarta,[],0,Jul 12 - 17,Jul,12,Jul,17,112.0,4.85 (175),4.85,175.0,"Puerto Vallarta, Mexico",Puerto Vallarta,Mexico
+"Cabin in Sanbornton, New Hampshire, US",Cabin,The G Frame...an offGrid Cabin + woodstove sauna,['Sauna'],1,Jun 4 - 9,Jun,4,Jun,9,169.0,4.96 (395),4.96,395.0,"Sanbornton, New Hampshire, US","Sanbornton, New Hampshire",US
+"Room in La Habana, Cuba",Room,Casa Blanca B&B with beautiful terrace &sea views,[],0,Sep 11 - 16,Sep,11,Sep,16,43.0,4.82 (359),4.82,359.0,"La Habana, Cuba",La Habana,Cuba
+"Home in Moss Beach, California, US",Home,Walk to the Beach from this Ocean Front Home,['Ocean front'],1,Jun 1 - 6,Jun,1,Jun,6,1463.0,4.94 (149),4.94,149.0,"Moss Beach, California, US","Moss Beach, California",US
+"Cottage in Wheatley, Canada",Cottage,"Cozy Modern Beach House w/ Pool, Hot Tub & More!","['Jacuzzi', 'Pool']",2,Jun 4 - 11,Jun,4,Jun,11,764.0,4.74 (19),4.74,19.0,"Wheatley, Canada",Wheatley,Canada
+"Cabin in Topanga, California, US",Cabin,"Crystal Cabin, Restored Vintage Lodge in Topanga State Park",[],0,Jun 3 - 8,Jun,3,Jun,8,225.0,4.94 (209),4.94,209.0,"Topanga, California, US","Topanga, California",US
+"Chalet in Cajicá, Colombia",Chalet,Casa Anís,[],0,Jun 1 - 6,Jun,1,Jun,6,40.0,4.96 (202),4.96,202.0,"Cajicá, Colombia",Cajicá,Colombia
+"Cabin in Center Conway, New Hampshire, US",Cabin,Warm Pine A-frame Nestled In The Trees!,[],0,Jul 1 - 6,Jul,1,Jul,6,287.0,4.79 (536),4.79,536.0,"Center Conway, New Hampshire, US","Center Conway, New Hampshire",US
+"Cottage in Renous, Canada",Cottage,Hambrook Point Cottage “Homestead”,[],0,Jun 25 - 30,Jun,25,Jun,30,93.0,4.87 (360),4.87,360.0,"Renous, Canada",Renous,Canada
+"Tiny home in Huntsville, Missouri, US",Tiny home,O’s Barn Cabin,[],0,Jul 4 - 9,Jul,4,Jul,9,118.0,4.94 (296),4.94,296.0,"Huntsville, Missouri, US","Huntsville, Missouri",US
+"Tiny home in Castleton, Canada",Tiny home,"Artsy ""Glamping"" experience",[],0,Jul 21 - 26,Jul,21,Jul,26,138.0,4.91 (278),4.91,278.0,"Castleton, Canada",Castleton,Canada
+"Cottage in Bodega Bay, California, US",Cottage,"Seamist Beach Cottage, Private Beach & Ocean views",[],0,Aug 13 - 18,Aug,13,Aug,18,670.0,4.7 (256),4.7,256.0,"Bodega Bay, California, US","Bodega Bay, California",US
+"Cabin in Rocky View County, Canada",Cabin,100+ Year old Rustic Log Cabin near Ghost Lake,[],0,Aug 25 - 30,Aug,25,Aug,30,135.0,4.83 (459),4.83,459.0,"Rocky View County, Canada",Rocky View County,Canada
+"Houseboat in Low, Canada",Houseboat,The Dragon + Private Island,[],0,Jun 1 - 6,Jun,1,Jun,6,178.0,4.87 (61),4.87,61.0,"Low, Canada",Low,Canada
+"Guesthouse in Key Largo, Florida, US",Guesthouse,"Private Cottage, enjoy beach, sunsets & fishing.",[],0,Jul 11 - 16,Jul,11,Jul,16,218.0,4.89 (314),4.89,314.0,"Key Largo, Florida, US","Key Largo, Florida",US
+"Condo in Malibu, California, US",Condo,"Malibu, Carbon Beach - Suite Seven",[],0,Jun 6 - 13,Jun,6,Jun,13,898.0,4.86 (311),4.86,311.0,"Malibu, California, US","Malibu, California",US
+"Cottage in Petit-Tracadie, Canada",Cottage,Waterfront Cottage #1 /Waterfront cottage,['Waterfront'],1,Jun 4 - 9,Jun,4,Jun,9,144.0,4.92 (267),4.92,267.0,"Petit-Tracadie, Canada",Petit-Tracadie,Canada
+"Cabin in Jarratt, Virginia, US",Cabin,Harrell’s Cabin,[],0,Jun 4 - 9,Jun,4,Jun,9,125.0,4.82 (612),4.82,612.0,"Jarratt, Virginia, US","Jarratt, Virginia",US
+"Cabin in El Peñol, Colombia",Cabin,6 Ibuku Big Cabin by Lake Jacuzzi Kayak,"['Jacuzzi', 'Kayak']",2,Jun 12 - 17,Jun,12,Jun,17,220.0,4.93 (46),4.93,46.0,"El Peñol, Colombia",El Peñol,Colombia
+"Guest suite in North Vancouver, Canada",Guest suite,The Brite House - Oceanfront Sojourn,[],0,Jun 6 - 11,Jun,6,Jun,11,305.0,4.87 (319),4.87,319.0,"North Vancouver, Canada",North Vancouver,Canada
+"Home in Shirley, Canada",Home,♨ Cedar Coast Lodge - Coastal retreat w/ HOT TUB,['Jacuzzi'],1,Jun 4 - 9,Jun,4,Jun,9,480.0,4.82 (125),4.82,125.0,"Shirley, Canada",Shirley,Canada
+"Apartment in Miami, Florida, US",Apartment,"LUXURY 5★s ICON BRICKELL CONDO@47TH, GYM/POOL",['Pool'],1,Jun 27 - Jul 4,Jun,27,Jul,4,398.0,4.89 (605),4.89,605.0,"Miami, Florida, US","Miami, Florida",US
+"Room in Kansas City, Missouri, US",Room,Mansion in the Park - garden view queen en suite,[],0,Jun 4 - 10,Jun,4,Jun,10,148.0,4.99 (93),4.99,93.0,"Kansas City, Missouri, US","Kansas City, Missouri",US
+"Dome in Lac-Supérieur, Canada",Dome,Dome L'Albatros | Private Spa | BBQ Zone,[],0,Jul 25 - 31,Jul,25,Jul,31,322.0,4.86 (196),4.86,196.0,"Lac-Supérieur, Canada",Lac-Supérieur,Canada
+"Chalet in Saint-Damien, Canada",Chalet,The Majesta ! Incredible Sunset !,[],0,Jun 1 - 6,Jun,1,Jun,6,315.0,5.0 (11),5.0,11.0,"Saint-Damien, Canada",Saint-Damien,Canada
+"Home in Tulum, Mexico",Home,"Heaven Lodge, entire house surrounded by nature",['Nature'],1,Jun 2 - 7,Jun,2,Jun,7,128.0,4.86 (155),4.86,155.0,"Tulum, Mexico",Tulum,Mexico
+"Apartment in Tulum, Mexico",Apartment,☆King Bed Apartment☆ Suk-Ha ☆ La Veleta,[],0,Jun 1 - 6,Jun,1,Jun,6,55.0,4.6 (73),4.6,73.0,"Tulum, Mexico",Tulum,Mexico
+"Chalet in Durham, Canada",Chalet,Newly-Constructed Riverfront Chalet,[],0,Jun 4 - 9,Jun,4,Jun,9,360.0,4.97 (95),4.97,95.0,"Durham, Canada",Durham,Canada
+"Tent in Island Park, Idaho, US",Tent,"Yellowstone Luxury Tent; sleeps 3, 1 king +1 futon",[],0,Jun 15 - 20,Jun,15,Jun,20,224.0,5.0 (31),5.0,31.0,"Island Park, Idaho, US","Island Park, Idaho",US
+"Cabin in Arrowbear Lake, California, US",Cabin,A-Frame Apogee | Hot Tub · Epic Views · Swing Set,['Jacuzzi'],1,Jun 19 - 24,Jun,19,Jun,24,227.0,4.96 (166),4.96,166.0,"Arrowbear Lake, California, US","Arrowbear Lake, California",US
+"Home in Borinquen, Puerto Rico",Home,The Nest at Crash Boat. Only waterfront on Beach,['Waterfront'],1,Aug 7 - 12,Aug,7,Aug,12,363.0,4.9 (143),4.9,143.0,"Borinquen, Puerto Rico",Borinquen,Puerto Rico
+"Cottage in Wasaga Beach, Canada",Cottage,Cozy Riverfront Cottage Retreat with Dock,[],0,Jun 11 - 16,Jun,11,Jun,16,232.0,4.84 (55),4.84,55.0,"Wasaga Beach, Canada",Wasaga Beach,Canada
+"Tiny home in Blockhouse, Canada",Tiny home,The Ruby -A Rustic Red Ark tiny home,[],0,Jun 18 - 23,Jun,18,Jun,23,81.0,4.98 (43),4.98,43.0,"Blockhouse, Canada",Blockhouse,Canada
+"Guesthouse in Peachland, Canada",Guesthouse,Romantic lakefront estate with lake view & deck,[],0,Jun 2 - 7,Jun,2,Jun,7,271.0,5.0 (311),5.0,311.0,"Peachland, Canada",Peachland,Canada
+"Cabin in Shaftsbury, Vermont, US",Cabin,The Vermont Dream Cabin on 70 Acres,[],0,Jun 4 - 9,Jun,4,Jun,9,219.0,4.89 (136),4.89,136.0,"Shaftsbury, Vermont, US","Shaftsbury, Vermont",US
+"Cabin in Tulum, Mexico",Cabin,Jungle Lodge at Nahouse in Tulum,[],0,Jun 1 - 6,Jun,1,Jun,6,109.0,,,,"Tulum, Mexico",Tulum,Mexico
+"Dome in Windermere, Canada",Dome,Cougar Dome at Winderdome Resort!,[],0,Aug 27 - Sep 1,Aug,27,Sep,1,335.0,5.0 (16),5.0,16.0,"Windermere, Canada",Windermere,Canada
+"Condo in Myrtle Beach, South Carolina, US",Condo,Cool Clean Condo with Brilliant Oceanfront View,[],0,Jun 25 - Jul 1,Jun,25,Jul,1,261.0,4.58 (108),4.58,108.0,"Myrtle Beach, South Carolina, US","Myrtle Beach, South Carolina",US
+"Hotel room in Laguna Beach, California, US",Hotel room,Beachfront Laguna Beach Magnificent Oceanviews 26,['Ocean front'],1,Jun 1 - 6,Jun,1,Jun,6,287.0,4.38 (396),4.38,396.0,"Laguna Beach, California, US","Laguna Beach, California",US
+"Apartment in Playa del Carmen, Mexico",Apartment,"Su mejor opción en Playa del Carmen, a pasos de la quinta av.",[],0,Jun 4 - 9,Jun,4,Jun,9,89.0,4.78 (231),4.78,231.0,"Playa del Carmen, Mexico",Playa del Carmen,Mexico
+"Tiny home in Maynooth, Canada",Tiny home,Cozy Cabin #2 - private cabin in the wilderness!,[],0,Jun 4 - 9,Jun,4,Jun,9,71.0,4.89 (90),4.89,90.0,"Maynooth, Canada",Maynooth,Canada
+"Guesthouse in Cabo Rojo, Puerto Rico",Guesthouse,Villa Vista Puerto,[],0,Jun 26 - Jul 1,Jun,26,Jul,1,138.0,4.86 (493),4.86,493.0,"Cabo Rojo, Puerto Rico",Cabo Rojo,Puerto Rico
+"Tiny home in Canning, Canada",Tiny home,Split View Two,[],0,Aug 2 - 7,Aug,2,Aug,7,134.0,4.95 (81),4.95,81.0,"Canning, Canada",Canning,Canada
+"Cottage in Luquillo, Puerto Rico",Cottage,The Sugar Shack a unique cabin in the Rainforest,[],0,Sep 4 - 9,Sep,4,Sep,9,75.0,4.92 (447),4.92,447.0,"Luquillo, Puerto Rico",Luquillo,Puerto Rico
+"Condo in Lahaina, Hawaii, US",Condo,Noelani-My Perfect Stays Special: Jun 9-16 $189,[],0,Jun 9 - 14,Jun,9,Jun,14,302.0,4.82 (71),4.82,71.0,"Lahaina, Hawaii, US","Lahaina, Hawaii",US
+"Condo in Hollywood, Florida, US",Condo,Amazing Hyde One-bedroom apartment on the Beach,[],0,Jun 4 - 9,Jun,4,Jun,9,248.0,4.56 (62),4.56,62.0,"Hollywood, Florida, US","Hollywood, Florida",US
+"Cabin in Naples, New York, US",Cabin,East hill cabins #1,[],0,Jun 11 - 16,Jun,11,Jun,16,91.0,4.82 (334),4.82,334.0,"Naples, New York, US","Naples, New York",US
+"Campsite in Nemaiah Valley, Canada",Campsite,Sunset Wilderness Camp,[],0,Jun 1 - 6,Jun,1,Jun,6,34.0,4.0 (3),4.0,3.0,"Nemaiah Valley, Canada",Nemaiah Valley,Canada
+"Loft in The Blue Mountains, Canada",Loft,Chateau Ridge Chalet w/ Mountain View,[],0,Jun 5 - 12,Jun,5,Jun,12,154.0,4.84 (95),4.84,95.0,"The Blue Mountains, Canada",The Blue Mountains,Canada
+"Loft in The Blue Mountains, Canada",Loft,Cozy Blue Mountain Retreat @!@Spring Rates@!@,[],0,Jun 4 - 9,Jun,4,Jun,9,118.0,4.72 (365),4.72,365.0,"The Blue Mountains, Canada",The Blue Mountains,Canada
+"Room in Mexico City, Mexico",Room,5 min to Airport with Terrace in a Safe area !,[],0,Jun 3 - 8,Jun,3,Jun,8,31.0,4.85 (227),4.85,227.0,"Mexico City, Mexico",Mexico City,Mexico
+"Tiny home in Komoka, Canada",Tiny home,The Cabin at Fernwood Hills,[],0,Jun 11 - 16,Jun,11,Jun,16,112.0,4.9 (597),4.9,597.0,"Komoka, Canada",Komoka,Canada
+"Place to stay in Punta Cana, Dominican Republic",Place to stay,Hut #3 Romantic Luxury on the sand,[],0,Jul 11 - 16,Jul,11,Jul,16,132.0,4.86 (29),4.86,29.0,"Punta Cana, Dominican Republic",Punta Cana,Dominican Republic
+"Home in Hilbert, Wisconsin, US",Home,State Park A-Frame with Hiking Trails & Arcade,[],0,Jun 4 - 9,Jun,4,Jun,9,239.0,4.97 (29),4.97,29.0,"Hilbert, Wisconsin, US","Hilbert, Wisconsin",US
+"Dome in Whittier, North Carolina, US",Dome,Luxury Dome w/ Hot Tub & Mountain View,['Jacuzzi'],1,Aug 7 - 12,Aug,7,Aug,12,291.0,5.0 (11),5.0,11.0,"Whittier, North Carolina, US","Whittier, North Carolina",US
+"Home in Puntarenas Province, Costa Rica",Home,House with pool in the heights of Santa Teresa,['Pool'],1,Jun 4 - 9,Jun,4,Jun,9,230.0,5.0 (6),5.0,6.0,"Puntarenas Province, Costa Rica",Puntarenas Province,Costa Rica
+"Loft in Monteverde, Costa Rica",Loft,Kapetsowa Container Loft near Monteverde Reserve,[],0,Sep 5 - 10,Sep,5,Sep,10,159.0,4.87 (396),4.87,396.0,"Monteverde, Costa Rica",Monteverde,Costa Rica
+"Nature lodge in Quesada, Costa Rica",Nature lodge,Cabin Over a water fall,[],0,Jun 5 - 10,Jun,5,Jun,10,82.0,4.94 (133),4.94,133.0,"Quesada, Costa Rica",Quesada,Costa Rica
+"Boat in Key West, Florida, US",Boat,Cozy Houseboat “Wild One”,[],0,Jun 11 - 16,Jun,11,Jun,16,233.0,5.0 (4),5.0,4.0,"Key West, Florida, US","Key West, Florida",US
+"Cabin in Zapotal, Costa Rica",Cabin,Pipe’s Lodge,[],0,Jun 4 - 9,Jun,4,Jun,9,51.0,4.87 (31),4.87,31.0,"Zapotal, Costa Rica",Zapotal,Costa Rica
+"Guesthouse in Destin, Florida, US",Guesthouse,New Carriage House * 1 Block to Beach * King Bed!,[],0,Aug 13 - 18,Aug,13,Aug,18,231.0,New,,,"Destin, Florida, US","Destin, Florida",US
+"Tiny home in Playa Hermosa, Costa Rica",Tiny home,Beachfront Bungalow with private hydromassage Pool,"['Ocean front', 'Pool']",2,Jul 3 - 9,Jul,3,Jul,9,162.0,4.95 (149),4.95,149.0,"Playa Hermosa, Costa Rica",Playa Hermosa,Costa Rica
+"Home in Bellingham, Washington, US",Home,Bellingham A-Frame - Hot tub & Firepit,['Jacuzzi'],1,Jun 11 - 16,Jun,11,Jun,16,232.0,New,,,"Bellingham, Washington, US","Bellingham, Washington",US
+"Apartment in San Juan, Puerto Rico",Apartment,"Villa Bohème 3, 1BR with Patio",[],0,Jul 8 - 13,Jul,8,Jul,13,115.0,New,,,"San Juan, Puerto Rico",San Juan,Puerto Rico
+"Loft in Mexico City, Mexico",Loft,Loft Boutique Cd de México Mountain view 🏔,[],0,Jul 9 - 14,Jul,9,Jul,14,57.0,4.84 (155),4.84,155.0,"Mexico City, Mexico",Mexico City,Mexico
+"Cabin in Gold Bar, Washington, US",Cabin,New lux cabin w/mount index view,[],0,Jun 25 - 30,Jun,25,Jun,30,253.0,4.86 (7),4.86,7.0,"Gold Bar, Washington, US","Gold Bar, Washington",US
+"Home in Malibu, California, US",Home,Guesthouse Great Ocean & Mountain Views near Beach,[],0,Jul 31 - Aug 5,Jul,31,Aug,5,468.0,4.87 (694),4.87,694.0,"Malibu, California, US","Malibu, California",US
+"Tiny home in Orlando, Florida, US",Tiny home,The Little Tree House at Country Club of Orlando,[],0,Jul 9 - 14,Jul,9,Jul,14,127.0,4.98 (604),4.98,604.0,"Orlando, Florida, US","Orlando, Florida",US
+"Boat in Marathon, Florida, US",Boat,Paradise awaits on this cozy houseboat!,[],0,Jul 17 - 22,Jul,17,Jul,22,276.0,4.77 (98),4.77,98.0,"Marathon, Florida, US","Marathon, Florida",US
+"Hut in Uvero Alto - Bavaro - Punta Cana, Dominican Republic",Hut,Hut #2 Romantic Luxury on the sand,[],0,Aug 1 - 6,Aug,1,Aug,6,186.0,4.94 (226),4.94,226.0,"Uvero Alto - Bavaro - Punta Cana, Dominican Republic",Uvero Alto - Bavaro - Punta Cana,Dominican Republic
+"Loft in Mazamitla, Mexico",Loft,Loft ALAMO /El Refugio Cabañas Mazamitla,[],0,Jun 25 - 30,Jun,25,Jun,30,58.0,4.44 (146),4.44,146.0,"Mazamitla, Mexico",Mazamitla,Mexico
+"Apartment in Punta Cana, Dominican Republic",Apartment,Pool View Beach Residence / Private Beach Access,['Pool'],1,Jun 21 - 26,Jun,21,Jun,26,37.0,4.71 (156),4.71,156.0,"Punta Cana, Dominican Republic",Punta Cana,Dominican Republic
+"Treehouse in Wardensville, West Virginia, US",Treehouse,Eagles Nest Treehouse w/Hot tub!,['Jacuzzi'],1,Jun 4 - 10,Jun,4,Jun,10,244.0,New,,,"Wardensville, West Virginia, US","Wardensville, West Virginia",US
+"Boat in Stuart, Florida, US",Boat,Modern Houseboat On the water,[],0,Aug 6 - 11,Aug,6,Aug,11,173.0,4.97 (264),4.97,264.0,"Stuart, Florida, US","Stuart, Florida",US
+"Apartment in Playa del Carmen, Mexico",Apartment,BoHo lofts & studios new modern w/ ocean-view pool,['Pool'],1,Jun 1 - 7,Jun,1,Jun,7,38.0,4.59 (183),4.59,183.0,"Playa del Carmen, Mexico",Playa del Carmen,Mexico
+"Condo in Miami Beach, Florida, US",Condo,Oceanfront 14th Floor Brand New Beachfront Flat,['Ocean front'],1,Jun 14 - 19,Jun,14,Jun,19,302.0,4.85 (646),4.85,646.0,"Miami Beach, Florida, US","Miami Beach, Florida",US
+"Earthen home in Weaverville, North Carolina, US",Earthen home,Hobbithenge,[],0,Jun 5 - 10,Jun,5,Jun,10,142.0,4.83 (304),4.83,304.0,"Weaverville, North Carolina, US","Weaverville, North Carolina",US
+"Shipping container in Playa Hermosa, Costa Rica",Shipping container,Beachfront Bungalow w/ private hydromassage pool 2,"['Ocean front', 'Pool']",2,Jun 10 - 15,Jun,10,Jun,15,147.0,4.9 (68),4.9,68.0,"Playa Hermosa, Costa Rica",Playa Hermosa,Costa Rica
+"Cabin in Marion, North Carolina, US",Cabin,"Luxury Treehouse, Romantic, Views, Hike-Waterfall",[],0,Jul 29 - Aug 3,Jul,29,Aug,3,228.0,5.0 (18),5.0,18.0,"Marion, North Carolina, US","Marion, North Carolina",US
+"Camper/RV in Half Moon Bay, California, US",Camper/RV,Quiet and Private Retreat in a 1967 Airstream on the Coast.,[],0,Jun 25 - 30,Jun,25,Jun,30,220.0,4.93 (347),4.93,347.0,"Half Moon Bay, California, US","Half Moon Bay, California",US
+"Dome in Hiawassee, Georgia, US",Dome,Tiny Dome River Glamping Experience,[],0,Jun 18 - 23,Jun,18,Jun,23,143.0,4.86 (289),4.86,289.0,"Hiawassee, Georgia, US","Hiawassee, Georgia",US
+"Apartment in San José, Costa Rica",Apartment,New Boho Sabana Apartment Close to Airports w/ AC,['Air conditioning'],1,Jun 23 - 28,Jun,23,Jun,28,89.0,4.85 (81),4.85,81.0,"San José, Costa Rica",San José,Costa Rica
+"Condo in Rosarito, Mexico",Condo,Elegant Ocean Front Condo! Rosarito Beach !WOW!!,['Ocean front'],1,Jun 10 - 15,Jun,10,Jun,15,171.0,4.81 (245),4.81,245.0,"Rosarito, Mexico",Rosarito,Mexico
+"Condo in Atlantic City, New Jersey, US",Condo,Highest Reviewed - Ocean Front + Free Parking!,"['Free parking', 'Ocean front', 'Parking']",3,Jun 18 - 23,Jun,18,Jun,23,170.0,4.85 (278),4.85,278.0,"Atlantic City, New Jersey, US","Atlantic City, New Jersey",US
+"Cabin in Santa Marta, Colombia",Cabin,The Dawn of Annapurna Cabin,[],0,Jul 29 - Aug 3,Jul,29,Aug,3,61.0,4.87 (188),4.87,188.0,"Santa Marta, Colombia",Santa Marta,Colombia
+"Home in Cabo San Lucas, Mexico",Home,"Cabo Center,Ocean view Great price!",['Ocean view'],1,Jun 6 - 11,Jun,6,Jun,11,55.0,4.94 (615),4.94,615.0,"Cabo San Lucas, Mexico",Cabo San Lucas,Mexico
+"Home in Kawartha Lakes, Canada",Home,nortehaus - Nordic and Japanese inspired escape,[],0,Jun 18 - 23,Jun,18,Jun,23,402.0,5.0 (24),5.0,24.0,"Kawartha Lakes, Canada",Kawartha Lakes,Canada
+"Loft in Cholula, Mexico",Loft,Architect's Loft in Cholula,[],0,Jun 18 - 23,Jun,18,Jun,23,32.0,4.81 (202),4.81,202.0,"Cholula, Mexico",Cholula,Mexico
+"Cabin in Jacó, Costa Rica",Cabin,Jungle house 3km to Jaco beach & town center,[],0,Jun 30 - Jul 5,Jun,30,Jul,5,76.0,4.84 (153),4.84,153.0,"Jacó, Costa Rica",Jacó,Costa Rica
+"Tiny home in Malibu, California, US",Tiny home,"Malibu Charming GH, Mins Drive to Beach & Hike",[],0,Jul 22 - 27,Jul,22,Jul,27,332.0,4.78 (558),4.78,558.0,"Malibu, California, US","Malibu, California",US
+"Apartment in Orlando, Florida, US",Apartment,Studio near Disney,[],0,Jun 10 - 15,Jun,10,Jun,15,80.0,4.43 (132),4.43,132.0,"Orlando, Florida, US","Orlando, Florida",US
+"Treehouse in Río Grande, Puerto Rico",Treehouse,Charming Treehouse with Pool,['Pool'],1,Sep 10 - 15,Sep,10,Sep,15,217.0,5.0 (172),5.0,172.0,"Río Grande, Puerto Rico",Río Grande,Puerto Rico
+"Loft in Mazatlán, Mexico",Loft,Oceanfront loft,[],0,Jun 10 - 15,Jun,10,Jun,15,100.0,4.92 (177),4.92,177.0,"Mazatlán, Mexico",Mazatlán,Mexico
+"Apartment in Cancún, Mexico",Apartment,Majestic Ocean Front Terrace II,['Ocean front'],1,Jul 23 - 29,Jul,23,Jul,29,57.0,4.83 (240),4.83,240.0,"Cancún, Mexico",Cancún,Mexico
+"Home in Real Montecassino, Mexico",Home,New! Bamboo Bosque Mio (Stars & Campfires),[],0,Jun 4 - 9,Jun,4,Jun,9,113.0,4.82 (56),4.82,56.0,"Real Montecassino, Mexico",Real Montecassino,Mexico
+"Cottage in Huntsville, Canada",Cottage,"Cabin for 2 w/ Hot Tub, Muskoka Romantic Getaway",['Jacuzzi'],1,Jun 1 - 6,Jun,1,Jun,6,335.0,4.97 (179),4.97,179.0,"Huntsville, Canada",Huntsville,Canada
+"Apartment in La Habana, Cuba",Apartment,Old Havana+Cuban Style Place+Roof Top+WiFi,['Wi-Fi'],1,Jun 4 - 9,Jun,4,Jun,9,57.0,4.48 (161),4.48,161.0,"La Habana, Cuba",La Habana,Cuba
+"Home in Vero Beach, Florida, US",Home,"Heated Pool, Putt Putt Golf",['Pool'],1,Jun 11 - 16,Jun,11,Jun,16,468.0,4.93 (15),4.93,15.0,"Vero Beach, Florida, US","Vero Beach, Florida",US
+"Room in Cuauhtémoc, , Mexico",Room,Guest Suite in Historic Architecture Home,[],0,Jun 16 - 23,Jun,16,Jun,23,55.0,4.82 (443),4.82,443.0,"Cuauhtémoc, , Mexico","Cuauhtémoc,",Mexico
+"Condo in Kaunakakai, Hawaii, US",Condo,$87 a night Molokai Escape Condo,[],0,Jun 29 - Jul 6,Jun,29,Jul,6,101.0,4.76 (337),4.76,337.0,"Kaunakakai, Hawaii, US","Kaunakakai, Hawaii",US
+"Treehouse in Atenas, Costa Rica",Treehouse,Treehouse on a Coffee Farm with Ocean View,['Ocean view'],1,Jun 25 - Jul 2,Jun,25,Jul,2,74.0,5.0 (13),5.0,13.0,"Atenas, Costa Rica",Atenas,Costa Rica
+"Apartment in Tulum, Mexico",Apartment,Design Casa Patchouli with private pool and lounge,['Pool'],1,Jun 21 - 26,Jun,21,Jun,26,283.0,4.98 (80),4.98,80.0,"Tulum, Mexico",Tulum,Mexico
+"Shipping container in Jauca, Puerto Rico",Shipping container,Pequeño espacio Romántico piscina y muelle privado,[],0,Jul 17 - 22,Jul,17,Jul,22,220.0,4.95 (139),4.95,139.0,"Jauca, Puerto Rico",Jauca,Puerto Rico
+"Tiny home in Peachland, Canada",Tiny home,Haven in the Woods- tiny home WiFi & solar power,['Wi-Fi'],1,Jun 11 - 16,Jun,11,Jun,16,76.0,5.0 (4),5.0,4.0,"Peachland, Canada",Peachland,Canada
+"Shipping container in Puerto Viejo de Talamanca, Costa Rica",Shipping container,Mimosa Y - Beautiful Unique Container Home w' Pool,['Pool'],1,Jun 3 - 8,Jun,3,Jun,8,90.0,4.85 (54),4.85,54.0,"Puerto Viejo de Talamanca, Costa Rica",Puerto Viejo de Talamanca,Costa Rica
+"Apartment in Acapulco, Mexico",Apartment,COMFORTABLE BEACH DEPA OVERLOOKING THE SEA,[],0,Jun 4 - 9,Jun,4,Jun,9,42.0,4.57 (226),4.57,226.0,"Acapulco, Mexico",Acapulco,Mexico
+"Yurt in Airville, Pennsylvania, US",Yurt,Waterfront Glamping Muddy Creek PA,['Waterfront'],1,Jun 4 - 10,Jun,4,Jun,10,102.0,4.95 (22),4.95,22.0,"Airville, Pennsylvania, US","Airville, Pennsylvania",US
+"Boutique hotel in San Juan, Puerto Rico",Boutique hotel,2 Pools on property | Walk to the beach | Rosalina Ocean Park | Luxury Suite 3,[],0,Jul 27 - Aug 2,Jul,27,Aug,2,164.0,4.81 (212),4.81,212.0,"San Juan, Puerto Rico",San Juan,Puerto Rico
+"Room in Acapulco, Mexico",Room,Love nest when singing of the Sea!,[],0,Jun 6 - 11,Jun,6,Jun,11,41.0,4.68 (266),4.68,266.0,"Acapulco, Mexico",Acapulco,Mexico
+"Home in Pinilla, Costa Rica",Home,Casa La Paz vistas al mar @ Pinilla Highlands,[],0,Jul 30 - Aug 6,Jul,30,Aug,6,146.0,4.86 (7),4.86,7.0,"Pinilla, Costa Rica",Pinilla,Costa Rica
+"Farm stay in Siler City, North Carolina, US",Farm stay,Lovely farm cabin experience,[],0,Jun 11 - 16,Jun,11,Jun,16,114.0,5.0 (5),5.0,5.0,"Siler City, North Carolina, US","Siler City, North Carolina",US
+"Tiny home in Horning's Mills, Canada",Tiny home,Pine River Bunkies: Heron’s Landing Off Grid Cabin,[],0,Jun 1 - 6,Jun,1,Jun,6,120.0,4.89 (103),4.89,103.0,"Horning's Mills, Canada",Horning's Mills,Canada
+"Camper/RV in Ashford, Washington, US",Camper/RV,The Alpine Airstream at Mt. Rainier with Hot Tub,['Jacuzzi'],1,Jun 11 - 16,Jun,11,Jun,16,286.0,5.0 (11),5.0,11.0,"Ashford, Washington, US","Ashford, Washington",US
+"Bungalow in Newport Beach, California, US",Bungalow,"Surf, Sand & Sunsets - Goldenrod CdM BEACH STUDIO",[],0,Jul 31 - Aug 7,Jul,31,Aug,7,229.0,4.8 (289),4.8,289.0,"Newport Beach, California, US","Newport Beach, California",US
+"Hut in Guarne, Colombia",Hut,Refugio LOS PAPIROS,[],0,Jun 4 - 9,Jun,4,Jun,9,18.0,4.89 (66),4.89,66.0,"Guarne, Colombia",Guarne,Colombia
+"Room in Acapulco, Mexico",Room,Beach crab.,[],0,Jun 1 - 6,Jun,1,Jun,6,43.0,4.74 (270),4.74,270.0,"Acapulco, Mexico",Acapulco,Mexico
+"Cabin in Fennville, Michigan, US",Cabin,Fire & Water | Rejuvenating Stay on the Riverbend,[],0,Jun 4 - 9,Jun,4,Jun,9,743.0,4.83 (175),4.83,175.0,"Fennville, Michigan, US","Fennville, Michigan",US
+"Home in Tamanique, El Salvador",Home,Black rose -Right house-,[],0,Jun 11 - 16,Jun,11,Jun,16,243.0,4.63 (275),4.63,275.0,"Tamanique, El Salvador",Tamanique,El Salvador
+"Nature lodge in Las Galeras, Dominican Republic",Nature lodge,"Casa El Paraiso, Las Galeras (room #5)",[],0,Jun 10 - 15,Jun,10,Jun,15,286.0,4.94 (270),4.94,270.0,"Las Galeras, Dominican Republic",Las Galeras,Dominican Republic
+"Room in Monteverde, Costa Rica",Room,Holistic House Diamond,[],0,Jun 5 - 11,Jun,5,Jun,11,160.0,4.96 (274),4.96,274.0,"Monteverde, Costa Rica",Monteverde,Costa Rica
+"Tiny home in Malibu, California, US",Tiny home,"Malibu Serene Guest House, Mins to Beach & Hike",[],0,Jun 25 - 30,Jun,25,Jun,30,252.0,4.77 (298),4.77,298.0,"Malibu, California, US","Malibu, California",US
+"Apartment in Cancún, Mexico",Apartment,Free Transportation / Premium Beach Loft 1711th,[],0,Jun 1 - 6,Jun,1,Jun,6,138.0,5.0 (15),5.0,15.0,"Cancún, Mexico",Cancún,Mexico
+"Cabin in Gilmour, Canada",Cabin,Cozy cabin on 5 acres !,[],0,Jun 4 - 9,Jun,4,Jun,9,86.0,4.73 (124),4.73,124.0,"Gilmour, Canada",Gilmour,Canada
+"Condo in Ocean City, Maryland, US",Condo,OceanfrontStudio-Slps4-Pool-Pickleball-HBOMax-Dis+,['Pool'],1,Jun 9 - 16,Jun,9,Jun,16,291.0,4.94 (80),4.94,80.0,"Ocean City, Maryland, US","Ocean City, Maryland",US
+"Apartment in Cancún, Mexico",Apartment,Amazing Ocean Front II,['Ocean front'],1,Jul 9 - 14,Jul,9,Jul,14,45.0,4.88 (306),4.88,306.0,"Cancún, Mexico",Cancún,Mexico
+"Condo in Rosarito, Mexico",Condo,LUXE & STYLISH/3BR/LAS OLAS CONDO/12TH FLR/ROSARITO,[],0,Jun 11 - 16,Jun,11,Jun,16,173.0,4.8 (207),4.8,207.0,"Rosarito, Mexico",Rosarito,Mexico
+"Room in New York, New York, US",Room,"Lovely Private Room-Manhattan, 70s-Upper East Side",[],0,Jul 9 - 14,Jul,9,Jul,14,103.0,4.93 (30),4.93,30.0,"New York, New York, US","New York, New York",US
+"Cottage in Islamorada, Florida, US",Cottage,1 BD PRIVATE HOUSEBOAT/ COTTAGE TARPON,[],0,Aug 6 - 11,Aug,6,Aug,11,229.0,4.85 (74),4.85,74.0,"Islamorada, Florida, US","Islamorada, Florida",US
+"Apartment in Gordonville, Pennsylvania, US",Apartment,“What a wonderful world” - Modern Farmhouse,[],0,Jun 4 - 9,Jun,4,Jun,9,165.0,4.87 (478),4.87,478.0,"Gordonville, Pennsylvania, US","Gordonville, Pennsylvania",US
+"Cottage in Quintana Roo, Mexico",Cottage,Glass Roof House #2 at Glass 20.87,[],0,Jun 10 - 15,Jun,10,Jun,15,221.0,4.93 (68),4.93,68.0,"Quintana Roo, Mexico",Quintana Roo,Mexico
+"Cabin in Georgetown, Maine, US",Cabin,"Modern Cabin On Pond, AC & Porch",['Air conditioning'],1,Jun 2 - 7,Jun,2,Jun,7,231.0,New,,,"Georgetown, Maine, US","Georgetown, Maine",US
+"Apartment in Marina del Rey, California, US",Apartment,Romantic Ocean Penthouse w/ panoramic marina views,[],0,Jun 1 - 8,Jun,1,Jun,8,247.0,4.77 (111),4.77,111.0,"Marina del Rey, California, US","Marina del Rey, California",US
+"Hotel in Tepoztlán, Mexico",Hotel,Posada Sarita,[],0,Jun 3 - 10,Jun,3,Jun,10,50.0,4.56 (176),4.56,176.0,"Tepoztlán, Mexico",Tepoztlán,Mexico
+"Cottage in Oceanside, California, US",Cottage,"Beach Bungalow on the Sand, Steps to the Ocean",[],0,Jun 3 - 8,Jun,3,Jun,8,483.0,4.93 (213),4.93,213.0,"Oceanside, California, US","Oceanside, California",US
+"Apartment in Los Angeles, California, US",Apartment,Historic Venice Apt 1/2 blocks to beach+parking,['Parking'],1,Nov 16 - 21,Nov,16,Nov,21,185.0,4.94 (431),4.94,431.0,"Los Angeles, California, US","Los Angeles, California",US
+"Home in Cape Coral, Florida, US",Home,Amazing Modern Home with Pool and Hot Tub!,"['Jacuzzi', 'Pool']",2,Jul 11 - 16,Jul,11,Jul,16,167.0,4.84 (136),4.84,136.0,"Cape Coral, Florida, US","Cape Coral, Florida",US
+"Condo in Malibu, California, US",Condo,"Malibu, Carbon Beach - Suite Three",[],0,Jun 4 - 9,Jun,4,Jun,9,649.0,4.8 (425),4.8,425.0,"Malibu, California, US","Malibu, California",US
+"Farm stay in Saint Marys, Canada",Farm stay,Cozy Farm Stay Getaway,[],0,Jun 11 - 16,Jun,11,Jun,16,99.0,4.86 (183),4.86,183.0,"Saint Marys, Canada",Saint Marys,Canada
+"Tiny home in Mill Village, Canada",Tiny home,UpStream (Waterfront Cabin With Wood Stove & WiFi),"['Waterfront', 'Wi-Fi']",2,Jun 25 - 30,Jun,25,Jun,30,97.0,4.87 (101),4.87,101.0,"Mill Village, Canada",Mill Village,Canada
+"Place to stay in Tepoztlán, Mexico",Place to stay,M6. Alojamiento ideal para explorar Tepoztlán,[],0,Jun 25 - Jul 1,Jun,25,Jul,1,40.0,4.86 (28),4.86,28.0,"Tepoztlán, Mexico",Tepoztlán,Mexico
+"Cabin in Mineral Bluff, Georgia, US",Cabin,Scenic Solitude-Amazing Mountain views on 5 acres,[],0,Jun 4 - 9,Jun,4,Jun,9,302.0,5.0 (44),5.0,44.0,"Mineral Bluff, Georgia, US","Mineral Bluff, Georgia",US
+"Condo in Luquillo, Puerto Rico",Condo,“Playa Luna”- Breathtaking Ocean and City Views,[],0,Jul 2 - 7,Jul,2,Jul,7,138.0,4.88 (159),4.88,159.0,"Luquillo, Puerto Rico",Luquillo,Puerto Rico
+"Room in Malibu, California, US",Room,"Peace, Beauty & Ocean View, Malibu",['Ocean view'],1,Sep 12 - 17,Sep,12,Sep,17,189.0,4.95 (1014),4.95,1014.0,"Malibu, California, US","Malibu, California",US
+"Treehouse in Sundridge, Canada",Treehouse,Lount Treetop Rentals - Unit 2,[],0,Jun 1 - 6,Jun,1,Jun,6,135.0,4.97 (173),4.97,173.0,"Sundridge, Canada",Sundridge,Canada
+"Apartment in Galveston, Texas, US",Apartment,Beach Front Condo In Casa Del Mar,[],0,Jun 18 - 24,Jun,18,Jun,24,205.0,4.72 (389),4.72,389.0,"Galveston, Texas, US","Galveston, Texas",US
+"Apartment in Laguna Beach, California, US",Apartment,Laguna Beach Studio Oceanviews 49,[],0,Jun 1 - 6,Jun,1,Jun,6,148.0,4.36 (273),4.36,273.0,"Laguna Beach, California, US","Laguna Beach, California",US
+"Apartment in Punta Cana, Dominican Republic",Apartment,Charming Beach Condo in Bavaro Top Location,[],0,Jun 3 - 8,Jun,3,Jun,8,57.0,4.76 (200),4.76,200.0,"Punta Cana, Dominican Republic",Punta Cana,Dominican Republic
+"Cabin in Woodford, Vermont, US",Cabin,400+ Airbnb Visits: Incredible Mountain Cabin,[],0,Jun 4 - 9,Jun,4,Jun,9,137.0,4.85 (325),4.85,325.0,"Woodford, Vermont, US","Woodford, Vermont",US
+"Cabin in Bowen Island, Canada",Cabin,the legendary wildwood cabins ~ CABIN 2,[],0,Sep 24 - 29,Sep,24,Sep,29,126.0,4.99 (742),4.99,742.0,"Bowen Island, Canada",Bowen Island,Canada
+"Hotel room in Laguna Beach, California, US",Hotel room,Oceanfront Laguna Beach Amazing Views 28,[],0,Jun 4 - 9,Jun,4,Jun,9,276.0,4.63 (390),4.63,390.0,"Laguna Beach, California, US","Laguna Beach, California",US
+"Place to stay in Hopatcong, New Jersey, US",Place to stay,Lake Sports Home & Super water sports!,[],0,Aug 20 - 25,Aug,20,Aug,25,154.0,5.0 (18),5.0,18.0,"Hopatcong, New Jersey, US","Hopatcong, New Jersey",US
+"Guesthouse in Naples, Florida, US",Guesthouse,Waterfront Sea Cottage,['Waterfront'],1,Jun 13 - 18,Jun,13,Jun,18,82.0,4.8 (276),4.8,276.0,"Naples, Florida, US","Naples, Florida",US
+"Cabin in Reaboro, Canada",Cabin,Cedar Springs Cabin - A Cozy Hideaway in the Woods,[],0,Jun 16 - 21,Jun,16,Jun,21,346.0,4.97 (76),4.97,76.0,"Reaboro, Canada",Reaboro,Canada
+"Apartment in San José del Cabo, Mexico",Apartment,Beachfront at its finest @ San Jose del Cabo! 🤩🏄🏼‍♂️🏖,['Ocean front'],1,Jun 22 - 29,Jun,22,Jun,29,78.0,4.75 (186),4.75,186.0,"San José del Cabo, Mexico",San José del Cabo,Mexico
+"Cabin in Puerto Viejo de Talamanca, Costa Rica",Cabin,Tiny Beach front house,[],0,Jul 24 - 29,Jul,24,Jul,29,89.0,4.73 (140),4.73,140.0,"Puerto Viejo de Talamanca, Costa Rica",Puerto Viejo de Talamanca,Costa Rica
+"Tiny home in Tremont, Maine, US",Tiny home,Coyote's Den at The Howling Woods,[],0,Jun 28 - Jul 3,Jun,28,Jul,3,123.0,4.87 (303),4.87,303.0,"Tremont, Maine, US","Tremont, Maine",US
+"Home in Manzanita, Oregon, US",Home,"Near Ocean, BBQ, Dog OK, Cute Manzanita Beach",[],0,Jun 1 - 6,Jun,1,Jun,6,147.0,New,,,"Manzanita, Oregon, US","Manzanita, Oregon",US
+"Home in Hamilton, Canada",Home,Stunning house on lake Ontario,[],0,Jun 25 - 30,Jun,25,Jun,30,210.0,4.9 (192),4.9,192.0,"Hamilton, Canada",Hamilton,Canada
+"Tiny home in Key Largo, Florida, US",Tiny home,"Oceanfront Lookout Point w/two Kayaks,Beach & Dock",[],0,Aug 12 - 17,Aug,12,Aug,17,254.0,4.86 (90),4.86,90.0,"Key Largo, Florida, US","Key Largo, Florida",US
+"Hotel in Willemstad, Curaçao",Hotel,Saint Tropez Boutique Hotel,[],0,Jun 22 - 27,Jun,22,Jun,27,125.0,4.78 (74),4.78,74.0,"Willemstad, Curaçao",Willemstad,Curaçao
+"Cabin in Bowen Island, Canada",Cabin,the legendary wildwood cabins ~ CABIN 4,[],0,Jul 8 - 13,Jul,8,Jul,13,173.0,4.98 (678),4.98,678.0,"Bowen Island, Canada",Bowen Island,Canada
+"Room in Key West, Florida, US",Room,1-Private room/bbq/patio. 2 full bed 1 couch bed.,[],0,Jul 29 - Aug 3,Jul,29,Aug,3,258.0,4.83 (40),4.83,40.0,"Key West, Florida, US","Key West, Florida",US
+"Condo in East End, U.S. Virgin Islands",Condo,Beautiful corner unit condo right on the beach!,[],0,Jun 3 - 8,Jun,3,Jun,8,298.0,4.97 (73),4.97,73.0,"East End, U.S. Virgin Islands",East End,U.S. Virgin Islands
+"Boat in Stuart, Florida, US",Boat,House Boat Sunset Bay Marina Stuart Fl,[],0,Sep 10 - 15,Sep,10,Sep,15,127.0,4.92 (279),4.92,279.0,"Stuart, Florida, US","Stuart, Florida",US
+"Apartment in Guanacaste Province, Costa Rica",Apartment,Surf Shack Guiones - perfect beach location,[],0,Jun 17 - 24,Jun,17,Jun,24,130.0,4.82 (278),4.82,278.0,"Guanacaste Province, Costa Rica",Guanacaste Province,Costa Rica
+"Hut in Balderson, Canada",Hut,Glamping Cabin at Balderson Blueberries,[],0,Jun 11 - 16,Jun,11,Jun,16,80.0,4.89 (76),4.89,76.0,"Balderson, Canada",Balderson,Canada
+"Tiny home in Aptos, California, US",Tiny home,Bamboo Cottage in Aptos Mountain Retreat & Spa,[],0,Jul 16 - 21,Jul,16,Jul,21,130.0,4.78 (257),4.78,257.0,"Aptos, California, US","Aptos, California",US
+"Guesthouse in Naalehu, Hawaii, US",Guesthouse,The Ohana,[],0,Jun 23 - 28,Jun,23,Jun,28,99.0,4.86 (182),4.86,182.0,"Naalehu, Hawaii, US","Naalehu, Hawaii",US
+"Condo in Honolulu, Hawaii, US",Condo,23FL Skyline King Studio w/Ocean & City Views.,[],0,Jun 12 - 18,Jun,12,Jun,18,221.0,4.95 (41),4.95,41.0,"Honolulu, Hawaii, US","Honolulu, Hawaii",US
+"Boutique hotel in Miami Beach, Florida, US",Boutique hotel,Room 2 Queen beds- Buffet Breakfast-Steps to beach,[],0,Jun 5 - 10,Jun,5,Jun,10,116.0,4.38 (156),4.38,156.0,"Miami Beach, Florida, US","Miami Beach, Florida",US
+"Condo in Miami, Florida, US",Condo,"Luxury Condo in Hotel, amenities Downtown/Brickell",[],0,Jun 11 - 16,Jun,11,Jun,16,219.0,4.94 (72),4.94,72.0,"Miami, Florida, US","Miami, Florida",US
+"Tiny home in Sackville, Canada",Tiny home,Enchanting Tiny Home 1 KM from downtown Sackville,[],0,Jun 3 - 8,Jun,3,Jun,8,117.0,4.86 (64),4.86,64.0,"Sackville, Canada",Sackville,Canada
+"Apartment in Carolina, Puerto Rico",Apartment,Isla Verde Beach Studio {105},[],0,Jul 23 - 28,Jul,23,Jul,28,97.0,4.67 (433),4.67,433.0,"Carolina, Puerto Rico",Carolina,Puerto Rico
+"Condo in Atlantic City, New Jersey, US",Condo,Beachfront Condo Now Available! Sleeps 4 + Parking,"['Ocean front', 'Parking']",2,Jun 4 - 9,Jun,4,Jun,9,133.0,4.51 (88),4.51,88.0,"Atlantic City, New Jersey, US","Atlantic City, New Jersey",US
+"Bungalow in Puerto Viejo de Talamanca, Costa Rica",Bungalow,CASA BADAWI in 400m Tropical Garden. Optical Fiber,[],0,Jun 6 - 11,Jun,6,Jun,11,72.0,4.96 (108),4.96,108.0,"Puerto Viejo de Talamanca, Costa Rica",Puerto Viejo de Talamanca,Costa Rica
+"Apartment in Santa Teresa Beach, Costa Rica",Apartment,Beachside Apartment with Pool,['Pool'],1,Jun 10 - 15,Jun,10,Jun,15,117.0,4.84 (270),4.84,270.0,"Santa Teresa Beach, Costa Rica",Santa Teresa Beach,Costa Rica
+"Condo in Miami Beach, Florida, US",Condo,Oceanfront 16th Floor Brand New Beachfront Flat,['Ocean front'],1,Jun 7 - 12,Jun,7,Jun,12,302.0,4.83 (683),4.83,683.0,"Miami Beach, Florida, US","Miami Beach, Florida",US
+"Chalet in Matapalo, Costa Rica",Chalet,"House1 private swming pool, BBQ ranch, wifi 200mb","['Pool', 'Wi-Fi']",2,Jun 26 - Jul 1,Jun,26,Jul,1,43.0,4.83 (108),4.83,108.0,"Matapalo, Costa Rica",Matapalo,Costa Rica
+"Room in Panama City Beach, Florida, US",Room,"LOVELY ROOM, WALK TO BEACH, GORGEOUS DECK",[],0,Jun 17 - 22,Jun,17,Jun,22,146.0,4.88 (256),4.88,256.0,"Panama City Beach, Florida, US","Panama City Beach, Florida",US
+"Apartment in Yachats, Oregon, US",Apartment,Beachfront Escape Unit #1 at Beachcomber Cottages,['Ocean front'],1,Jun 20 - 25,Jun,20,Jun,25,212.0,4.54 (151),4.54,151.0,"Yachats, Oregon, US","Yachats, Oregon",US
+"Condo in San Juan, Puerto Rico",Condo,CDM-Beach living @ Condado with pool and parking!,"['Parking', 'Pool']",2,Jul 9 - 14,Jul,9,Jul,14,144.0,4.84 (141),4.84,141.0,"San Juan, Puerto Rico",San Juan,Puerto Rico
+"Condo in Luquillo, Puerto Rico",Condo,AHHH-MAZING VIEWS! Beach Front Apt.,[],0,Sep 6 - 12,Sep,6,Sep,12,121.0,4.88 (490),4.88,490.0,"Luquillo, Puerto Rico",Luquillo,Puerto Rico
+"Home in Avalon, California, US",Home,"Tropical Island Escape w/ Deck, Walk to Avalon Bay",[],0,Jun 19 - 24,Jun,19,Jun,24,336.0,4.34 (80),4.34,80.0,"Avalon, California, US","Avalon, California",US
+"Cabin in Sorrento, Canada",Cabin,"The Thimbleberry MicroCabin near lake, hot tub use",['Jacuzzi'],1,Jun 4 - 9,Jun,4,Jun,9,108.0,4.97 (146),4.97,146.0,"Sorrento, Canada",Sorrento,Canada
+"Room in Miami, Florida, US",Room,Private room/bathroom in modern house with Pool,['Pool'],1,Jul 8 - 14,Jul,8,Jul,14,128.0,4.83 (181),4.83,181.0,"Miami, Florida, US","Miami, Florida",US
+"Apartment in Miami Beach, Florida, US",Apartment,"Modern 1/1, Half a Block from The Ocean",[],0,Jun 12 - 17,Jun,12,Jun,17,140.0,4.75 (308),4.75,308.0,"Miami Beach, Florida, US","Miami Beach, Florida",US
+"Room in Kailua-Kona, Hawaii, US",Room,Satori Suite (The Bamboo House),[],0,Jun 9 - 14,Jun,9,Jun,14,199.0,4.91 (292),4.91,292.0,"Kailua-Kona, Hawaii, US","Kailua-Kona, Hawaii",US
+"Apartment in Cancún, Mexico",Apartment,Cancun Suites (Standard Room),[],0,Jul 2 - 8,Jul,2,Jul,8,81.0,4.47 (192),4.47,192.0,"Cancún, Mexico",Cancún,Mexico
+"Room in Galveston, Texas, US",Room,Tropicana Suite-Grand Manor Luxury Mansion Loft,[],0,Aug 6 - 12,Aug,6,Aug,12,92.0,4.86 (494),4.86,494.0,"Galveston, Texas, US","Galveston, Texas",US
+"Room in Kissimmee, Florida, US",Room,Disney/Universal Home Away from Home!,[],0,Aug 20 - 25,Aug,20,Aug,25,162.0,4.95 (221),4.95,221.0,"Kissimmee, Florida, US","Kissimmee, Florida",US
+"Villa in Morongo Valley, California, US",Villa,Pink Galaxy | Private Observatory · Hot Tub · Pool,"['Jacuzzi', 'Pool']",2,Jun 7 - 12,Jun,7,Jun,12,283.0,5.0 (9),5.0,9.0,"Morongo Valley, California, US","Morongo Valley, California",US
+"Room in La Habana, Cuba",Room,Camera argento in tipica casa coloniale,[],0,Jun 19 - 24,Jun,19,Jun,24,42.0,4.81 (168),4.81,168.0,"La Habana, Cuba",La Habana,Cuba
+"Room in Kihei, Hawaii, US",Room,"GARDEN ROOM, private bathroom, separate entrance",[],0,Jun 24 - 29,Jun,24,Jun,29,184.0,4.96 (284),4.96,284.0,"Kihei, Hawaii, US","Kihei, Hawaii",US
+"Treehouse in Zona Hotelera, Mexico",Treehouse,"Tree House - Beach Area, KS bed, 3 PPL",[],0,Jul 10 - 15,Jul,10,Jul,15,157.0,4.75 (165),4.75,165.0,"Zona Hotelera, Mexico",Zona Hotelera,Mexico
+"Apartment in Playa del Carmen, Mexico",Apartment,It Hotel & Residences - Studio Rental in PDC,[],0,Jun 3 - 8,Jun,3,Jun,8,75.0,4.79 (253),4.79,253.0,"Playa del Carmen, Mexico",Playa del Carmen,Mexico
+"Hotel in Isla Mujeres, Mexico",Hotel,"Cozy & Neat hotel room 2pax ocean view WiFi,Pool","['Ocean view', 'Pool', 'Wi-Fi']",3,Aug 5 - 10,Aug,5,Aug,10,115.0,4.52 (92),4.52,92.0,"Isla Mujeres, Mexico",Isla Mujeres,Mexico
+"Hostel in Tulum, Mexico",Hostel,Meteora Stay & Coffehouse Tulum - Deluxe Queen,[],0,Jun 1 - 6,Jun,1,Jun,6,59.0,4.74 (105),4.74,105.0,"Tulum, Mexico",Tulum,Mexico
+"Home in Oceanside, Oregon, US",Home,Movie Theater + Kid Friendly | Book the Dome!,[],0,Jun 4 - 9,Jun,4,Jun,9,200.0,4.97 (64),4.97,64.0,"Oceanside, Oregon, US","Oceanside, Oregon",US
+"Room in Wilmington, New York, US",Room,My Adirondack Home - Very Scenic,[],0,Jun 5 - 10,Jun,5,Jun,10,107.0,4.96 (520),4.96,520.0,"Wilmington, New York, US","Wilmington, New York",US
+"Condo in Miami Beach, Florida, US",Condo,New 16th Floor Beachfront 180º Oceanview Apartment,['Ocean front'],1,Jun 1 - 6,Jun,1,Jun,6,302.0,4.87 (659),4.87,659.0,"Miami Beach, Florida, US","Miami Beach, Florida",US
+"Room in Cancún, Mexico",Room,Camilo's Luxury Shared Townhouse,[],0,Jul 13 - 18,Jul,13,Jul,18,81.0,4.87 (301),4.87,301.0,"Cancún, Mexico",Cancún,Mexico
+"Room in Cancún, Mexico",Room,"Surf, family & friends! Tropical Room in downtown",[],0,Jun 3 - 8,Jun,3,Jun,8,51.0,4.95 (86),4.95,86.0,"Cancún, Mexico",Cancún,Mexico
+"Apartment in Cancún, Mexico",Apartment,1208 Beach property part ocean & pool view,['Pool'],1,Jun 2 - 7,Jun,2,Jun,7,79.0,4.64 (148),4.64,148.0,"Cancún, Mexico",Cancún,Mexico
+"Treehouse in Sandane , Norway",Treehouse,Amazing panoramic tree house Norway,[],0,Jun 4 - 9,Jun,4,Jun,9,285.0,4.86 (410),4.86,410.0,"Sandane , Norway",Sandane,Norway
+"Home in Jurków, Poland",Home,Beachfront Cottage on the Lake,['Ocean front'],1,Jun 11 - 16,Jun,11,Jun,16,140.0,4.72 (25),4.72,25.0,"Jurków, Poland",Jurków,Poland
+"Farm stay in Şarköy, Turkey",Farm stay,Off-Grid vineyard and olive orchard home.,[],0,Jun 7 - 13,Jun,7,Jun,13,144.0,5.0 (9),5.0,9.0,"Şarköy, Turkey",Şarköy,Turkey
+"Cabin in Hvanneyri, Iceland",Cabin,Mirror House Iceland,[],0,Sep 1 - 6,Sep,1,Sep,6,735.0,New,,,"Hvanneyri, Iceland",Hvanneyri,Iceland
+"Place to stay in Krabčice, Czechia",Place to stay,"R.I.P. by ŘÍP - 
+Rest In Pod by ŘÍP",[],0,Jun 1 - 6,Jun,1,Jun,6,78.0,4.92 (36),4.92,36.0,"Krabčice, Czechia",Krabčice,Czechia
+"Condo in Fiumicino, Italy",Condo,LOVE Attic,[],0,Jun 4 - 9,Jun,4,Jun,9,209.0,4.85 (178),4.85,178.0,"Fiumicino, Italy",Fiumicino,Italy
+"Cabin in Güejar Sierra, Spain",Cabin,Natural show in Cabaña Alcazaba,[],0,Jun 11 - 16,Jun,11,Jun,16,111.0,4.86 (568),4.86,568.0,"Güejar Sierra, Spain",Güejar Sierra,Spain
+"Cabin in Teo, Spain",Cabin,MU_Moradas no Ulla 6. Cabañas de Compostela.,[],0,Jun 11 - 16,Jun,11,Jun,16,112.0,4.96 (89),4.96,89.0,"Teo, Spain",Teo,Spain
+"Place to stay in Hol, Norway",Place to stay,Unik Hobbit Cabin,[],0,Jun 1 - 6,Jun,1,Jun,6,221.0,4.84 (239),4.84,239.0,"Hol, Norway",Hol,Norway
+"Farm stay in Nyköping S, Sweden",Farm stay,Simple guesthouse on a farm. Double bed and sofa bed. Free Wi-Fi and parking. WC and living room/kitchenette in separate building,"['Parking', 'Wi-Fi']",2,Jun 26 - Jul 1,Jun,26,Jul,1,73.0,4.89 (18),4.89,18.0,"Nyköping S, Sweden",Nyköping S,Sweden
+"Houseboat in Jickovice, Czechia",Houseboat,"Boat in Orlik, you want it!",[],0,Jun 8 - 13,Jun,8,Jun,13,78.0,4.31 (29),4.31,29.0,"Jickovice, Czechia",Jickovice,Czechia
+"Cabin in Hornedo, Spain",Cabin,Forest cabin,[],0,Sep 26 - Oct 2,Sep,26,Oct,2,80.0,4.84 (212),4.84,212.0,"Hornedo, Spain",Hornedo,Spain
+"Home in Viana do Castelo, Portugal",Home,Amonde Village - Casa P * Comfort & Quality,[],0,Jun 18 - 25,Jun,18,Jun,25,168.0,4.98 (51),4.98,51.0,"Viana do Castelo, Portugal",Viana do Castelo,Portugal
+"Tower in Gombola, Italy",Tower,Tower house Gombola,[],0,Jun 4 - 9,Jun,4,Jun,9,166.0,4.87 (45),4.87,45.0,"Gombola, Italy",Gombola,Italy
+"Cabin in Darżkowo, Poland",Cabin,hut in the mid. of nowhere + priv pond+3 ha,[],0,Jun 1 - 6,Jun,1,Jun,6,181.0,4.79 (396),4.79,396.0,"Darżkowo, Poland",Darżkowo,Poland
+"Home in Kenilworth, UK",Home,The Water Tower at Long Meadow Farm,[],0,Jun 4 - 9,Jun,4,Jun,9,246.0,4.85 (181),4.85,181.0,"Kenilworth, UK",Kenilworth,UK
+"Room in Dassel, Germany",Room,Alte Wassermühle Friedrichshausen - Eulenstube,[],0,Jun 10 - 15,Jun,10,Jun,15,55.0,4.96 (25),4.96,25.0,"Dassel, Germany",Dassel,Germany
+"Farm stay in Montregard, France",Farm stay,Vovady Farm : Roulotte Bohème,[],0,Jun 1 - 6,Jun,1,Jun,6,82.0,4.85 (34),4.85,34.0,"Montregard, France",Montregard,France
+"Room in Saint-Ouen, France",Room,Biron aux Puces de Saint Vincent Market,[],0,Oct 29 - Nov 3,Oct,29,Nov,3,95.0,4.9 (61),4.9,61.0,"Saint-Ouen, France",Saint-Ouen,France
+"Cabin in Gällstad, Sweden",Cabin,Cabin on the countryside close to the small city.,[],0,Jun 10 - 15,Jun,10,Jun,15,111.0,4.71 (51),4.71,51.0,"Gällstad, Sweden",Gällstad,Sweden
+"Cabin in Trasquera, Italy",Cabin,La Barona Chalet,[],0,Jun 4 - 9,Jun,4,Jun,9,223.0,4.99 (240),4.99,240.0,"Trasquera, Italy",Trasquera,Italy
+"Shepherd’s hut in Hessisch Lichtenau, Germany",Shepherd’s hut,"""Lieblingsplatz"" shepherd's hut",[],0,Jun 2 - 7,Jun,2,Jun,7,55.0,4.96 (24),4.96,24.0,"Hessisch Lichtenau, Germany",Hessisch Lichtenau,Germany
+"Hut in Oxfordshire, UK",Hut,Rectory Farm Hideaway,[],0,Aug 28 - Sep 2,Aug,28,Sep,2,178.0,4.93 (535),4.93,535.0,"Oxfordshire, UK",Oxfordshire,UK
+"Tiny home in Draperstown, UK",Tiny home,The Black Shack @ Bancran School,[],0,Aug 4 - 9,Aug,4,Aug,9,169.0,4.97 (304),4.97,304.0,"Draperstown, UK",Draperstown,UK
+"Apartment in Calpe, Spain",Apartment,Apartment Caribe - PlusHolidays,[],0,Jun 1 - 6,Jun,1,Jun,6,80.0,3.67 (3),3.67,3.0,"Calpe, Spain",Calpe,Spain
+"Shepherd’s hut in Saint-Nabord, France",Shepherd’s hut,Anty's Pond: Davy Crockett's Hut,[],0,Jun 23 - 28,Jun,23,Jun,28,93.0,4.87 (150),4.87,150.0,"Saint-Nabord, France",Saint-Nabord,France
+"Apartment in Biarritz, France",Apartment,Biarritz Grande Plage 25m2 with Balcony,[],0,Jun 1 - 6,Jun,1,Jun,6,176.0,4.91 (316),4.91,316.0,"Biarritz, France",Biarritz,France
+"Trullo in Ostuni, Italy",Trullo,TRULLO ISABELLA,[],0,Jun 25 - 30,Jun,25,Jun,30,158.0,4.98 (95),4.98,95.0,"Ostuni, Italy",Ostuni,Italy
+"Farm stay in Girvan, UK",Farm stay,Secluded Hand crafted log cabin,[],0,Jun 5 - 10,Jun,5,Jun,10,139.0,5.0 (68),5.0,68.0,"Girvan, UK",Girvan,UK
+"Cabin in Monmouth, UK",Cabin,Stargazer Cabin - Monmouth Walking Distance Town,[],0,Jul 27 - Aug 1,Jul,27,Aug,1,240.0,4.9 (287),4.9,287.0,"Monmouth, UK",Monmouth,UK
+"Home in Miazzina, Italy",Home,"Baita Vrei (2)""Titta"" - Hut Lago Maggiore",[],0,Jun 4 - 9,Jun,4,Jun,9,61.0,4.84 (63),4.84,63.0,"Miazzina, Italy",Miazzina,Italy
+"Tiny home in Poltimore, UK",Tiny home,Tranquil retreat with fantastic countryside views,[],0,Aug 2 - 7,Aug,2,Aug,7,115.0,4.92 (227),4.92,227.0,"Poltimore, UK",Poltimore,UK
+"Villa in Pollina, Italy",Villa,Romantic and one-of-a-kind Beachouse,[],0,Oct 12 - 17,Oct,12,Oct,17,183.0,4.88 (48),4.88,48.0,"Pollina, Italy",Pollina,Italy
+"Condo in Χράνοι, Greece",Condo,Ilaira Apartments,[],0,Jun 7 - 12,Jun,7,Jun,12,86.0,4.86 (38),4.86,38.0,"Χράνοι, Greece",Χράνοι,Greece
+"Apartment in Rodos, Greece",Apartment,Central 1bedroom apt by the sea,[],0,Oct 10 - 15,Oct,10,Oct,15,61.0,4.76 (214),4.76,214.0,"Rodos, Greece",Rodos,Greece
+"Tiny home in Midmar, UK",Tiny home,Cosy Romantic Cabin with Wood Burning Stove.,[],0,Jun 11 - 16,Jun,11,Jun,16,107.0,4.96 (274),4.96,274.0,"Midmar, UK",Midmar,UK
+"Farm stay in Agello, Italy",Farm stay,Historic residence surrounded by olive trees,[],0,Jun 12 - 17,Jun,12,Jun,17,75.0,4.98 (46),4.98,46.0,"Agello, Italy",Agello,Italy
+"Cabin in Adainville, France",Cabin,Wonderful Old Cabin on Rare Natural Site,[],0,Jun 11 - 16,Jun,11,Jun,16,147.0,4.93 (151),4.93,151.0,"Adainville, France",Adainville,France
+"Castle in Vay, France",Castle,"Stay in the castle, with family or friends",[],0,Jun 18 - 23,Jun,18,Jun,23,92.0,4.94 (169),4.94,169.0,"Vay, France",Vay,France
+"Room in Aljezur, Portugal",Room,XS Village - Arrifana Suite (private bathroom),[],0,Jun 24 - 29,Jun,24,Jun,29,100.0,4.96 (25),4.96,25.0,"Aljezur, Portugal",Aljezur,Portugal
+"Barn in Rattray, UK",Barn,The Loft at the Bonnington Farm,[],0,Jun 15 - 21,Jun,15,Jun,21,135.0,4.89 (423),4.89,423.0,"Rattray, UK",Rattray,UK
+"Hotel room in Muratpaşa, Turkey",Hotel room,KALEİÇİ BACCHUS OTEL DENİZ MANZARALI TATİL 501,[],0,Jun 25 - 30,Jun,25,Jun,30,83.0,4.73 (230),4.73,230.0,"Muratpaşa, Turkey",Muratpaşa,Turkey
+"Earthen home in Bronwydd Arms, UK",Earthen home,strawbale roundhouse for vegetarian,[],0,Jun 29 - Jul 4,Jun,29,Jul,4,108.0,4.9 (297),4.9,297.0,"Bronwydd Arms, UK",Bronwydd Arms,UK
+"Room in Behren-Lübchin, Germany",Room,Wohnung Ruth Herrenhaus Viecheln Anno 1869,[],0,Jun 11 - 16,Jun,11,Jun,16,121.0,4.97 (34),4.97,34.0,"Behren-Lübchin, Germany",Behren-Lübchin,Germany
+"Tiny home in Les Haudères, Switzerland",Tiny home,Swiss Tiny Chalet,[],0,Jun 1 - 6,Jun,1,Jun,6,109.0,4.8 (157),4.8,157.0,"Les Haudères, Switzerland",Les Haudères,Switzerland
+"Chalet in Étival, France",Chalet,The Napoleonic period chalet in the High Jura,[],0,Jul 16 - 21,Jul,16,Jul,21,105.0,4.98 (190),4.98,190.0,"Étival, France",Étival,France
+"Home in Rémalard, France",Home,"Moulin de Boiscorde, ideal for couples and families",[],0,Jun 2 - 7,Jun,2,Jun,7,128.0,4.9 (41),4.9,41.0,"Rémalard, France",Rémalard,France
+"Farm stay in Montepulciano, Italy",Farm stay,Rural Tuscany | Wine farm with pool | Terrarossa,['Pool'],1,Jun 14 - 20,Jun,14,Jun,20,148.0,4.33 (6),4.33,6.0,"Montepulciano, Italy",Montepulciano,Italy
+"Trullo in Ostuni, Italy",Trullo,Magical Trullo in Ostuni Cis BR0740129000012213,[],0,Jul 19 - 24,Jul,19,Jul,24,105.0,4.87 (87),4.87,87.0,"Ostuni, Italy",Ostuni,Italy
+"Cabin in Nowy Targ, Poland",Cabin,Gruszkówka 1 Cottage (7 km from Białka ),[],0,Jun 18 - 25,Jun,18,Jun,25,96.0,4.98 (86),4.98,86.0,"Nowy Targ, Poland",Nowy Targ,Poland
+"Shepherd’s hut in Hollacombe, UK",Shepherd’s hut,Woodland Stargazing Cabin,[],0,Jun 2 - 7,Jun,2,Jun,7,133.0,4.83 (174),4.83,174.0,"Hollacombe, UK",Hollacombe,UK
+"Room in London, UK",Room,Room available in Greater London suburb home,[],0,May 1 - 6,May,1,May,6,43.0,4.98 (94),4.98,94.0,"London, UK",London,UK
+"Apartment in Megalochori, Greece",Apartment,Casa Tua,[],0,Jun 4 - 9,Jun,4,Jun,9,142.0,4.66 (68),4.66,68.0,"Megalochori, Greece",Megalochori,Greece
+"Farm stay in Catsfield, UK",Farm stay,CABIN X GPF,[],0,Jun 25 - 30,Jun,25,Jun,30,225.0,4.99 (239),4.99,239.0,"Catsfield, UK",Catsfield,UK
+"Room in La Zubia, Spain",Room,Alhambra Trails 2,[],0,Jun 6 - 13,Jun,6,Jun,13,94.0,4.78 (36),4.78,36.0,"La Zubia, Spain",La Zubia,Spain
+"Chalet in Afa, France",Chalet,""" La cabane du Gozzi""",[],0,Jun 1 - 6,Jun,1,Jun,6,85.0,4.79 (346),4.79,346.0,"Afa, France",Afa,France
+"Apartment in Ericeira, Portugal",Apartment,FLH Ericeira Ocean Flat,[],0,Jul 16 - 21,Jul,16,Jul,21,216.0,4.45 (187),4.45,187.0,"Ericeira, Portugal",Ericeira,Portugal
+"Room in Rouffignac-de-Sigoulès, France",Room,manoir 19 ème siècle LE COUTUREAU isaline,[],0,Jun 1 - 6,Jun,1,Jun,6,135.0,5.0 (11),5.0,11.0,"Rouffignac-de-Sigoulès, France",Rouffignac-de-Sigoulès,France
+"Guesthouse in Esche, Germany",Guesthouse,Guesthouse an der Vechte,[],0,Jul 22 - 27,Jul,22,Jul,27,50.0,4.94 (104),4.94,104.0,"Esche, Germany",Esche,Germany
+"Condo in Kremasti, Greece",Condo,L & C Deluxe Apartment - luxury and comfort,[],0,Jun 6 - 11,Jun,6,Jun,11,136.0,5.0 (45),5.0,45.0,"Kremasti, Greece",Kremasti,Greece
+"Room in Torreglia, Italy",Room,Country House,[],0,Jun 11 - 16,Jun,11,Jun,16,69.0,4.94 (84),4.94,84.0,"Torreglia, Italy",Torreglia,Italy
+"Cave in Mesaria, Greece",Cave,Luxury Triple cave room,[],0,Jun 12 - 17,Jun,12,Jun,17,129.0,4.72 (32),4.72,32.0,"Mesaria, Greece",Mesaria,Greece
+"Barn in Nutley, UK",Barn,Rural Retreat on the Ashdown Forest,[],0,Jun 12 - 17,Jun,12,Jun,17,184.0,4.96 (114),4.96,114.0,"Nutley, UK",Nutley,UK
+"Castle in Winningen, Germany",Castle,Magazine - Oskar Schwebel -,[],0,Jun 11 - 16,Jun,11,Jun,16,136.0,4.66 (277),4.66,277.0,"Winningen, Germany",Winningen,Germany
+"Home in Baião, Portugal",Home,CasasdoCasinhotoD-Rustic House (pool; river view),['Pool'],1,Jun 12 - 17,Jun,12,Jun,17,131.0,4.81 (43),4.81,43.0,"Baião, Portugal",Baião,Portugal
+"Nature lodge in Highland Council, UK",Nature lodge,Elegant Little Wyvis Lodge - Sleeps 2,[],0,Jun 2 - 7,Jun,2,Jun,7,159.0,4.96 (95),4.96,95.0,"Highland Council, UK",Highland Council,UK
+"Cabin in Totana, Spain",Cabin,Rural Aledo - El Estrecho,[],0,Jun 18 - 25,Jun,18,Jun,25,76.0,4.78 (24),4.78,24.0,"Totana, Spain",Totana,Spain
+"Treehouse in Fountana, Greece",Treehouse,Nasos' Treehouse,[],0,Jun 1 - 6,Jun,1,Jun,6,98.0,4.81 (98),4.81,98.0,"Fountana, Greece",Fountana,Greece
+"Cabin in Filipstad N, Sweden",Cabin,FredrikLars farm at Nordmarksberg Manor,[],0,Jun 24 - 30,Jun,24,Jun,30,44.0,4.98 (46),4.98,46.0,"Filipstad N, Sweden",Filipstad N,Sweden
+"Room in Borgo Valsugana, Italy",Room,"La Tana del Lupo B&B, family and outdoor sports",[],0,Sep 18 - 23,Sep,18,Sep,23,73.0,4.99 (121),4.99,121.0,"Borgo Valsugana, Italy",Borgo Valsugana,Italy
+"Cabin in Llandissilio, UK",Cabin,The Llama Lodge - a Log Cabin on a Llama Farm,[],0,Jun 4 - 9,Jun,4,Jun,9,205.0,4.92 (60),4.92,60.0,"Llandissilio, UK",Llandissilio,UK
+"Camper/RV in Mayen, Germany",Camper/RV,"Quaint ""Petra Lustig"" construction car",[],0,Jun 24 - 30,Jun,24,Jun,30,48.0,,,,"Mayen, Germany",Mayen,Germany
+"Vacation home in Akrotiri, Greece",Vacation home,The North Windmill ⚓ Unique House with View,[],0,Jun 9 - 14,Jun,9,Jun,14,184.0,4.98 (46),4.98,46.0,"Akrotiri, Greece",Akrotiri,Greece
+"Cottage in Trefeinon, UK",Cottage,Bumble Bee Cottage,[],0,Jun 11 - 16,Jun,11,Jun,16,141.0,4.93 (410),4.93,410.0,"Trefeinon, UK",Trefeinon,UK
+"Yurt in Cynwyd, UK",Yurt,Gorgeous yurt in amazing mountain/forest location,[],0,Jul 12 - 17,Jul,12,Jul,17,107.0,4.91 (339),4.91,339.0,"Cynwyd, UK",Cynwyd,UK
+"Apartment in Athina, Greece",Apartment,"Diamond Home 1, romantic gem, 20 min to Acropolis",[],0,Jul 5 - 10,Jul,5,Jul,10,112.0,4.79 (217),4.79,217.0,"Athina, Greece",Athina,Greece
+"Trullo in Alberobello, Italy",Trullo,TrulLetto,[],0,Jun 4 - 9,Jun,4,Jun,9,114.0,4.85 (52),4.85,52.0,"Alberobello, Italy",Alberobello,Italy
+"Cabin in Båstad V, Sweden",Cabin,"Tyga Gård, probably most beautiful on Bjäre",[],0,Jun 1 - 6,Jun,1,Jun,6,94.0,4.9 (43),4.9,43.0,"Båstad V, Sweden",Båstad V,Sweden
+"Home in Coreggia, Italy",Home,Silk Trulli,[],0,Jun 3 - 8,Jun,3,Jun,8,86.0,4.52 (21),4.52,21.0,"Coreggia, Italy",Coreggia,Italy
+"Trullo in Martina Franca, Italy",Trullo,The Olive Tree Court,[],0,Jun 3 - 8,Jun,3,Jun,8,92.0,4.85 (143),4.85,143.0,"Martina Franca, Italy",Martina Franca,Italy
+"Room in Montale Rangone, Modena, Italy",Room,LaCorte CAMERA BLU NEAR FERRARI WITH PRIVATE PARK,[],0,Aug 21 - 26,Aug,21,Aug,26,73.0,,,,"Montale Rangone, Modena, Italy","Montale Rangone, Modena",Italy
+"Room in Berlin, Germany",Room,Friedrichshain Beautiful Sunny Room with Balcony,[],0,Jul 25 - 31,Jul,25,Jul,31,135.0,5.0 (6),5.0,6.0,"Berlin, Germany",Berlin,Germany
+"Room in Rome, Italy",Room,Cozy en-suite double room in S. Peter's / Borgo,[],0,Nov 30 - Dec 5,Nov,30,Dec,5,60.0,4.88 (331),4.88,331.0,"Rome, Italy",Rome,Italy
+"Room in Santa Lucia, Italy",Room,Star Night Room - Van Gogh Hills B&B,[],0,Jun 1 - 6,Jun,1,Jun,6,68.0,4.91 (23),4.91,23.0,"Santa Lucia, Italy",Santa Lucia,Italy
+"Home in Reclesne, France",Home,La Petite Chaumière,[],0,Jun 2 - 7,Jun,2,Jun,7,85.0,4.79 (39),4.79,39.0,"Reclesne, France",Reclesne,France
+"Farm stay in Asciano, Italy",Farm stay,Green - Lawns in Tuscany,[],0,Jul 8 - 13,Jul,8,Jul,13,91.0,4.97 (145),4.97,145.0,"Asciano, Italy",Asciano,Italy
+"Farm stay in Pennabilli, Italy",Farm stay,Casa Cerbaia | Betulla,[],0,Jun 21 - 26,Jun,21,Jun,26,86.0,4.95 (19),4.95,19.0,"Pennabilli, Italy",Pennabilli,Italy
+"Barn in Nes På Hedmark, Norway",Barn,"Sommerfjøset on Hovelsrud, Helgøya",[],0,Jul 14 - 20,Jul,14,Jul,20,328.0,4.96 (136),4.96,136.0,"Nes På Hedmark, Norway",Nes På Hedmark,Norway
+"Cabin in Torsåker, Sweden",Cabin,Cozy cottage in Torsåker (Hofors),[],0,Jun 7 - 12,Jun,7,Jun,12,75.0,4.83 (254),4.83,254.0,"Torsåker, Sweden",Torsåker,Sweden
+"Room in Saint-Mandé, France",Room,Nice place for your stay in Paris,[],0,Oct 30 - Nov 5,Oct,30,Nov,5,86.0,4.96 (319),4.96,319.0,"Saint-Mandé, France",Saint-Mandé,France
+"Cabin in Walpole, UK",Cabin,"Peaceful, wooden garden cabin",[],0,Jul 9 - 14,Jul,9,Jul,14,93.0,4.91 (255),4.91,255.0,"Walpole, UK",Walpole,UK
+"Place to stay in East Farndon, UK",Place to stay,Rural farm-Spacious triple bedroom with en suite,[],0,Jul 2 - 7,Jul,2,Jul,7,71.0,4.92 (113),4.92,113.0,"East Farndon, UK",East Farndon,UK
+"Room in Rüthen, Germany",Room,Private room in the heart of nature,['Nature'],1,Jun 3 - 8,Jun,3,Jun,8,42.0,4.96 (114),4.96,114.0,"Rüthen, Germany",Rüthen,Germany
+"Room in Rome, Italy",Room,Xavier House,[],0,Oct 9 - 14,Oct,9,Oct,14,43.0,4.89 (184),4.89,184.0,"Rome, Italy",Rome,Italy
+"Apartment in Plaka, Greece",Apartment,"Akti Karras, Plaka Naxos (up to 2 guests)",[],0,Jun 20 - 25,Jun,20,Jun,25,55.0,4.91 (23),4.91,23.0,"Plaka, Greece",Plaka,Greece
+"Condo in Saint-Lary-Soulan, France",Condo,Studio lookout,[],0,Jun 1 - 6,Jun,1,Jun,6,31.0,4.45 (240),4.45,240.0,"Saint-Lary-Soulan, France",Saint-Lary-Soulan,France
+"Room in Borgo Valbelluna, Italy",Room,Bavarian room in the Dolomites,[],0,Jun 1 - 6,Jun,1,Jun,6,84.0,4.8 (5),4.8,5.0,"Borgo Valbelluna, Italy",Borgo Valbelluna,Italy
+"Room in Kassel, Germany",Room,Cosy interesting loam house,[],0,Jun 5 - 12,Jun,5,Jun,12,78.0,5.0 (10),5.0,10.0,"Kassel, Germany",Kassel,Germany
+"Room in Barcelona , Spain",Room,Nice room in duplex + terrace near BCN,[],0,Nov 11 - 16,Nov,11,Nov,16,55.0,4.89 (128),4.89,128.0,"Barcelona , Spain",Barcelona,Spain
+"Tent in Sabóia, Portugal",Tent,Lost Paradise - A night into the Alentejo!,[],0,Jun 1 - 6,Jun,1,Jun,6,85.0,4.95 (39),4.95,39.0,"Sabóia, Portugal",Sabóia,Portugal
+"Place to stay in Mont-le-Vernois, France",Place to stay,Cabin in the wild,[],0,Sep 3 - 10,Sep,3,Sep,10,95.0,4.98 (46),4.98,46.0,"Mont-le-Vernois, France",Mont-le-Vernois,France
+"Shipping container in Dirlaught, Ireland",Shipping container,Amazing shipping container house + sea views+ WIFI,['Wi-Fi'],1,Aug 7 - 12,Aug,7,Aug,12,164.0,4.91 (43),4.91,43.0,"Dirlaught, Ireland",Dirlaught,Ireland
+"Hut in Witzenhausen, Germany",Hut,"Countryside Sleeps, Bakery, Homestay",[],0,Jul 16 - 21,Jul,16,Jul,21,73.0,4.95 (385),4.95,385.0,"Witzenhausen, Germany",Witzenhausen,Germany
+"Room in Planos, Greece",Room,Kimiro Hotel Tsilivi,[],0,Jun 5 - 10,Jun,5,Jun,10,97.0,4.91 (43),4.91,43.0,"Planos, Greece",Planos,Greece
+"Apartment in Kadıköy, Turkey",Apartment,Studio apartment with AC - Suite 3,['Air conditioning'],1,Jun 17 - 22,Jun,17,Jun,22,34.0,5.0 (3),5.0,3.0,"Kadıköy, Turkey",Kadıköy,Turkey
+"Cottage in Nicosia, Italy",Cottage,Sicilian Mountain Oasis - Entire Villa (Smart W.),[],0,Nov 14 - 19,Nov,14,Nov,19,100.0,4.94 (325),4.94,325.0,"Nicosia, Italy",Nicosia,Italy
+"Bungalow in Izmir, Turkey",Bungalow,İzmir Bungalow. ( Urla treehouse 1),[],0,Jun 8 - 13,Jun,8,Jun,13,74.0,4.82 (223),4.82,223.0,"Izmir, Turkey",Izmir,Turkey
+"Guesthouse in Perranwell Station, UK",Guesthouse,The Folly - Cornwall,[],0,Jun 18 - 23,Jun,18,Jun,23,111.0,5.0 (11),5.0,11.0,"Perranwell Station, UK",Perranwell Station,UK
+"Apartment in Areti, Greece",Apartment,Echoes Exclusive Suite,[],0,Jun 29 - Jul 6,Jun,29,Jul,6,526.0,4.98 (40),4.98,40.0,"Areti, Greece",Areti,Greece
+"Dome in Wapnica, Poland",Dome,Delightfull Dome with Hot tub & sauna on the beach,"['Jacuzzi', 'Sauna']",2,Jun 3 - 8,Jun,3,Jun,8,319.0,4.98 (52),4.98,52.0,"Wapnica, Poland",Wapnica,Poland
+"Cabin in Millbrook, UK",Cabin,Romantic Ocean View Couples Retreat Cornwall,['Ocean view'],1,Jun 10 - 15,Jun,10,Jun,15,357.0,5.0 (61),5.0,61.0,"Millbrook, UK",Millbrook,UK
+"Guest suite in La Marsa, Tunisia",Guest suite,THE AQUARIUM … waterfront 🧜🏾‍♂️,['Waterfront'],1,Jun 26 - Jul 1,Jun,26,Jul,1,61.0,4.72 (103),4.72,103.0,"La Marsa, Tunisia",La Marsa,Tunisia
+"Guesthouse in Jonstorp, Sweden",Guesthouse,Gäststuga Knorrasjön,[],0,Jun 12 - 17,Jun,12,Jun,17,95.0,New,,,"Jonstorp, Sweden",Jonstorp,Sweden
+"Home in Positano, Italy",Home,Villa Laurito,[],0,Oct 31 - Nov 5,Oct,31,Nov,5,185.0,4.88 (66),4.88,66.0,"Positano, Italy",Positano,Italy
+"Cottage in Benalauría, Spain",Cottage,"""La Parra"", rural tourism. Your home in paradise.",[],0,Sep 16 - 21,Sep,16,Sep,21,67.0,4.99 (335),4.99,335.0,"Benalauría, Spain",Benalauría,Spain
+"Tiny home in Muldenhammer, Germany",Tiny home,Hascherle Hitt,[],0,Jun 5 - 10,Jun,5,Jun,10,86.0,5.0 (57),5.0,57.0,"Muldenhammer, Germany",Muldenhammer,Germany
+"Home in Audierne, France",Home,Villa Trouz Ar Mor,[],0,Jul 1 - 6,Jul,1,Jul,6,135.0,4.85 (13),4.85,13.0,"Audierne, France",Audierne,France
+"Treehouse in Penzance, UK",Treehouse,Peaceful Country Treehouse Nr Penzance & St Ives,[],0,Jul 6 - 11,Jul,6,Jul,11,294.0,4.95 (292),4.95,292.0,"Penzance, UK",Penzance,UK
+"Cabin in La Atalaya, Spain",Cabin,Cabaña ecológica de madera en la naturaleza,[],0,Jun 11 - 16,Jun,11,Jun,16,80.0,4.79 (14),4.79,14.0,"La Atalaya, Spain",La Atalaya,Spain
+"Tiny home in Vouzela, Portugal",Tiny home,Gallas Pod House,[],0,Jun 1 - 6,Jun,1,Jun,6,57.0,5.0 (25),5.0,25.0,"Vouzela, Portugal",Vouzela,Portugal
+"Apartment in Thessaloniki, Greece",Apartment,Waterfront #41Design - CozyCityCenter Flat,['Waterfront'],1,Jul 8 - 13,Jul,8,Jul,13,70.0,4.84 (546),4.84,546.0,"Thessaloniki, Greece",Thessaloniki,Greece
+"Treehouse in Torbalı, Turkey",Treehouse,"Treehouse Izmir 
+View all our houses please ..",[],0,Jun 11 - 16,Jun,11,Jun,16,40.0,4.9 (394),4.9,394.0,"Torbalı, Turkey",Torbalı,Turkey
+"Bungalow in Fethiye, Turkey",Bungalow,Kaktus Suites Fethiye - City Bungalow 2 w/pool,['Pool'],1,Jun 17 - 22,Jun,17,Jun,22,69.0,4.87 (53),4.87,53.0,"Fethiye, Turkey",Fethiye,Turkey
+"Yurt in Finestrat, Spain",Yurt,Yurt op Off-Grid Homestead,[],0,Jun 4 - 9,Jun,4,Jun,9,49.0,4.92 (38),4.92,38.0,"Finestrat, Spain",Finestrat,Spain
+"Cabin in Idrac respailles , France",Cabin,Cabin into the wild,[],0,Jun 4 - 9,Jun,4,Jun,9,77.0,4.67 (282),4.67,282.0,"Idrac respailles , France",Idrac respailles,France
+"Apartment in Kotor, Montenegro",Apartment,💎Boka Bay view apartment.💎,[],0,Jul 8 - 14,Jul,8,Jul,14,93.0,4.69 (218),4.69,218.0,"Kotor, Montenegro",Kotor,Montenegro
+"Home in Chalkida, Greece",Home,Seaside & Garden Single family home,[],0,Jun 8 - 13,Jun,8,Jun,13,104.0,4.94 (33),4.94,33.0,"Chalkida, Greece",Chalkida,Greece
+"Home in Skopelos, Greece",Home,Del Sol. Studio across the sea 1.,[],0,Jun 1 - 6,Jun,1,Jun,6,61.0,New,,,"Skopelos, Greece",Skopelos,Greece
+"Place to stay in Scottish Borders, UK",Place to stay,"16th Century Scottish Borders Tower, by Earlston",[],0,Jul 13 - 18,Jul,13,Jul,18,252.0,4.96 (464),4.96,464.0,"Scottish Borders, UK",Scottish Borders,UK
+"Loft in Baošići, Montenegro",Loft,Porto Bello Lux ( Sea View & Swimming Pool),"['Ocean view', 'Pool']",2,Jun 5 - 10,Jun,5,Jun,10,58.0,4.9 (110),4.9,110.0,"Baošići, Montenegro",Baošići,Montenegro
+"Home in Atouguia da Baleia, Portugal",Home,"Spectacular view of Supertubos beach, Peniche",[],0,Oct 1 - 6,Oct,1,Oct,6,126.0,4.82 (34),4.82,34.0,"Atouguia da Baleia, Portugal",Atouguia da Baleia,Portugal
+"Home in Bad Sankt Leonhard im Lavanttal, Austria",Home,1A chalet resting crickets + hiking with indoor sauna,['Sauna'],1,Jun 22 - 27,Jun,22,Jun,27,123.0,4.67 (110),4.67,110.0,"Bad Sankt Leonhard im Lavanttal, Austria",Bad Sankt Leonhard im Lavanttal,Austria
+"Vacation home in Punta Prima, Spain",Vacation home,Beachfront apartment with perfect seaview,['Ocean front'],1,Jun 1 - 6,Jun,1,Jun,6,231.0,4.85 (204),4.85,204.0,"Punta Prima, Spain",Punta Prima,Spain
+"Treehouse in Verson, France",Treehouse,2 Cabins perched above a pond!,[],0,Jun 4 - 10,Jun,4,Jun,10,98.0,4.91 (68),4.91,68.0,"Verson, France",Verson,France
+"Home in Vaiano, Italy",Home,Casale La Quercia - Tuscany country house,[],0,Jun 21 - 26,Jun,21,Jun,26,111.0,4.94 (530),4.94,530.0,"Vaiano, Italy",Vaiano,Italy
+"Cottage in Boscastle, UK",Cottage,"A Boscastle barn, rustic simplicity stunning views",[],0,Jun 11 - 16,Jun,11,Jun,16,141.0,5.0 (9),5.0,9.0,"Boscastle, UK",Boscastle,UK
+"Cabin in County Wicklow, Ireland",Cabin,House with breathtaking views!,[],0,Jul 16 - 21,Jul,16,Jul,21,222.0,4.97 (104),4.97,104.0,"County Wicklow, Ireland",County Wicklow,Ireland
+"Home in Las Negras, Spain",Home,La Casita de Las Negras,[],0,Jun 14 - 19,Jun,14,Jun,19,370.0,4.85 (26),4.85,26.0,"Las Negras, Spain",Las Negras,Spain
+"Cabin in Serrazone, Italy",Cabin,King's Windmill - A little house in the woods,[],0,Jul 21 - 26,Jul,21,Jul,26,111.0,4.54 (201),4.54,201.0,"Serrazone, Italy",Serrazone,Italy
+"Lighthouse in Ploemeur, France",Lighthouse,Q3 BNB Premium Residence - The Engineering Tower,[],0,Jun 5 - 10,Jun,5,Jun,10,147.0,4.8 (10),4.8,10.0,"Ploemeur, France",Ploemeur,France
+"Cabin in Bridge of Earn, UK",Cabin,"The Haven Hut, warm, cosy and cute.",[],0,Jun 30 - Jul 5,Jun,30,Jul,5,64.0,4.67 (9),4.67,9.0,"Bridge of Earn, UK",Bridge of Earn,UK
+"Campsite in Rif, Iceland",Campsite,Washitsu.Casa camper Parking place w/house access,['Parking'],1,Jun 1 - 6,Jun,1,Jun,6,16.0,,,,"Rif, Iceland",Rif,Iceland
+"Shepherd’s hut in County Durham, UK",Shepherd’s hut,Ben's hat,[],0,Jun 18 - 23,Jun,18,Jun,23,82.0,4.92 (356),4.92,356.0,"County Durham, UK",County Durham,UK
+"Room in Wien, Austria",Room,Central luxury /Hauptbahnhof,[],0,Sep 17 - 22,Sep,17,Sep,22,92.0,5.0 (9),5.0,9.0,"Wien, Austria",Wien,Austria
+"Treehouse in Mons, France",Treehouse,Delightful rustic treehouse,[],0,Jun 1 - 6,Jun,1,Jun,6,42.0,4.67 (9),4.67,9.0,"Mons, France",Mons,France
+"Condo in Roviano, Italy",Condo,Apartment-Mansarda Vista Castello,[],0,Jun 8 - 13,Jun,8,Jun,13,61.0,5.0 (8),5.0,8.0,"Roviano, Italy",Roviano,Italy
+"Home in Jumilhac-le-Grand, France",Home,Bettyjems Stage Refuge,[],0,Jun 21 - 28,Jun,21,Jun,28,20.0,,,,"Jumilhac-le-Grand, France",Jumilhac-le-Grand,France
+"Cabin in Rosenthal-Bielatal, Germany",Cabin,Mountain hut in the Elbe sandstone with log cabin sauna,['Sauna'],1,Jun 4 - 9,Jun,4,Jun,9,98.0,4.78 (169),4.78,169.0,"Rosenthal-Bielatal, Germany",Rosenthal-Bielatal,Germany
+"Hut in Wolfegg, Germany",Hut,"Shepherd's hut ""Wolkakkrazer"" near Wolfegg",[],0,Jul 2 - 7,Jul,2,Jul,7,57.0,4.88 (220),4.88,220.0,"Wolfegg, Germany",Wolfegg,Germany
+"Dome in Atzeneta del Maestrat, Spain",Dome,Private domed Copula @ Free Spirit horse refuge,[],0,Jun 1 - 6,Jun,1,Jun,6,63.0,4.61 (154),4.61,154.0,"Atzeneta del Maestrat, Spain",Atzeneta del Maestrat,Spain
+"Home in Taktikoupoli, Greece",Home,Levanda Home,[],0,Oct 10 - 17,Oct,10,Oct,17,73.0,4.91 (147),4.91,147.0,"Taktikoupoli, Greece",Taktikoupoli,Greece
+"Apartment in Le Relecq-Kerhuon, France",Apartment,Face à la mer Brestoise,[],0,Jun 1 - 6,Jun,1,Jun,6,87.0,New,,,"Le Relecq-Kerhuon, France",Le Relecq-Kerhuon,France
+"Nature lodge in Fethiye, Turkey",Nature lodge,DEEP OCEAN BUNGALOWS-PANORAMIC &DOUBLE &HALF BOARD,[],0,Jun 5 - 10,Jun,5,Jun,10,115.0,4.91 (75),4.91,75.0,"Fethiye, Turkey",Fethiye,Turkey
+"Chalet in Covilhã, Portugal",Chalet,Xitaca do Pula,[],0,Jun 11 - 17,Jun,11,Jun,17,78.0,4.95 (203),4.95,203.0,"Covilhã, Portugal",Covilhã,Portugal
+"Apartment in Abram, Greece",Apartment,Infinity Abram,[],0,Jun 1 - 7,Jun,1,Jun,7,61.0,4.57 (44),4.57,44.0,"Abram, Greece",Abram,Greece
+"Room in Halsham, UK",Room,King bedroom in historic house with garden access,[],0,Jun 4 - 9,Jun,4,Jun,9,92.0,4.96 (24),4.96,24.0,"Halsham, UK",Halsham,UK
+"Vacation home in Rocchetta Nervina, Italy",Vacation home,The Loggia,[],0,Jun 2 - 7,Jun,2,Jun,7,169.0,4.85 (61),4.85,61.0,"Rocchetta Nervina, Italy",Rocchetta Nervina,Italy
+"Home in Cernobbio, Italy",Home,Ca' Roncate,[],0,Oct 24 - 31,Oct,24,Oct,31,127.0,4.9 (378),4.9,378.0,"Cernobbio, Italy",Cernobbio,Italy
+"Camper/RV in Wettringen, Germany",Camper/RV,Trailer Paradise Ivonete _unwind,[],0,Jun 10 - 15,Jun,10,Jun,15,46.0,4.97 (71),4.97,71.0,"Wettringen, Germany",Wettringen,Germany
+"Home in Otívar, Spain",Home,"Views to the valley, Wi-Fi, Air-Con, terrace,",['Wi-Fi'],1,Jun 11 - 18,Jun,11,Jun,18,79.0,4.88 (140),4.88,140.0,"Otívar, Spain",Otívar,Spain
+"Home in Castelmezzano, Italy",Home,Casa del Mago - Castelmezzano,[],0,Jun 12 - 17,Jun,12,Jun,17,93.0,4.78 (100),4.78,100.0,"Castelmezzano, Italy",Castelmezzano,Italy
+"Windmill in Atouguia da Baleia, Portugal",Windmill,Moinho do Sr. Arnaldo - Big Windmill at Peniche,[],0,Jun 19 - 26,Jun,19,Jun,26,196.0,4.85 (13),4.85,13.0,"Atouguia da Baleia, Portugal",Atouguia da Baleia,Portugal
+"Earthen home in La Canourgue, France",Earthen home,canopy house,[],0,Jun 27 - Jul 2,Jun,27,Jul,2,81.0,4.81 (212),4.81,212.0,"La Canourgue, France",La Canourgue,France
+"Home in Dinami, Italy",Home,Panucci's house- halfway between the sea and mountain,[],0,Jun 1 - 6,Jun,1,Jun,6,25.0,4.98 (245),4.98,245.0,"Dinami, Italy",Dinami,Italy
+"Cottage in Crossdoney, Ireland",Cottage,Peacock House,[],0,Jun 11 - 17,Jun,11,Jun,17,80.0,,,,"Crossdoney, Ireland",Crossdoney,Ireland
+"Villa in Abiansemal, Indonesia",Villa,"Aura House 2bds Eco Bamboo House, Pool, River View",['Pool'],1,Jan 9 - 14,Jan,9,Jan,14,513.0,4.87 (209),4.87,209.0,"Abiansemal, Indonesia",Abiansemal,Indonesia
+"Hut in Balian Beach, Indonesia",Hut,BALIAN TREEHOUSE w beautiful pool,['Pool'],1,Jun 21 - 26,Jun,21,Jun,26,117.0,4.85 (287),4.85,287.0,"Balian Beach, Indonesia",Balian Beach,Indonesia
+"Hut in Ubud, Indonesia",Hut,Bali Bamboo House | Rescape Ubud - Relief Villa,[],0,Oct 29 - Nov 3,Oct,29,Nov,3,171.0,4.79 (164),4.79,164.0,"Ubud, Indonesia",Ubud,Indonesia
+"Villa in Ubud, Indonesia",Villa,❣️Romantic Staycation-PrivateSunset Pool@megananda,['Pool'],1,Nov 18 - 23,Nov,18,Nov,23,111.0,4.92 (388),4.92,388.0,"Ubud, Indonesia",Ubud,Indonesia
+"Cabin in Tampaksiring, Indonesia",Cabin,Dome - Bamboo Villa in Eco Six Bali,[],0,Jul 4 - 9,Jul,4,Jul,9,420.0,4.87 (85),4.87,85.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Treehouse in Balamban, Philippines",Treehouse,Treehouse De Valentine,[],0,Jun 15 - 20,Jun,15,Jun,20,255.0,4.91 (147),4.91,147.0,"Balamban, Philippines",Balamban,Philippines
+"Villa in Tampaksiring, Indonesia",Villa,Luxury 5 BDR Resort w/ Gym & Ricefield View,[],0,Sep 12 - 17,Sep,12,Sep,17,506.0,4.78 (101),4.78,101.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Island in El Nido, Philippines",Island,"Exclusive Private Island + Brother Island, El Nido",[],0,Jun 1 - 6,Jun,1,Jun,6,469.0,4.82 (131),4.82,131.0,"El Nido, Philippines",El Nido,Philippines
+"Room in Chom Phon, Thailand",Room,15min walk to MRT Private room for 3 Free Brekkie.,[],0,Jun 24 - 29,Jun,24,Jun,29,31.0,4.9 (255),4.9,255.0,"Chom Phon, Thailand",Chom Phon,Thailand
+"Villa in Kecamatan Ubud, Indonesia",Villa,Elegant & luxurious 3 BR villa rice-fields pano,[],0,Jun 21 - 26,Jun,21,Jun,26,322.0,4.65 (94),4.65,94.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Villa in Tabanan, Indonesia",Villa,Exclusive Beach Villa - Balian Beach,[],0,Jun 1 - 6,Jun,1,Jun,6,240.0,4.8 (105),4.8,105.0,"Tabanan, Indonesia",Tabanan,Indonesia
+"Villa in Singaraja, Indonesia",Villa,"180° VIEW, PRIVATE POOL VILLA..",['Pool'],1,Jun 11 - 16,Jun,11,Jun,16,206.0,4.93 (355),4.93,355.0,"Singaraja, Indonesia",Singaraja,Indonesia
+"Apartment in Phuket, Thailand, Thailand",Apartment,White Breeze Pool 1BD Apartment,['Pool'],1,Jun 4 - 10,Jun,4,Jun,10,64.0,4.69 (112),4.69,112.0,"Phuket, Thailand, Thailand","Phuket, Thailand",Thailand
+"Villa in Nusa Ceningan, Indonesia",Villa,Beautiful villa on the edge of BLUE LAGOON,[],0,Jun 1 - 6,Jun,1,Jun,6,264.0,4.83 (1239),4.83,1239.0,"Nusa Ceningan, Indonesia",Nusa Ceningan,Indonesia
+"Villa in Kecamatan Ubud, Indonesia",Villa,Intimate Private Pool Villas in Ubud center,['Pool'],1,Jun 7 - 12,Jun,7,Jun,12,209.0,4.89 (223),4.89,223.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Hut in Kecamatan Ubud, Indonesia",Hut,50% OFF | Ipian Cinta with Private Pool jacuzzi,"['Jacuzzi', 'Pool']",2,Oct 28 - Nov 2,Oct,28,Nov,2,142.0,4.62 (118),4.62,118.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Villa in Kecamatan Kuta Utara, Indonesia",Villa,Love Nest for honeymooner at best location,[],0,Sep 3 - 8,Sep,3,Sep,8,251.0,4.98 (87),4.98,87.0,"Kecamatan Kuta Utara, Indonesia",Kecamatan Kuta Utara,Indonesia
+"Earthen home in Mueang Chiang Mai District, Thailand",Earthen home,Leafy Greens Chiangmai : Mushroom M2,[],0,Jun 13 - 20,Jun,13,Jun,20,22.0,4.87 (210),4.87,210.0,"Mueang Chiang Mai District, Thailand",Mueang Chiang Mai District,Thailand
+"Villa in Payangan, Indonesia",Villa,❣️Secluded Getaway Staycation+SunsetPool@megananda,[],0,Nov 6 - 11,Nov,6,Nov,11,111.0,4.89 (364),4.89,364.0,"Payangan, Indonesia",Payangan,Indonesia
+"Villa in Ubud, Kabupaten Gianyar, Indonesia",Villa,#3# Beautiful Balinese Villa with Private Pool,['Pool'],1,Nov 12 - 17,Nov,12,Nov,17,137.0,4.91 (434),4.91,434.0,"Ubud, Kabupaten Gianyar, Indonesia","Ubud, Kabupaten Gianyar",Indonesia
+"Villa in เกาะพงัน, Thailand",Villa,"Palma Villa, Spectacular Sea View Villa with Pool","['Ocean view', 'Pool']",2,Jul 17 - 22,Jul,17,Jul,22,238.0,5.0 (13),5.0,13.0,"เกาะพงัน, Thailand",เกาะพงัน,Thailand
+"Villa in Tegallalang, Indonesia",Villa,Luxurious Private Pool Villa with Garden North of Ubud,['Pool'],1,Oct 14 - 19,Oct,14,Oct,19,126.0,4.92 (166),4.92,166.0,"Tegallalang, Indonesia",Tegallalang,Indonesia
+"Tiny home in Kecamatan Ubud, Indonesia",Tiny home,Tiny Tall Haus Ubud Getaway!,[],0,Jun 26 - Jul 1,Jun,26,Jul,1,95.0,4.87 (104),4.87,104.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Bungalow in Ubud, Indonesia",Bungalow,Pondok Prapen -Ubud Center Private Pool Villa,['Pool'],1,Jun 15 - 20,Jun,15,Jun,20,217.0,4.89 (333),4.89,333.0,"Ubud, Indonesia",Ubud,Indonesia
+"Villa in Tampaksiring, Indonesia",Villa,Beetle - Bamboo Villa in Eco Six Bali Resort,[],0,Oct 28 - Nov 2,Oct,28,Nov,2,458.0,4.82 (82),4.82,82.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Home in Ko Samui, Thailand",Home,the naked house,[],0,Jun 5 - 10,Jun,5,Jun,10,205.0,4.88 (183),4.88,183.0,"Ko Samui, Thailand",Ko Samui,Thailand
+"Villa in Kamala, Thailand",Villa,"""Villa Sauvage 2 br"" - a magic horizon of coziness",[],0,Jun 6 - 11,Jun,6,Jun,11,122.0,4.57 (115),4.57,115.0,"Kamala, Thailand",Kamala,Thailand
+"Home in Mabini, Philippines",Home,Bathing Private Exclusive Cottage,[],0,Jun 12 - 17,Jun,12,Jun,17,183.0,4.91 (181),4.91,181.0,"Mabini, Philippines",Mabini,Philippines
+"Hut in Abiansemal, Indonesia",Hut,Zen Hideaway #3 - ultimate Wabi-sabi experiences,[],0,Jul 30 - Aug 4,Jul,30,Aug,4,235.0,4.8 (372),4.8,372.0,"Abiansemal, Indonesia",Abiansemal,Indonesia
+"Tiny home in Cavinti, Philippines",Tiny home,"Explore, Experience, Enjoy T-HOUSE Lakestaycation!",[],0,Jun 2 - 7,Jun,2,Jun,7,39.0,4.43 (160),4.43,160.0,"Cavinti, Philippines",Cavinti,Philippines
+"Hut in Tampaksiring, Indonesia",Hut,Hidden Bamboo Bali,[],0,Nov 8 - 13,Nov,8,Nov,13,136.0,4.91 (161),4.91,161.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Room in Kecamatan Denpasar Selatan, Indonesia",Room,Poolside room in large villa. 5 minutes to beach.,[],0,Aug 10 - 16,Aug,10,Aug,16,34.0,5.0 (37),5.0,37.0,"Kecamatan Denpasar Selatan, Indonesia",Kecamatan Denpasar Selatan,Indonesia
+"Room in Bangkok, Thailand",Room,Ba hao Residence x MAITRI CHIT ROOM,[],0,Aug 15 - 20,Aug,15,Aug,20,96.0,4.93 (431),4.93,431.0,"Bangkok, Thailand",Bangkok,Thailand
+"Boutique hotel in Ko Samui, Thailand",Boutique hotel,Pool Villa by Humble,['Pool'],1,Jun 15 - 20,Jun,15,Jun,20,63.0,4.93 (105),4.93,105.0,"Ko Samui, Thailand",Ko Samui,Thailand
+"Apartment in Muang Pattaya, Thailand",Apartment,[VR] 2BR High Skyline Ocean View @ Pattaya,['Ocean view'],1,Jun 5 - 10,Jun,5,Jun,10,136.0,4.69 (85),4.69,85.0,"Muang Pattaya, Thailand",Muang Pattaya,Thailand
+"Home in Kuta, Indonesia",Home,Villa Seminyak 1 Bedroom 10 Mins to Beach,[],0,Jun 11 - 16,Jun,11,Jun,16,69.0,4.67 (340),4.67,340.0,"Kuta, Indonesia",Kuta,Indonesia
+"Villa in Ko Lanta District, Thailand",Villa,"DEEPSPACE villa X1 ,Secret Address on Quiet Beach",[],0,Jun 6 - 11,Jun,6,Jun,11,164.0,4.7 (47),4.7,47.0,"Ko Lanta District, Thailand",Ko Lanta District,Thailand
+"Place to stay in Balian Beach, Indonesia",Place to stay,BALIAN TREEHOUSE 2 - with private pool,['Pool'],1,Jul 21 - 28,Jul,21,Jul,28,131.0,4.89 (140),4.89,140.0,"Balian Beach, Indonesia",Balian Beach,Indonesia
+"Villa in Thành phố Hội An, Vietnam",Villa,Private pool two bedroom villa - villa the cow,['Pool'],1,Jun 3 - 8,Jun,3,Jun,8,97.0,4.8 (124),4.8,124.0,"Thành phố Hội An, Vietnam",Thành phố Hội An,Vietnam
+"Apartment in 清迈, Thailand",Apartment,清迈 The Astra Condo长康路无边泳池豪华公寓古城夜市边Chang Khlan road,[],0,Jun 12 - 17,Jun,12,Jun,17,33.0,4.68 (158),4.68,158.0,"清迈, Thailand",清迈,Thailand
+"Place to stay in Thành phố Hội An, Vietnam",Place to stay,Garden view twin room with breakfast-Ngan Phu,[],0,Jun 10 - 17,Jun,10,Jun,17,24.0,4.85 (255),4.85,255.0,"Thành phố Hội An, Vietnam",Thành phố Hội An,Vietnam
+"Room in Sidemen, Indonesia",Room,Heritage of Art Villa Iseh in Sidemen East Bali,[],0,Jun 1 - 6,Jun,1,Jun,6,154.0,4.89 (111),4.89,111.0,"Sidemen, Indonesia",Sidemen,Indonesia
+"Apartment in Tambon Patong, Thailand",Apartment,One-Bedroom Suite in Patong Beach,[],0,Jun 9 - 14,Jun,9,Jun,14,49.0,4.73 (67),4.73,67.0,"Tambon Patong, Thailand",Tambon Patong,Thailand
+"Condo in Khet Watthana, Thailand",Condo,"【CENTRAL STUDIO】0-min BTS ASOK, FAST WIFI, NETFLIX",['Wi-Fi'],1,Jun 1 - 6,Jun,1,Jun,6,58.0,4.74 (252),4.74,252.0,"Khet Watthana, Thailand",Khet Watthana,Thailand
+"Villa in Koh Yao Noi, Thailand",Villa,"Eagles Nest, Luxury Villa, Koh Yao Noi",[],0,Jun 1 - 6,Jun,1,Jun,6,986.0,4.95 (43),4.95,43.0,"Koh Yao Noi, Thailand",Koh Yao Noi,Thailand
+"Hotel room in Thành phố Hội An, Vietnam",Hotel room,FIG TREE BOUTIQUE VILLA,[],0,Jun 1 - 6,Jun,1,Jun,6,30.0,4.83 (92),4.83,92.0,"Thành phố Hội An, Vietnam",Thành phố Hội An,Vietnam
+"Earthen home in Ao nang, Thailand",Earthen home,Seaview Bedrock Home,[],0,Jun 1 - 6,Jun,1,Jun,6,131.0,4.8 (35),4.8,35.0,"Ao nang, Thailand",Ao nang,Thailand
+"Villa in Langkawi, Malaysia",Villa,Alamanda Tropical Wooden Villa - Pool View,['Pool'],1,Jun 15 - 20,Jun,15,Jun,20,97.0,4.87 (196),4.87,196.0,"Langkawi, Malaysia",Langkawi,Malaysia
+"Villa in Koh Lanta Island, Thailand",Villa,Perch Villa - Clifftop villa spectacular sea view,['Ocean view'],1,Jun 6 - 11,Jun,6,Jun,11,162.0,4.94 (71),4.94,71.0,"Koh Lanta Island, Thailand",Koh Lanta Island,Thailand
+"Guesthouse in Kecamatan Kuta Utara, Indonesia",Guesthouse,Tropical Private Room Canggu 3 by Rios Guest House,[],0,Aug 4 - 11,Aug,4,Aug,11,33.0,4.86 (7),4.86,7.0,"Kecamatan Kuta Utara, Indonesia",Kecamatan Kuta Utara,Indonesia
+"Villa in Rayong, Thailand",Villa,"Luxury Beach Front Pool Villa, Phuphatara Rayong",['Pool'],1,Jun 6 - 11,Jun,6,Jun,11,359.0,4.68 (85),4.68,85.0,"Rayong, Thailand",Rayong,Thailand
+"Cottage in Lamai Beach, Thailand",Cottage,TROPICAL POOL BEACH VILLA III | Beach-Pool-Freedom,['Pool'],1,Jun 3 - 8,Jun,3,Jun,8,142.0,4.92 (25),4.92,25.0,"Lamai Beach, Thailand",Lamai Beach,Thailand
+"Cabin in Kecamatan Ubud, Indonesia",Cabin,Samu House. Tropical stay private pool.Adults Only,['Pool'],1,Sep 29 - Oct 4,Sep,29,Oct,4,108.0,4.84 (106),4.84,106.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Villa in Tampaksiring, Indonesia",Villa,Romantic 1br Villa - Ubud Jungle,[],0,Dec 24 - 29,Dec,24,Dec,29,363.0,5.0 (13),5.0,13.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Treehouse in Tampaksiring, Indonesia",Treehouse,umatreehouse,[],0,Nov 16 - 21,Nov,16,Nov,21,133.0,4.93 (164),4.93,164.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Treehouse in Ubud, Indonesia",Treehouse,"Promo Price! Magical Treehouse, Stunning Views.",[],0,Aug 23 - 30,Aug,23,Aug,30,280.0,4.78 (528),4.78,528.0,"Ubud, Indonesia",Ubud,Indonesia
+"Bungalow in Nusapenida, Indonesia",Bungalow,Tropical Glamping 🌴 Cliff Side Ocean View + Net🐬,['Ocean view'],1,Oct 26 - 31,Oct,26,Oct,31,474.0,4.93 (209),4.93,209.0,"Nusapenida, Indonesia",Nusapenida,Indonesia
+"Treehouse in Klungkung, Indonesia",Treehouse,Cliffside Bamboo Treehouse - Private Pool & View,['Pool'],1,Nov 14 - 19,Nov,14,Nov,19,484.0,5.0 (59),5.0,59.0,"Klungkung, Indonesia",Klungkung,Indonesia
+"Cabin in Klungkung, Indonesia",Cabin,Dreamy Cliffside Bamboo Villa with Pool and View,['Pool'],1,Nov 5 - 10,Nov,5,Nov,10,484.0,4.98 (58),4.98,58.0,"Klungkung, Indonesia",Klungkung,Indonesia
+"Cottage in Ubud, Indonesia",Cottage,25%OFF! Romantic Honeymoon Escape in Ubud Paradise,[],0,Jun 28 - Jul 3,Jun,28,Jul,3,117.0,4.77 (219),4.77,219.0,"Ubud, Indonesia",Ubud,Indonesia
+"Resort in Nusa Lembongan,, Indonesia",Resort,Acala Lembongan-Deluxe Suite Sea View,['Ocean view'],1,Oct 6 - 11,Oct,6,Oct,11,92.0,4.63 (51),4.63,51.0,"Nusa Lembongan,, Indonesia","Nusa Lembongan,",Indonesia
+"Villa in Ubud, Indonesia",Villa,NEW 5BR Luxury Villa in Ubud: Pool and Jungle View,['Pool'],1,Jun 20 - 25,Jun,20,Jun,25,451.0,New,,,"Ubud, Indonesia",Ubud,Indonesia
+"Treehouse in Kabupaten Buleleng, Indonesia",Treehouse,Seaside Designer Treehouse ~ Stunning Views ~ Pool,['Pool'],1,Jun 13 - 18,Jun,13,Jun,18,121.0,4.75 (4),4.75,4.0,"Kabupaten Buleleng, Indonesia",Kabupaten Buleleng,Indonesia
+"Room in Kabupaten Buleleng, Indonesia",Room,private villa with infinity pool hill and sea view,"['Ocean view', 'Pool']",2,Oct 6 - 11,Oct,6,Oct,11,53.0,4.8 (35),4.8,35.0,"Kabupaten Buleleng, Indonesia",Kabupaten Buleleng,Indonesia
+"Hut in Ubud, Indonesia",Hut,50% OFF | Ipian Jiwa Eco Bamboo Uniquely Escape,[],0,Oct 11 - 16,Oct,11,Oct,16,89.0,4.67 (128),4.67,128.0,"Ubud, Indonesia",Ubud,Indonesia
+"Villa in Bacnotan, La Union, Philippines",Villa,"Private Modern Beachfront Villa: Pool, Sunset View","['Ocean front', 'Pool']",2,Jun 28 - Jul 3,Jun,28,Jul,3,628.0,5.0 (15),5.0,15.0,"Bacnotan, La Union, Philippines","Bacnotan, La Union",Philippines
+"Villa in Lian, Philippines",Villa,SoftLaunch IbizaInspiredBeachfrontVilla inBatangas,[],0,Jul 2 - 7,Jul,2,Jul,7,473.0,4.91 (11),4.91,11.0,"Lian, Philippines",Lian,Philippines
+"Hotel in Kecamatan Ubud, Indonesia",Hotel,Stunning Room Near Ubud Market - Outdoor Pool!!,['Pool'],1,Sep 14 - 20,Sep,14,Sep,20,44.0,4.78 (358),4.78,358.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Hotel in Tambon Ratsada, Thailand",Hotel,Hotel Room with Private Plunge Pool Siray Bay#2,['Pool'],1,Jun 13 - 18,Jun,13,Jun,18,71.0,5.0 (13),5.0,13.0,"Tambon Ratsada, Thailand",Tambon Ratsada,Thailand
+"Guest suite in Bingin Beach, Indonesia",Guest suite,Suite 2 - Beachfront Luxury Suite on Bingin Beach,['Ocean front'],1,Oct 16 - 21,Oct,16,Oct,21,267.0,4.93 (96),4.93,96.0,"Bingin Beach, Indonesia",Bingin Beach,Indonesia
+"Loft in Seminyak, Indonesia",Loft,TROPICAL - DESIGNER LOFT - Seminyak,[],0,Sep 26 - Oct 1,Sep,26,Oct,1,220.0,4.98 (113),4.98,113.0,"Seminyak, Indonesia",Seminyak,Indonesia
+"Treehouse in Klungkung, Indonesia",Treehouse,3 Bdr - The Dream Cliffside Bamboo Villa By Avana,[],0,Aug 3 - 8,Aug,3,Aug,8,913.0,4.97 (30),4.97,30.0,"Klungkung, Indonesia",Klungkung,Indonesia
+"Villa in Kecamatan Ubud, Indonesia",Villa,Madara Ubud Villas,[],0,Aug 2 - 7,Aug,2,Aug,7,194.0,4.83 (129),4.83,129.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Shipping container in Tambon Bo Put, Thailand",Shipping container,New 2BR+2Bath Eco Home,[],0,Jul 24 - 29,Jul,24,Jul,29,53.0,4.73 (11),4.73,11.0,"Tambon Bo Put, Thailand",Tambon Bo Put,Thailand
+"Place to stay in Penebel, Indonesia",Place to stay,Le Aiken Xperience - Unique Bamboo House,[],0,Aug 30 - Sep 4,Aug,30,Sep,4,252.0,4.69 (94),4.69,94.0,"Penebel, Indonesia",Penebel,Indonesia
+"Home in Kecamatan Tampaksiring, Indonesia",Home,Six-Bamboo Villa in Eco Six Bali Resort,[],0,Sep 30 - Oct 6,Sep,30,Oct,6,458.0,5.0 (5),5.0,5.0,"Kecamatan Tampaksiring, Indonesia",Kecamatan Tampaksiring,Indonesia
+"Home in Kecamatan Kuta Selatan, Indonesia",Home,One-Bedroom Villa Suite Deluxe,[],0,Sep 24 - 29,Sep,24,Sep,29,229.0,4.95 (20),4.95,20.0,"Kecamatan Kuta Selatan, Indonesia",Kecamatan Kuta Selatan,Indonesia
+"Treehouse in Tegallalang, Indonesia",Treehouse,Enchanted Hobbit Treehouse Nestled in the Jungle,[],0,Oct 17 - 24,Oct,17,Oct,24,207.0,4.92 (117),4.92,117.0,"Tegallalang, Indonesia",Tegallalang,Indonesia
+"Home in Tegallalang, Indonesia",Home,Romantic hideaway for two,[],0,Oct 25 - 30,Oct,25,Oct,30,33.0,4.97 (229),4.97,229.0,"Tegallalang, Indonesia",Tegallalang,Indonesia
+"Apartment in Nasugbu, Philippines",Apartment,PICO DE LORO ( Santorini Vibe),[],0,Jun 25 - 30,Jun,25,Jun,30,112.0,4.88 (16),4.88,16.0,"Nasugbu, Philippines",Nasugbu,Philippines
+"Villa in Kecamatan Tampaksiring, Indonesia",Villa,*NEW* Lovely New 3BR Villa Stunning Jungle View,[],0,Sep 12 - 17,Sep,12,Sep,17,381.0,4.7 (69),4.7,69.0,"Kecamatan Tampaksiring, Indonesia",Kecamatan Tampaksiring,Indonesia
+"Villa in South Kuta, Indonesia",Villa,Nalu Bingin - 1 Bedroom Villa,[],0,Sep 25 - 30,Sep,25,Sep,30,202.0,5.0 (5),5.0,5.0,"South Kuta, Indonesia",South Kuta,Indonesia
+"Villa in Kecamatan Ubud, Indonesia",Villa,Pelangi Treehouse (formerly Skai Joglo),[],0,Sep 25 - 30,Sep,25,Sep,30,229.0,4.92 (112),4.92,112.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Place to stay in Pecatu, Indonesia",Place to stay,°3 Charming room in Bingin beach,[],0,Sep 10 - 15,Sep,10,Sep,15,155.0,4.52 (523),4.52,523.0,"Pecatu, Indonesia",Pecatu,Indonesia
+"Villa in Ubud, Indonesia",Villa,"Luxe Villa in Tropical Oasis, Ubud. Walk to town.",[],0,Oct 28 - Nov 2,Oct,28,Nov,2,176.0,4.93 (287),4.93,287.0,"Ubud, Indonesia",Ubud,Indonesia
+"Villa in Banjar, Indonesia",Villa,4br Lovina Paradise - Ocean View,['Ocean view'],1,Jun 9 - 14,Jun,9,Jun,14,460.0,4.93 (40),4.93,40.0,"Banjar, Indonesia",Banjar,Indonesia
+"Condo in Johor Bahru, Malaysia",Condo,"Baby & kids friendly, JB CIQ, Romantic Duplex",[],0,Jun 25 - 30,Jun,25,Jun,30,75.0,4.82 (182),4.82,182.0,"Johor Bahru, Malaysia",Johor Bahru,Malaysia
+"Tiny home in Concepcion, Philippines",Tiny home,Tiny House by The Modern Escape,[],0,Jul 3 - 8,Jul,3,Jul,8,128.0,5.0 (32),5.0,32.0,"Concepcion, Philippines",Concepcion,Philippines
+"Villa in Kecamatan Kuta Utara, Indonesia",Villa,Gorgeous luxury 1 bedroom villa in heart of Canggu,[],0,Sep 9 - 14,Sep,9,Sep,14,325.0,4.87 (47),4.87,47.0,"Kecamatan Kuta Utara, Indonesia",Kecamatan Kuta Utara,Indonesia
+"Villa in Kecamatan Seririt, Indonesia",Villa,Boho-Chic villa with ocean&rice field view,[],0,Sep 28 - Oct 3,Sep,28,Oct,3,201.0,4.97 (67),4.97,67.0,"Kecamatan Seririt, Indonesia",Kecamatan Seririt,Indonesia
+"Villa in Ubud, Indonesia",Villa,Ceylon Villas 4 - 1BR Villa! 5 mins to Ubud 🌴,[],0,Nov 23 - 28,Nov,23,Nov,28,125.0,4.92 (184),4.92,184.0,"Ubud, Indonesia",Ubud,Indonesia
+"Place to stay in Kecamatan Kuta Selatan, Indonesia",Place to stay,Gypsea Bali Bungalow with private bathroom and AC,['Air conditioning'],1,Sep 11 - 16,Sep,11,Sep,16,155.0,4.92 (78),4.92,78.0,"Kecamatan Kuta Selatan, Indonesia",Kecamatan Kuta Selatan,Indonesia
+"Hut in Kecamatan Ubud, Indonesia",Hut,"DAY CLOUDS, Ubud",[],0,Jul 20 - 25,Jul,20,Jul,25,72.0,4.59 (122),4.59,122.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Cabin in Amadeo, Philippines",Cabin,Cozy Loft Cabins Near Tagaytay,[],0,Aug 7 - 13,Aug,7,Aug,13,252.0,4.88 (43),4.88,43.0,"Amadeo, Philippines",Amadeo,Philippines
+"Place to stay in Tabanan, Indonesia",Place to stay,Ocean View and Private Pool at Balian Beach,"['Ocean view', 'Pool']",2,Jul 23 - 28,Jul,23,Jul,28,116.0,4.82 (122),4.82,122.0,"Tabanan, Indonesia",Tabanan,Indonesia
+"Cabin in Kecamatan Sukasada, Indonesia",Cabin,Wanagiri Cabin,[],0,Nov 1 - 7,Nov,1,Nov,7,148.0,4.97 (29),4.97,29.0,"Kecamatan Sukasada, Indonesia",Kecamatan Sukasada,Indonesia
+"Place to stay in Nusapenida, Indonesia",Place to stay,Batan Sabo Cottage,[],0,Sep 27 - Oct 2,Sep,27,Oct,2,72.0,4.72 (459),4.72,459.0,"Nusapenida, Indonesia",Nusapenida,Indonesia
+"Treehouse in Kecamatan Ubud, Indonesia",Treehouse,Bamboo Turtle cabin river view 5km to Ubud center,[],0,Jul 9 - 14,Jul,9,Jul,14,118.0,4.88 (75),4.88,75.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Home in Kecamatan Ubud, Indonesia",Home,PROMO! Luxury Villa Escape in Ubud 2 BR,[],0,Sep 1 - 6,Sep,1,Sep,6,306.0,5.0 (4),5.0,4.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Apartment in Candidasa, Indonesia",Apartment,Villa Sea Spray Bali Cowrie literally on the Ocean,[],0,Aug 19 - 24,Aug,19,Aug,24,130.0,4.79 (112),4.79,112.0,"Candidasa, Indonesia",Candidasa,Indonesia
+"Home in Kecamatan Selat, Indonesia",Home,The Nude House,[],0,Jul 10 - 15,Jul,10,Jul,15,305.0,4.68 (19),4.68,19.0,"Kecamatan Selat, Indonesia",Kecamatan Selat,Indonesia
+"Villa in Kathu, Thailand",Villa,Tiny Poolvilla in the heart of Phuket,[],0,Jul 25 - 30,Jul,25,Jul,30,119.0,5.0 (98),5.0,98.0,"Kathu, Thailand",Kathu,Thailand
+"Apartment in Kuala Lumpur, Malaysia",Apartment,Instagrammable Loft Studio in EkoCheras KL,[],0,Jul 9 - 14,Jul,9,Jul,14,60.0,4.94 (84),4.94,84.0,"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia
+"Villa in Kecamatan Banjar, Indonesia",Villa,❤PROMO Beachfront oasis. Private pool and firepit,"['Ocean front', 'Pool']",2,Jun 16 - 21,Jun,16,Jun,21,189.0,4.74 (46),4.74,46.0,"Kecamatan Banjar, Indonesia",Kecamatan Banjar,Indonesia
+"Condo in Federal Territory of Kuala Lumpur,, Malaysia",Condo,Arte Mont Kiara Muji Suites,[],0,Jun 4 - 11,Jun,4,Jun,11,51.0,4.59 (406),4.59,406.0,"Federal Territory of Kuala Lumpur,, Malaysia","Federal Territory of Kuala Lumpur,",Malaysia
+"Villa in Tagaytay, Philippines",Villa,My Canopy Tagaytay (with thermal pool),['Pool'],1,Sep 17 - 22,Sep,17,Sep,22,424.0,4.91 (81),4.91,81.0,"Tagaytay, Philippines",Tagaytay,Philippines
+"Room in UbudUbud, Gianyar, Indonesia",Room,Luxe Suite: Villacellabella Ubud Bali Instaworthy,[],0,Jun 26 - Jul 1,Jun,26,Jul,1,490.0,4.92 (167),4.92,167.0,"UbudUbud, Gianyar, Indonesia","UbudUbud, Gianyar",Indonesia
+"Apartment in phường 6, Vietnam",Apartment,CITY APART ★ CENTRAL City-FREE Pool & Gym,['Pool'],1,Jun 1 - 6,Jun,1,Jun,6,31.0,4.64 (96),4.64,96.0,"phường 6, Vietnam",phường 6,Vietnam
+"Place to stay in Ubud, Indonesia",Place to stay,Villa Akasha - Bio-Architected Eco Dome,[],0,Sep 19 - 24,Sep,19,Sep,24,86.0,4.65 (303),4.65,303.0,"Ubud, Indonesia",Ubud,Indonesia
+"Resort in Lian, Philippines",Resort,#1Beach Front Villa room Villa Blanca Beach Front,[],0,Jun 4 - 9,Jun,4,Jun,9,71.0,4.58 (114),4.58,114.0,"Lian, Philippines",Lian,Philippines
+"Villa in Ubud, Indonesia",Villa,Luxury 1 BR Villa w/ Private Pool & Ricefield View,['Pool'],1,Oct 25 - 30,Oct,25,Oct,30,92.0,4.95 (208),4.95,208.0,"Ubud, Indonesia",Ubud,Indonesia
+"Apartment in Melaka, Malaysia",Apartment,Yuma • Atlantis Melaka/3BR 8Pax WiFi Balcony SeaView,['Wi-Fi'],1,Jun 18 - 23,Jun,18,Jun,23,40.0,4.43 (7),4.43,7.0,"Melaka, Malaysia",Melaka,Malaysia
+"Villa in Tampaksiring, Indonesia",Villa,Ceylon Villas 1 - 2BR Villa! 5 mins to Ubud 🌴,[],0,Sep 27 - Oct 2,Sep,27,Oct,2,166.0,4.89 (176),4.89,176.0,"Tampaksiring, Indonesia",Tampaksiring,Indonesia
+"Home in 頭城鎮, Taiwan",Home,"Newly furnished first row of seaview in Moon, sea view, perfect sunrise ~ long term rental welcome (also discounted)",['Ocean view'],1,Jul 9 - 14,Jul,9,Jul,14,155.0,4.92 (216),4.92,216.0,"頭城鎮, Taiwan",頭城鎮,Taiwan
+"Boutique hotel in Kathu District, Thailand",Boutique hotel,B Designer King Bed with Partial SEA VIEW bath,['Ocean view'],1,Jun 2 - 7,Jun,2,Jun,7,75.0,4.5 (281),4.5,281.0,"Kathu District, Thailand",Kathu District,Thailand
+"Hut in Selat, Indonesia",Hut,"Vaikuntha#3, The Pursuit of Perfect Rustic Beauty",[],0,Oct 15 - 20,Oct,15,Oct,20,201.0,4.82 (146),4.82,146.0,"Selat, Indonesia",Selat,Indonesia
+"Resort in Tambon Maret, Thailand",Resort,DELUXE SEA VIEW + Hot Tub @Koh Samui,"['Jacuzzi', 'Ocean view']",2,Jun 2 - 7,Jun,2,Jun,7,72.0,4.63 (16),4.63,16.0,"Tambon Maret, Thailand",Tambon Maret,Thailand
+"Apartment in Bangkok, Thailand",Apartment,Spacious Apt in City of Angels,[],0,Jun 8 - 13,Jun,8,Jun,13,19.0,4.95 (438),4.95,438.0,"Bangkok, Thailand",Bangkok,Thailand
+"Apartment in Phuket, Thailand",Apartment,"Luxury room & Sky pool, in Phuket town",['Pool'],1,Jun 8 - 13,Jun,8,Jun,13,40.0,4.81 (210),4.81,210.0,"Phuket, Thailand",Phuket,Thailand
+"Tent in Kintamani, Indonesia",Tent,Mt Batur Sunrise & overnight,[],0,Jun 11 - 16,Jun,11,Jun,16,42.0,4.97 (29),4.97,29.0,"Kintamani, Indonesia",Kintamani,Indonesia
+"Place to stay in Nusa Penida, Indonesia",Place to stay,Tide 2 in Penida Tides Cottage,[],0,Jul 29 - Aug 3,Jul,29,Aug,3,32.0,4.85 (68),4.85,68.0,"Nusa Penida, Indonesia",Nusa Penida,Indonesia
+"Villa in Ubud, Indonesia",Villa,Ceylon Villas 2 - 2BR Villa! 5 mins to Ubud 🌴,[],0,Oct 12 - 17,Oct,12,Oct,17,157.0,4.88 (112),4.88,112.0,"Ubud, Indonesia",Ubud,Indonesia
+"Room in Kabupaten Badung, Indonesia",Room,Private room4 Legian/breakfast/close to Kuta beach,[],0,Jun 6 - 11,Jun,6,Jun,11,81.0,4.91 (34),4.91,34.0,"Kabupaten Badung, Indonesia",Kabupaten Badung,Indonesia
+"Villa in Karangasem, Indonesia",Villa,"Luxury Ocean Front, 2,500sq ft Private Eco Villa!",['Ocean front'],1,Jun 16 - 21,Jun,16,Jun,21,450.0,4.96 (24),4.96,24.0,"Karangasem, Indonesia",Karangasem,Indonesia
+"Apartment in PHUKET, Thailand",Apartment,★Studio in Seafront Private Villa w/infinity pool★,['Pool'],1,Jun 30 - Jul 5,Jun,30,Jul,5,53.0,4.83 (93),4.83,93.0,"PHUKET, Thailand",PHUKET,Thailand
+"Condo in Na Chom Thian, Thailand",Condo,Veranda Residence pattaya 2bedroom partial seaview,[],0,Jun 6 - 11,Jun,6,Jun,11,83.0,4.89 (186),4.89,186.0,"Na Chom Thian, Thailand",Na Chom Thian,Thailand
+"Home in Hua Hin, Thailand",Home,Cool Home w Garden near Sea,[],0,Jul 6 - 11,Jul,6,Jul,11,77.0,4.81 (360),4.81,360.0,"Hua Hin, Thailand",Hua Hin,Thailand
+"Loft in Pasig, Philippines",Loft,Cozy & Modern Loft w/ high speed wi-fi and Netflix,['Wi-Fi'],1,Jul 5 - 10,Jul,5,Jul,10,35.0,4.92 (196),4.92,196.0,"Pasig, Philippines",Pasig,Philippines
+"Apartment in Phuket, Thailand",Apartment,Cozy Place near Shopping Center,[],0,Jun 20 - 25,Jun,20,Jun,25,35.0,4.96 (237),4.96,237.0,"Phuket, Thailand",Phuket,Thailand
+"Home in Tabanan, Indonesia",Home,Ocean View Pool Villa @ Balian Beach,"['Ocean view', 'Pool']",2,Jun 8 - 13,Jun,8,Jun,13,170.0,4.76 (282),4.76,282.0,"Tabanan, Indonesia",Tabanan,Indonesia
+"Villa in General Luna, Philippines",Villa,Oceanfront Pool Villa,['Pool'],1,Jul 30 - Aug 5,Jul,30,Aug,5,163.0,4.96 (23),4.96,23.0,"General Luna, Philippines",General Luna,Philippines
+"Condo in George Town, Malaysia",Condo,Lovely 1 Bedroom Suite with Pool View,['Pool'],1,Jun 5 - 10,Jun,5,Jun,10,26.0,4.27 (56),4.27,56.0,"George Town, Malaysia",George Town,Malaysia
+"Home in Santander, Philippines",Home,Private Beach House. The Shack,[],0,Jun 11 - 18,Jun,11,Jun,18,89.0,4.88 (41),4.88,41.0,"Santander, Philippines",Santander,Philippines
+"Treehouse in Bali, Indonesia",Treehouse,Lounge Poolside Under Lush Greenery at an Organic Bamboo Pad,[],0,Jul 3 - 8,Jul,3,Jul,8,69.0,4.71 (98),4.71,98.0,"Bali, Indonesia",Bali,Indonesia
+"Apartment in Kuala Lumpur, Malaysia",Apartment,Walk to Petronas Towers from a Stylish Apartment,[],0,Jun 5 - 10,Jun,5,Jun,10,71.0,4.89 (296),4.89,296.0,"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia
+"Hotel room in Gili Trawangan, Indonesia",Hotel room,Coconut Garden Resort Gili Trawangan,[],0,Jul 24 - 30,Jul,24,Jul,30,69.0,4.84 (242),4.84,242.0,"Gili Trawangan, Indonesia",Gili Trawangan,Indonesia
+"Tiny home in Kabupaten Tabanan, Indonesia",Tiny home,Balian Beachfront Luxury Tiny House,['Ocean front'],1,Jun 5 - 10,Jun,5,Jun,10,186.0,5.0 (19),5.0,19.0,"Kabupaten Tabanan, Indonesia",Kabupaten Tabanan,Indonesia
+"Apartment in Port Dickson, Malaysia",Apartment,PD D'Wharf Premium Suite - Full Seaview (4-6 Pax),[],0,Jun 8 - 15,Jun,8,Jun,15,54.0,4.88 (129),4.88,129.0,"Port Dickson, Malaysia",Port Dickson,Malaysia
+"Apartment in PHUKET, Thailand",Apartment,Studio in Beachfront Private Villa w/Infinity pool,"['Ocean front', 'Pool']",2,Jun 18 - 23,Jun,18,Jun,23,38.0,4.88 (64),4.88,64.0,"PHUKET, Thailand",PHUKET,Thailand
+"Room in Phuket, Thailand",Room,Grand Seaview Pool Suite •,['Pool'],1,Jun 1 - 6,Jun,1,Jun,6,111.0,4.85 (26),4.85,26.0,"Phuket, Thailand",Phuket,Thailand
+"Home in ตำบล บ้านใต้, Thailand",Home,"❤️THE LOFT, Romantic Beachfront Home, HIN KONG.",['Ocean front'],1,Aug 18 - 23,Aug,18,Aug,23,198.0,4.96 (56),4.96,56.0,"ตำบล บ้านใต้, Thailand",ตำบล บ้านใต้,Thailand
+"Apartment in Kecamatan Senen, Indonesia",Apartment,5* Studio Resort like: Mason Place Capitol Park,[],0,Jun 8 - 13,Jun,8,Jun,13,29.0,4.95 (112),4.95,112.0,"Kecamatan Senen, Indonesia",Kecamatan Senen,Indonesia
+"Home in Lembang, Indonesia",Home,Minimax House by wiandra,[],0,Jun 3 - 8,Jun,3,Jun,8,96.0,4.84 (81),4.84,81.0,"Lembang, Indonesia",Lembang,Indonesia
+"Condo in Melaka, Malaysia",Condo,B1731/Seaview/5 mine drive to Jonker/Imperio/4 pax,[],0,Jun 13 - 19,Jun,13,Jun,19,23.0,4.54 (209),4.54,209.0,"Melaka, Malaysia",Melaka,Malaysia
+"Loft in George Town, Malaysia",Loft,*6Maritime Seafront Scandinavian Home‖北欧风格日出无敌海景套房,[],0,Jun 1 - 7,Jun,1,Jun,7,153.0,4.39 (380),4.39,380.0,"George Town, Malaysia",George Town,Malaysia
+"Condo in Cebu City, Philippines",Condo,Scenic Cebu City View Condo in Ayala,[],0,Jun 16 - 21,Jun,16,Jun,21,41.0,4.98 (315),4.98,315.0,"Cebu City, Philippines",Cebu City,Philippines
+"Bungalow in Naiyang Beach, Thailand",Bungalow,"Baan Rom Pruk private house, near Naiyang beach",[],0,Jun 5 - 10,Jun,5,Jun,10,26.0,4.96 (172),4.96,172.0,"Naiyang Beach, Thailand",Naiyang Beach,Thailand
+"Condo in Quận 4, Vietnam",Condo,10' walk to Bitexco D1 45sqm Studio - Stay&Fun 01,[],0,Jun 2 - 7,Jun,2,Jun,7,38.0,4.8 (163),4.8,163.0,"Quận 4, Vietnam",Quận 4,Vietnam
+"Villa in Abiansemal, Indonesia",Villa,Ayung Panorama. Poetic house on Ayung River cliff,[],0,Aug 27 - Sep 1,Aug,27,Sep,1,159.0,4.91 (227),4.91,227.0,"Abiansemal, Indonesia",Abiansemal,Indonesia
+"Room in Ko Samui District, Thailand",Room,Villa The Spot - Room B6,[],0,Jun 3 - 8,Jun,3,Jun,8,127.0,4.75 (28),4.75,28.0,"Ko Samui District, Thailand",Ko Samui District,Thailand
+"Condo in Bayan Lepas, Malaysia",Condo,Cozy Seafront Studio Suite Near Queensbay,[],0,Jun 25 - 30,Jun,25,Jun,30,52.0,4.83 (263),4.83,263.0,"Bayan Lepas, Malaysia",Bayan Lepas,Malaysia
+"Hut in Kecamatan Selat, Indonesia",Hut,GLAMPING Experience with an INFINITY POOL,['Pool'],1,Jun 22 - 27,Jun,22,Jun,27,79.0,4.8 (45),4.8,45.0,"Kecamatan Selat, Indonesia",Kecamatan Selat,Indonesia
+"Condo in Tambon Na Chom Thian, Thailand",Condo,Veranda Residence pattaya 1BR partial sea view,['Ocean view'],1,Jun 5 - 10,Jun,5,Jun,10,47.0,4.8 (95),4.8,95.0,"Tambon Na Chom Thian, Thailand",Tambon Na Chom Thian,Thailand
+"Apartment in Kuala Lumpur, Malaysia",Apartment,1min KLCC Twin Tower & Pavilion/Ins cottage for best memories,[],0,Jun 25 - 30,Jun,25,Jun,30,38.0,4.91 (278),4.91,278.0,"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia
+"Cabin in Selat, Indonesia",Cabin,Nyan Bali -A Bamboo House Escape with Private Chef,[],0,Dec 1 - 6,Dec,1,Dec,6,237.0,4.95 (104),4.95,104.0,"Selat, Indonesia",Selat,Indonesia
+"Condo in Cebu City, Philippines",Condo,5-Star Experience at the Heart of Cebu,[],0,Aug 9 - 16,Aug,9,Aug,16,49.0,4.96 (280),4.96,280.0,"Cebu City, Philippines",Cebu City,Philippines
+"Bungalow in Antipolo, Philippines",Bungalow,Antipolo - Secluded and Romantic,[],0,Jun 4 - 9,Jun,4,Jun,9,143.0,4.87 (478),4.87,478.0,"Antipolo, Philippines",Antipolo,Philippines
+"Room in San Juan, Philippines",Room,Alon and Sandy Surf Shack GFloor (Air Conditioned),[],0,Jun 10 - 16,Jun,10,Jun,16,129.0,4.62 (145),4.62,145.0,"San Juan, Philippines",San Juan,Philippines
+"Room in Botolan, Philippines",Room,The Blue Cabin #Beach,[],0,Jun 3 - 8,Jun,3,Jun,8,62.0,4.85 (59),4.85,59.0,"Botolan, Philippines",Botolan,Philippines
+"Condo in Manila, Philippines",Condo,"Amazing Manila Bay View! Spacious Comfy, Clean *31",[],0,Jun 11 - 16,Jun,11,Jun,16,69.0,4.9 (154),4.9,154.0,"Manila, Philippines",Manila,Philippines
+"Apartment in Thalang, Thailand",Apartment,Luxurious private 2bedrm seafront Phuket penthouse,[],0,Sep 2 - 7,Sep,2,Sep,7,286.0,4.92 (185),4.92,185.0,"Thalang, Thailand",Thalang,Thailand
+"Condo in Tagaytay, Philippines",Condo,Serenity Tagaytay Home w/ WIFI & NETFLIX,['Wi-Fi'],1,Jun 11 - 16,Jun,11,Jun,16,30.0,4.79 (447),4.79,447.0,"Tagaytay, Philippines",Tagaytay,Philippines
+"Apartment in Melaka, Malaysia",Apartment,B1933B/5 min drive to Jonker/Seaview/Imperio/4 pax,[],0,Jun 18 - 24,Jun,18,Jun,24,24.0,4.69 (196),4.69,196.0,"Melaka, Malaysia",Melaka,Malaysia
+"Villa in Phu Quoc, Vietnam",Villa,H&B Villas Phu Quoc - 3 Bedrooms,[],0,Jun 1 - 6,Jun,1,Jun,6,252.0,5.0 (20),5.0,20.0,"Phu Quoc, Vietnam",Phu Quoc,Vietnam
+"Condo in Pasig, Philippines",Condo,A Chic and Cozy 2Br Unit w/ Netflix and Disney+,[],0,Jun 4 - 9,Jun,4,Jun,9,34.0,4.94 (295),4.94,295.0,"Pasig, Philippines",Pasig,Philippines
+"Loft in George Town, Malaysia",Loft,Coastline Seaview Duplex Level 19 Executive Floor,[],0,Jun 4 - 9,Jun,4,Jun,9,87.0,4.92 (437),4.92,437.0,"George Town, Malaysia",George Town,Malaysia
+"Cabin in Tambon Ko Pha-ngan, Thailand",Cabin,"BOHO CABIN, Hin Kong Beachfront, West Coast.",['Ocean front'],1,Jul 7 - 12,Jul,7,Jul,12,132.0,4.98 (44),4.98,44.0,"Tambon Ko Pha-ngan, Thailand",Tambon Ko Pha-ngan,Thailand
+"Apartment in Tambon Kamala, Thailand",Apartment,(A)Charming Pool Access One Bedroom Apartment,['Pool'],1,Jun 3 - 8,Jun,3,Jun,8,65.0,4.82 (68),4.82,68.0,"Tambon Kamala, Thailand",Tambon Kamala,Thailand
+"Condo in Pasay, Philippines",Condo,"One Bedroom Condo in Roxas Boulevard, Pasay City",[],0,Jun 7 - 12,Jun,7,Jun,12,30.0,4.77 (332),4.77,332.0,"Pasay, Philippines",Pasay,Philippines
+"Villa in Seririt, Indonesia",Villa,Wake up to the Sea of Bali: Beachfront luxury plus,['Ocean front'],1,Oct 10 - 16,Oct,10,Oct,16,194.0,5.0 (139),5.0,139.0,"Seririt, Indonesia",Seririt,Indonesia
+"Cabin in Lazi, Philippines",Cabin,Enchanted River cabin w/private garden and kitchen,['Kitchen'],1,Aug 19 - 24,Aug,19,Aug,24,51.0,4.85 (127),4.85,127.0,"Lazi, Philippines",Lazi,Philippines
+"Condo in Cebu City, Philippines",Condo,Cozy City Condo at Horizons 101 [ W/ WIFI ].,['Wi-Fi'],1,Jun 5 - 10,Jun,5,Jun,10,26.0,4.44 (220),4.44,220.0,"Cebu City, Philippines",Cebu City,Philippines
+"Apartment in Tambon Patong, Thailand",Apartment,SUNSET SEAVIEW DELUXE PATONG - POOL+TERRACE,['Pool'],1,Jun 25 - 30,Jun,25,Jun,30,64.0,4.8 (159),4.8,159.0,"Tambon Patong, Thailand",Tambon Patong,Thailand
+"Apartment in Tambon Rawai, Thailand",Apartment,Appartment 140 sqm 6 people big terrace sea view,['Ocean view'],1,Jun 14 - 19,Jun,14,Jun,19,111.0,4.91 (160),4.91,160.0,"Tambon Rawai, Thailand",Tambon Rawai,Thailand
+"Condo in Chiang Mai, Thailand",Condo,Cozy room 48.5 sq.m @The Astra near Night market,[],0,Jun 7 - 12,Jun,7,Jun,12,45.0,4.89 (190),4.89,190.0,"Chiang Mai, Thailand",Chiang Mai,Thailand
+"Apartment in Kuala Lumpur, Malaysia",Apartment,EXPRESSIONZ-1Bedroom-Junior-Suite-KLCC-Sky-Pool,['Pool'],1,Jun 1 - 6,Jun,1,Jun,6,53.0,4.78 (408),4.78,408.0,"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia
+"Hotel in Nha Trang, Vietnam",Hotel,VENUE HOTEL-20% Superior City NiceWindow#Good Rate,[],0,Jun 4 - 9,Jun,4,Jun,9,17.0,4.35 (17),4.35,17.0,"Nha Trang, Vietnam",Nha Trang,Vietnam
+"Farm stay in Gianyar, Indonesia",Farm stay,"Bebalilodge, one bedroom house with private pool",['Pool'],1,Oct 30 - Nov 4,Oct,30,Nov,4,76.0,4.97 (153),4.97,153.0,"Gianyar, Indonesia",Gianyar,Indonesia
+"Condo in Tambon Thep Krasatti, Thailand",Condo,2 Bedrooms Beachfront on Maikhao Beach B#7F,['Ocean front'],1,Jun 1 - 6,Jun,1,Jun,6,90.0,4.6 (65),4.6,65.0,"Tambon Thep Krasatti, Thailand",Tambon Thep Krasatti,Thailand
+"Apartment in Tambon Hua Hin, Thailand",Apartment,La Casita Hua Hin 2,[],0,Jun 22 - 27,Jun,22,Jun,27,32.0,4.75 (170),4.75,170.0,"Tambon Hua Hin, Thailand",Tambon Hua Hin,Thailand
+"Room in Tebet, Indonesia",Room,The LOJI @ Patra Kuningan # 3,[],0,Jun 30 - Jul 5,Jun,30,Jul,5,24.0,4.83 (69),4.83,69.0,"Tebet, Indonesia",Tebet,Indonesia
+"Condo in Cebu City, Philippines",Condo,Cozy Studio across Ayala Mall iT Park 1min walk,[],0,Jul 20 - 25,Jul,20,Jul,25,26.0,4.78 (235),4.78,235.0,"Cebu City, Philippines",Cebu City,Philippines
+"Bungalow in Ko Samui, Thailand",Bungalow,B4: Sea Breeze Bungalow with Ensuite and AC,['Air conditioning'],1,Jun 14 - 19,Jun,14,Jun,19,33.0,4.82 (191),4.82,191.0,"Ko Samui, Thailand",Ko Samui,Thailand
+"Villa in Pemuteran, Indonesia",Villa,"Villa Arun, Sumberkima Hill",[],0,Aug 21 - 26,Aug,21,Aug,26,262.0,4.88 (57),4.88,57.0,"Pemuteran, Indonesia",Pemuteran,Indonesia
+"Apartment in Quận 4, Vietnam",Apartment,DANNY’s HIGH VIEW STUDIO near District1 Ben Thanh!,[],0,Jun 3 - 8,Jun,3,Jun,8,44.0,4.78 (167),4.78,167.0,"Quận 4, Vietnam",Quận 4,Vietnam
+"Apartment in Kuala Lumpur, Malaysia",Apartment,Premier Lux Studio Large Tv Free Netflix | City,[],0,Jun 1 - 8,Jun,1,Jun,8,62.0,4.9 (166),4.9,166.0,"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia
+"Condo in Johor Bahru, Malaysia",Condo,【R&F】Studio of Dual-Key Homely Getaway byⓗⓢ,[],0,Jun 4 - 9,Jun,4,Jun,9,44.0,4.78 (139),4.78,139.0,"Johor Bahru, Malaysia",Johor Bahru,Malaysia
+"Apartment in Bangkok , Thailand",Apartment,"Luxury Q Chidlom Condo, BTS ChitLom, Siam,",[],0,Jun 1 - 8,Jun,1,Jun,8,90.0,4.79 (61),4.79,61.0,"Bangkok , Thailand",Bangkok,Thailand
+"Apartment in Muang Pattaya, Thailand",Apartment,#18 2022 Newest! Downtown Lux Fun Sea View Condo,['Ocean view'],1,Jun 1 - 6,Jun,1,Jun,6,63.0,5.0 (27),5.0,27.0,"Muang Pattaya, Thailand",Muang Pattaya,Thailand
+"Condo in Melaka, Malaysia",Condo,B2733/Seaview/5mins to Jonker/Imperio/Studio/4pax,[],0,Jun 4 - 10,Jun,4,Jun,10,30.0,4.71 (230),4.71,230.0,"Melaka, Malaysia",Melaka,Malaysia
+"Condo in Cyberjaya, Malaysia",Condo,Kanvas Soho / KLIA / FREE WIFI 500mbps,['Wi-Fi'],1,Jun 4 - 9,Jun,4,Jun,9,24.0,4.8 (410),4.8,410.0,"Cyberjaya, Malaysia",Cyberjaya,Malaysia
+"Loft in Jelutong, Malaysia",Loft,#Maritime*3*The Rhythm of the Sea @ 日出无敌全海景,[],0,Jun 30 - Jul 5,Jun,30,Jul,5,98.0,4.56 (93),4.56,93.0,"Jelutong, Malaysia",Jelutong,Malaysia
+"Villa in Phuket, Thailand",Villa,Waterfront Traditional Thai Style Pool Villa (V7),"['Pool', 'Waterfront']",2,Jun 1 - 6,Jun,1,Jun,6,41.0,4.71 (82),4.71,82.0,"Phuket, Thailand",Phuket,Thailand
+"Apartment in Pasay, Philippines",Apartment,Comfy-Cozy-Cheap @ NAIA 3 near RW w/ NETFLIX,[],0,Jul 25 - 30,Jul,25,Jul,30,33.0,4.86 (692),4.86,692.0,"Pasay, Philippines",Pasay,Philippines
+"Condo in Manila, Philippines",Condo,[50mbps+NETFLIX] Your home in the heart of Manila,[],0,Jun 1 - 6,Jun,1,Jun,6,28.0,4.73 (159),4.73,159.0,"Manila, Philippines",Manila,Philippines
+"Room in Khet Din Daeng, Thailand",Room,Comfy Room with Bathroom near MRT Phra Ram 9,[],0,Aug 14 - 19,Aug,14,Aug,19,30.0,4.99 (72),4.99,72.0,"Khet Din Daeng, Thailand",Khet Din Daeng,Thailand
+"Apartment in Patong, Thailand",Apartment,"Endless Patong Ocean View from a Hilltop Condominium, Phuket",['Ocean view'],1,Jun 1 - 8,Jun,1,Jun,8,56.0,4.95 (252),4.95,252.0,"Patong, Thailand",Patong,Thailand
+"Villa in Uluwatu, Indonesia",Villa,"Spectacular Ocean View Villa in Uluwatu, Bali",['Ocean view'],1,Jun 14 - 19,Jun,14,Jun,19,673.0,4.94 (143),4.94,143.0,"Uluwatu, Indonesia",Uluwatu,Indonesia
+"Room in Kecamatan Ubud, Indonesia",Room,"Exclusive Villa, for Couples Looking To Relax",[],0,Sep 4 - 9,Sep,4,Sep,9,149.0,4.85 (62),4.85,62.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Apartment in Tambon Patong, Thailand",Apartment,1 BR Phuket Modern Luxury Living,[],0,Jun 6 - 11,Jun,6,Jun,11,44.0,4.68 (202),4.68,202.0,"Tambon Patong, Thailand",Tambon Patong,Thailand
+"Apartment in Shah Alam, Malaysia",Apartment,*SETIA ALAM* Big Luxury Comfort Homestay #Trefoil,[],0,Jun 7 - 12,Jun,7,Jun,12,30.0,4.87 (171),4.87,171.0,"Shah Alam, Malaysia",Shah Alam,Malaysia
+"Room in Ubud, Indonesia",Room,Luxury Villa in Ubud,[],0,Jun 10 - 15,Jun,10,Jun,15,65.0,4.91 (54),4.91,54.0,"Ubud, Indonesia",Ubud,Indonesia
+"Resort in Langkawi, Malaysia",Resort,"S101 Beachfront Private Villa,
+A Resort by the Sea",['Ocean front'],1,Jun 4 - 9,Jun,4,Jun,9,49.0,4.75 (80),4.75,80.0,"Langkawi, Malaysia",Langkawi,Malaysia
+"Apartment in Kuala Lumpur, Malaysia",Apartment,Admire Deluxe Marble Walls at a Highrise Resort Home,[],0,Jun 2 - 7,Jun,2,Jun,7,85.0,4.85 (135),4.85,135.0,"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia
+"Condo in Melaka, Malaysia",Condo,B1706/5 mins drive to Jonker/Imperio/Studio/4pax,[],0,Jun 1 - 7,Jun,1,Jun,7,29.0,4.79 (195),4.79,195.0,"Melaka, Malaysia",Melaka,Malaysia
+"Room in Kecamatan Ubud, Indonesia",Room,Odesa Villa1 Ubud close to center,[],0,Jun 11 - 16,Jun,11,Jun,16,29.0,5.0 (9),5.0,9.0,"Kecamatan Ubud, Indonesia",Kecamatan Ubud,Indonesia
+"Hotel room in Ubud, Indonesia",Hotel room,"Malay villa, Best views in Ubud!",[],0,Jun 8 - 13,Jun,8,Jun,13,167.0,4.77 (119),4.77,119.0,"Ubud, Indonesia",Ubud,Indonesia
+"Room in Khlong Ton Sai, Khlong San, Thailand",Room,*Hidden Oasis Bangkok 1 | Near ICONSIAM,[],0,Jul 2 - 7,Jul,2,Jul,7,28.0,4.86 (166),4.86,166.0,"Khlong Ton Sai, Khlong San, Thailand","Khlong Ton Sai, Khlong San",Thailand
+"Home in Tambon Bo Put, Thailand",Home,Directly on the beach-for animal lovers only,[],0,Jun 1 - 6,Jun,1,Jun,6,144.0,5.0 (27),5.0,27.0,"Tambon Bo Put, Thailand",Tambon Bo Put,Thailand
+"Place to stay in Kamala, Thailand",Place to stay,"Maphrao in Kamala, accommodation on the beach",[],0,Jun 3 - 10,Jun,3,Jun,10,49.0,4.89 (37),4.89,37.0,"Kamala, Thailand",Kamala,Thailand
+"Room in El Nido, Philippines",Room,A Divers Home: beachfront room with sunset view,['Ocean front'],1,Jun 26 - Jul 2,Jun,26,Jul,2,34.0,4.89 (98),4.89,98.0,"El Nido, Philippines",El Nido,Philippines
+Tiny home in Millersburg,Tiny home,Forest Haven - Otium,[],0,May 1 - 6,May,1,May,6,224.0,4.85 (218),4.85,218.0,Millersburg,Millersburg,Millersburg
+Treehouse in Crane Hill,Treehouse,WANDERLUST TREEHOUSE Book an experience!,[],0,May 1 - 6,May,1,May,6,402.0,4.99 (271),4.99,271.0,Crane Hill,Crane Hill,Crane Hill
+Home in Telluride,Home,Architectural Masterpiece | Best View in Telluride,[],0,May 1 - 6,May,1,May,6,732.0,4.97 (76),4.97,76.0,Telluride,Telluride,Telluride
+Cabin in West Farmington,Cabin,The Triangle: A-Frame Cabin for your city retreat,[],0,May 1 - 6,May,1,May,6,123.0,4.91 (515),4.91,515.0,West Farmington,West Farmington,West Farmington
+Cabin in Crosby,Cabin,Cozy Louise Cabin - Direct Cuyuna MTB Access/Sauna,['Sauna'],1,May 1 - 6,May,1,May,6,225.0,5.0 (18),5.0,18.0,Crosby,Crosby,Crosby
+Cabin in Hancock,Cabin,A-frame cabin by the bay with kayak!,['Kayak'],1,May 1 - 6,May,1,May,6,230.0,4.88 (128),4.88,128.0,Hancock,Hancock,Hancock
+Tiny home in Sandy Valley,Tiny home,Peacock Tiny House near Las Vegas,[],0,May 1 - 6,May,1,May,6,155.0,4.92 (744),4.92,744.0,Sandy Valley,Sandy Valley,Sandy Valley
+Cabin in Fredericksburg,Cabin,Peach Log Cabin/Hot Tub/Romantic/Close to Town!,['Jacuzzi'],1,May 1 - 6,May,1,May,6,292.0,4.97 (244),4.97,244.0,Fredericksburg,Fredericksburg,Fredericksburg
+Room in New York,Room,Guest room available short stays,[],0,May 1 - 6,May,1,May,6,217.0,5.0 (4),5.0,4.0,New York,New York,New York
+Cabin in Fredonia,Cabin,"Tiny House Cozy Cabin by Zion, Grand Canyon, Bryce",[],0,May 1 - 6,May,1,May,6,188.0,5.0 (611),5.0,611.0,Fredonia,Fredonia,Fredonia
+Treehouse in Dahlonega,Treehouse,Nature’s Nook- A Modern Treehouse Near Wineries,['Nature'],1,May 1 - 6,May,1,May,6,336.0,4.94 (163),4.94,163.0,Dahlonega,Dahlonega,Dahlonega
+Farm stay in Sandy Valley,Farm stay,Conestoga Wagon on Dude Ranch NEAR LAS VEGAS,[],0,May 1 - 6,May,1,May,6,147.0,4.86 (196),4.86,196.0,Sandy Valley,Sandy Valley,Sandy Valley
+Treehouse in Travelers Rest,Treehouse,The Forestry House - A modern luxury treehouse.,[],0,May 1 - 6,May,1,May,6,305.0,New,,,Travelers Rest,Travelers Rest,Travelers Rest
+Treehouse in Fernwood,Treehouse,Crystal Peak Lookout 🌲,[],0,May 5 - 10,May,5,May,10,230.0,4.88 (470),4.88,470.0,Fernwood,Fernwood,Fernwood
+Cabin in Packwood,Cabin,Heartwood Cabin at Mt. Rainier,[],0,May 1 - 6,May,1,May,6,354.0,4.98 (246),4.98,246.0,Packwood,Packwood,Packwood
+Cabin in Nashville,Cabin,Modern Nashville Home in the Woods,[],0,May 5 - 10,May,5,May,10,278.0,4.99 (290),4.99,290.0,Nashville,Nashville,Nashville
+Treehouse in Fredericksburg,Treehouse,The Leaf Treehouse,[],0,May 1 - 6,May,1,May,6,641.0,4.99 (339),4.99,339.0,Fredericksburg,Fredericksburg,Fredericksburg
+Cabin in Bryson City,Cabin,Secluded View! A-Frame Hot Tub and Fire Pit,['Jacuzzi'],1,May 1 - 6,May,1,May,6,361.0,4.95 (20),4.95,20.0,Bryson City,Bryson City,Bryson City
+Cabin in Branson,Cabin,Lakefront A-Frame Cabin on Table Rock Lake,[],0,May 1 - 6,May,1,May,6,129.0,4.86 (22),4.86,22.0,Branson,Branson,Branson
+Home in Livingston,Home,The Cargill-Earl Guesthouse at Erik's Ranch,[],0,May 1 - 6,May,1,May,6,426.0,4.88 (323),4.88,323.0,Livingston,Livingston,Livingston
+Home in Taos,Home,Taos Mesa Studio Earthship,[],0,May 1 - 6,May,1,May,6,194.0,4.91 (781),4.91,781.0,Taos,Taos,Taos
+Place to stay in Shippensburg,Place to stay,A- Frame Cabin,[],0,May 1 - 6,May,1,May,6,273.0,5.0 (168),5.0,168.0,Shippensburg,Shippensburg,Shippensburg
+Home in Scottsdale,Home,Diamond Desert Escape,[],0,May 3 - 8,May,3,May,8,384.0,4.97 (34),4.97,34.0,Scottsdale,Scottsdale,Scottsdale
+Cabin in Ronan,Cabin,Calowahcan Cabin *NEW hot tub*,['Jacuzzi'],1,May 1 - 6,May,1,May,6,213.0,5.0 (401),5.0,401.0,Ronan,Ronan,Ronan
+Home in Fairlee,Home,Cozy Bow House Perched in Trees w/ Hot Tub & View,['Jacuzzi'],1,May 1 - 6,May,1,May,6,244.0,4.95 (344),4.95,344.0,Fairlee,Fairlee,Fairlee
+Yurt in Rising Fawn,Yurt,Cherry Blossom Yurt on Lookout Mountain,[],0,May 1 - 6,May,1,May,6,157.0,4.97 (666),4.97,666.0,Rising Fawn,Rising Fawn,Rising Fawn
+Cabin in Boone,Cabin,Storybook A-Frame Cabin in the Woods Close to Downtown Boone,[],0,May 1 - 6,May,1,May,6,218.0,4.99 (372),4.99,372.0,Boone,Boone,Boone
+Cabin in Urbana,Cabin,The Cabin at Maple View - Accepting Reservations,[],0,May 1 - 6,May,1,May,6,123.0,4.99 (599),4.99,599.0,Urbana,Urbana,Urbana
+Cabin in Martin City,Cabin,Romantic Cabin - 9 miles to Glacier National Park,[],0,May 1 - 6,May,1,May,6,171.0,4.91 (237),4.91,237.0,Martin City,Martin City,Martin City
+Home in Austin,Home,Enjoy the Heated Pool at a Beautifully Designed Getaway,['Pool'],1,May 1 - 6,May,1,May,6,213.0,4.96 (853),4.96,853.0,Austin,Austin,Austin
+Cabin in Livingston,Cabin,10-Acre Yellowstone Cabin w/Stunning Mtn View,[],0,May 1 - 6,May,1,May,6,222.0,4.93 (101),4.93,101.0,Livingston,Livingston,Livingston
+Condo in Avalon,Condo,"The Big Blue, 1 BR+Den!",[],0,May 1 - 6,May,1,May,6,597.0,4.79 (539),4.79,539.0,Avalon,Avalon,Avalon
+Tent in Moab,Tent,Moab Glamping Luxury Tent for 2,[],0,May 1 - 6,May,1,May,6,254.0,4.92 (279),4.92,279.0,Moab,Moab,Moab
+Home in Destin,Home,Villa Loggia! 5min walk to Prvt Beach/pool/SmartTV,['Pool'],1,May 6 - 11,May,6,May,11,417.0,4.94 (34),4.94,34.0,Destin,Destin,Destin
+Cabin in Crivitz,Cabin,"Scenic, Serene Lakefront Cabin — Wood Stove",[],0,May 1 - 6,May,1,May,6,149.0,4.99 (72),4.99,72.0,Crivitz,Crivitz,Crivitz
+Tiny home in Lakeside,Tiny home,The Stillwater at Stoner Creek Cabins,[],0,May 1 - 6,May,1,May,6,178.0,5.0 (211),5.0,211.0,Lakeside,Lakeside,Lakeside
+Home in Half Moon Bay,Home,A little piece of heaven...,[],0,May 1 - 6,May,1,May,6,950.0,4.88 (180),4.88,180.0,Half Moon Bay,Half Moon Bay,Half Moon Bay
+Home in Henderson,Home,Beautiful pool home near strip,['Pool'],1,May 1 - 6,May,1,May,6,252.0,5.0 (15),5.0,15.0,Henderson,Henderson,Henderson
+Condo in Orange Beach,Condo,Totally Beachin - Condo with Stunning Ocean Views,[],0,May 1 - 6,May,1,May,6,287.0,4.69 (75),4.69,75.0,Orange Beach,Orange Beach,Orange Beach
+Cabin in Clyde,Cabin,Moonlit Chalet,[],0,May 1 - 6,May,1,May,6,175.0,4.87 (173),4.87,173.0,Clyde,Clyde,Clyde
+Home in Wilmington,Home,Atlantic Coast Dome Home Across from Sound w/ View,[],0,May 19 - 24,May,19,May,24,244.0,4.96 (47),4.96,47.0,Wilmington,Wilmington,Wilmington
+Home in Cape Coral,Home,Welcome to our Modern Cape Escape with Heated Pool,['Pool'],1,May 1 - 6,May,1,May,6,233.0,4.96 (28),4.96,28.0,Cape Coral,Cape Coral,Cape Coral
+Vacation home in Klamath Falls,Vacation home,The 'Easy A' Cabin in Rocky Point,[],0,May 1 - 6,May,1,May,6,202.0,4.82 (82),4.82,82.0,Klamath Falls,Klamath Falls,Klamath Falls
+Condo in Daytona Beach,Condo,Luxury One Bedroom Condo with private balcony,[],0,May 1 - 6,May,1,May,6,123.0,4.9 (106),4.9,106.0,Daytona Beach,Daytona Beach,Daytona Beach
+Home in St. Augustine,Home,"""Swan Ocean"" Beach House on Vilano Beach",[],0,May 1 - 6,May,1,May,6,955.0,4.88 (60),4.88,60.0,St. Augustine,St. Augustine,St. Augustine
+Condo in New Smyrna Beach,Condo,Coastal Waters 214-2nd floor ocean view condo,['Ocean view'],1,May 1 - 6,May,1,May,6,168.0,4.47 (43),4.47,43.0,New Smyrna Beach,New Smyrna Beach,New Smyrna Beach
+Home in Eustis,Home,Lake House Minutes to Downtown Mt. Dora and Eustis,[],0,May 1 - 6,May,1,May,6,173.0,4.99 (179),4.99,179.0,Eustis,Eustis,Eustis
+Tiny home in White Pigeon,Tiny home,Circle J Bed & Breakfast,[],0,May 1 - 6,May,1,May,6,92.0,4.97 (528),4.97,528.0,White Pigeon,White Pigeon,White Pigeon
+Cabin in Cripple Creek,Cabin,"Hillside Cripple Creek Cabin w/Hot Tub, Mtn Views!",['Jacuzzi'],1,May 1 - 6,May,1,May,6,196.0,4.93 (72),4.93,72.0,Cripple Creek,Cripple Creek,Cripple Creek
+Cabin in Moab,Cabin,Basic Cabin #1 - Sleeps 4 - OK-C1,[],0,May 6 - 11,May,6,May,11,125.0,4.86 (233),4.86,233.0,Moab,Moab,Moab
+Home in Petersburg,Home,ONLY 1.5 Miles from the Creation Museum!,[],0,May 1 - 6,May,1,May,6,124.0,4.89 (170),4.89,170.0,Petersburg,Petersburg,Petersburg
+Home in Twentynine Palms,Home,"Blue Oasis | King Bed | Feel Far, Be Close Dogs ok",[],0,May 1 - 6,May,1,May,6,155.0,4.94 (258),4.94,258.0,Twentynine Palms,Twentynine Palms,Twentynine Palms
+Room in McKinney,Room,Garden Gate Getaway,[],0,May 1 - 6,May,1,May,6,53.0,4.88 (110),4.88,110.0,McKinney,McKinney,McKinney
+Home in El Prado,Home,"Taos Skybox ""Stargazer"" High Desert Retreat",[],0,May 1 - 6,May,1,May,6,184.0,4.93 (61),4.93,61.0,El Prado,El Prado,El Prado
+Treehouse in Sevierville,Treehouse,"The best in tiny living!
+TreehouseTopia",[],0,May 1 - 6,May,1,May,6,229.0,4.87 (193),4.87,193.0,Sevierville,Sevierville,Sevierville
+Home in Fort Myers,Home,*Unique Pyramid Home for an amazing vacation,[],0,May 1 - 6,May,1,May,6,231.0,4.93 (165),4.93,165.0,Fort Myers,Fort Myers,Fort Myers
+Cottage in Los Angeles,Cottage,Private Modern Guesthouse near Mulholland Drive,[],0,May 1 - 6,May,1,May,6,151.0,4.93 (555),4.93,555.0,Los Angeles,Los Angeles,Los Angeles
+Home in Summertown,Home,Water side Cozy cabin,[],0,May 1 - 6,May,1,May,6,98.0,4.91 (318),4.91,318.0,Summertown,Summertown,Summertown
+Cabin in Florissant,Cabin,NEW! One-of-a-Kind Luxury Cabin w/Hot Tub,['Jacuzzi'],1,May 1 - 6,May,1,May,6,358.0,5.0 (49),5.0,49.0,Florissant,Florissant,Florissant
+Guesthouse in Escondido,Guesthouse,Hilltop cabin retreat with lake & mountain views,[],0,May 1 - 6,May,1,May,6,188.0,4.93 (551),4.93,551.0,Escondido,Escondido,Escondido
+Townhouse in Kissimmee,Townhouse,Brand New 3 beds at Solara Resort,[],0,May 1 - 6,May,1,May,6,155.0,4.83 (12),4.83,12.0,Kissimmee,Kissimmee,Kissimmee
+Cabin in Gold Bar,Cabin,New lux cabin w/mount index view,[],0,May 1 - 6,May,1,May,6,276.0,4.86 (7),4.86,7.0,Gold Bar,Gold Bar,Gold Bar
+Treehouse in Watsonville,Treehouse,Redwood Treehouse Santa Cruz Mtns.,[],0,May 5 - 10,May,5,May,10,190.0,4.89 (932),4.89,932.0,Watsonville,Watsonville,Watsonville
+Condo in Kissimmee,Condo,Mickey Mouse Themed Getaway next to Disney 1,[],0,May 1 - 6,May,1,May,6,115.0,4.84 (295),4.84,295.0,Kissimmee,Kissimmee,Kissimmee
+Home in Ellington,Home,Crystal Lake House,[],0,May 1 - 6,May,1,May,6,155.0,5.0 (9),5.0,9.0,Ellington,Ellington,Ellington
+Home in Orlando,Home,The Orlando Retreat.,[],0,May 1 - 6,May,1,May,6,230.0,4.95 (78),4.95,78.0,Orlando,Orlando,Orlando
+Farm stay in Lebec,Farm stay,The Alpaca (A Lone Juniper Ranch Cabin),[],0,May 1 - 6,May,1,May,6,124.0,4.92 (381),4.92,381.0,Lebec,Lebec,Lebec
+Cabin in Newry,Cabin,Cozy Cabin on Sunday River ~,[],0,May 1 - 6,May,1,May,6,202.0,4.93 (41),4.93,41.0,Newry,Newry,Newry
+Tiny home in Greer,Tiny home,*BRAND NEW* Tiny Village Retreat,[],0,May 1 - 6,May,1,May,6,90.0,5.0 (86),5.0,86.0,Greer,Greer,Greer
+Cabin in Pine Ridge,Cabin,Cliffside Romantic Retreat LOVE,[],0,May 1 - 6,May,1,May,6,321.0,5.0 (25),5.0,25.0,Pine Ridge,Pine Ridge,Pine Ridge
+Cabin in Groton,Cabin,Peaceful Log Cabin in the Woods,[],0,May 3 - 8,May,3,May,8,122.0,4.99 (497),4.99,497.0,Groton,Groton,Groton
+Cabin in Ellijay,Cabin,Cozy Creek Cabin-couples retreat nestled in woods,[],0,May 1 - 6,May,1,May,6,184.0,4.98 (208),4.98,208.0,Ellijay,Ellijay,Ellijay
+Apartment in Orlando,Apartment,Cozy Studio close to Universal,[],0,May 1 - 6,May,1,May,6,82.0,4.2 (148),4.2,148.0,Orlando,Orlando,Orlando
+Cabin in Blue Ridge,Cabin,Beaver Bungalow - Long Range Mountain Views,[],0,May 1 - 6,May,1,May,6,163.0,4.96 (77),4.96,77.0,Blue Ridge,Blue Ridge,Blue Ridge
+Condo in Destin,Condo,"Sea Squirrel, Beach views in Crystal Beach",[],0,May 1 - 6,May,1,May,6,246.0,4.78 (9),4.78,9.0,Destin,Destin,Destin
+Tiny home in Hillsboro,Tiny home,Out of Bounds: Tiny Cabin amongst acres of trees,[],0,May 1 - 6,May,1,May,6,170.0,4.95 (277),4.95,277.0,Hillsboro,Hillsboro,Hillsboro
+Tiny home in Cortez,Tiny home,Canyon Hideout Bungalow,[],0,May 1 - 6,May,1,May,6,179.0,5.0 (341),5.0,341.0,Cortez,Cortez,Cortez
+Place to stay in Wapwallopen,Place to stay,"Peaceful, authentic, rustic log cabin in the woods",[],0,May 4 - 9,May,4,May,9,132.0,4.98 (106),4.98,106.0,Wapwallopen,Wapwallopen,Wapwallopen
+Cottage in Crozet,Cottage,Idyllic Cottage Retreat,[],0,May 1 - 6,May,1,May,6,188.0,4.86 (14),4.86,14.0,Crozet,Crozet,Crozet
+Cabin in Leicester,Cabin,Cabin Kisa,[],0,May 1 - 6,May,1,May,6,106.0,5.0 (7),5.0,7.0,Leicester,Leicester,Leicester
+Cabin in Robbinsville,Cabin,Mountain Dream gorgeous view with hot tub,['Jacuzzi'],1,May 1 - 6,May,1,May,6,190.0,4.96 (591),4.96,591.0,Robbinsville,Robbinsville,Robbinsville
+Apartment in Kissimmee,Apartment,Special Offer Storey Lake 2Bedr 2Bath Free Waterpark BE307,[],0,May 1 - 6,May,1,May,6,134.0,4.79 (73),4.79,73.0,Kissimmee,Kissimmee,Kissimmee
+Cabin in Lancing,Cabin,Creekside Cabin at Shady Grove Farm,[],0,May 1 - 6,May,1,May,6,90.0,4.97 (476),4.97,476.0,Lancing,Lancing,Lancing
+Villa in Las Vegas,Villa,"Vegas Villa-Heated Pool, Indoor Jacuzzi, Billiards","['Jacuzzi', 'Pool']",2,May 1 - 6,May,1,May,6,668.0,4.93 (27),4.93,27.0,Las Vegas,Las Vegas,Las Vegas
+Villa in Miramar,Villa,Modern Retreat with King Bed-Heated Pool-and Grill,['Pool'],1,May 1 - 6,May,1,May,6,494.0,5.0 (33),5.0,33.0,Miramar,Miramar,Miramar
+Apartment in Santa Monica,Apartment,Venice Canals Sanctuary,[],0,May 1 - 6,May,1,May,6,374.0,4.93 (107),4.93,107.0,Santa Monica,Santa Monica,Santa Monica
+Cabin in Sevierville,Cabin,Sugar Bear Hollow,[],0,May 1 - 6,May,1,May,6,219.0,4.96 (91),4.96,91.0,Sevierville,Sevierville,Sevierville
+Guesthouse in Phoenix,Guesthouse,Studio B,[],0,May 1 - 6,May,1,May,6,111.0,4.95 (819),4.95,819.0,Phoenix,Phoenix,Phoenix
+Tiny home in Desert Hot Springs,Tiny home,Rock Reign Ranch,[],0,May 1 - 6,May,1,May,6,132.0,4.92 (12),4.92,12.0,Desert Hot Springs,Desert Hot Springs,Desert Hot Springs
+Guest suite in Sedona,Guest suite,"Sedona Sunset Jewel, Amazing Views, Pool",['Pool'],1,May 1 - 6,May,1,May,6,209.0,5.0 (516),5.0,516.0,Sedona,Sedona,Sedona
+Condo in Kissimmee,Condo,10 mins to Disney-Hot tub-Queen Puffy Lux bed,['Jacuzzi'],1,May 2 - 7,May,2,May,7,213.0,4.82 (74),4.82,74.0,Kissimmee,Kissimmee,Kissimmee
+Apartment in Fernandina Beach,Apartment,Largest 1 Bed 2 bath in Amelia Surf & Racquet Club,[],0,May 1 - 6,May,1,May,6,306.0,New,,,Fernandina Beach,Fernandina Beach,Fernandina Beach
+Condo in Panama City Beach,Condo,300 STEPS TO THE BEACH-BEST 1 BEDROOM DEAL IN TOWN,[],0,May 1 - 6,May,1,May,6,169.0,4.68 (57),4.68,57.0,Panama City Beach,Panama City Beach,Panama City Beach
+Condo in Miami,Condo,Luxurious brickell apartment 38thfloor ocean view,['Ocean view'],1,May 1 - 6,May,1,May,6,239.0,4.69 (51),4.69,51.0,Miami,Miami,Miami
+Loft in Chicago,Loft,"Lakeview Loft-Vintage Chicago, Modern Amenities",[],0,May 1 - 6,May,1,May,6,126.0,4.96 (343),4.96,343.0,Chicago,Chicago,Chicago
+Cottage in Kissimmee,Cottage,"JU Super Duper Tiny House, 15 minutes to Disney",[],0,May 1 - 6,May,1,May,6,98.0,4.95 (400),4.95,400.0,Kissimmee,Kissimmee,Kissimmee
+Home in DeFuniak Springs,Home,On Juniper Lake w/Boat Dock Near 30A!,[],0,May 1 - 6,May,1,May,6,113.0,4.79 (19),4.79,19.0,DeFuniak Springs,DeFuniak Springs,DeFuniak Springs
+Condo in Hilton Head Island,Condo,Ocean Front Resort - King bed,['Ocean front'],1,May 1 - 6,May,1,May,6,184.0,4.93 (304),4.93,304.0,Hilton Head Island,Hilton Head Island,Hilton Head Island
+Cabin in Forks,Cabin,Cozy riverside/rain forest cabin ~ Bogie Bungalow,[],0,May 3 - 8,May,3,May,8,143.0,4.96 (949),4.96,949.0,Forks,Forks,Forks
+Condo in Fort Walton Beach,Condo,Ft Walton cozy condo w/ on-site pool. Near beaches,['Pool'],1,May 1 - 6,May,1,May,6,145.0,4.73 (249),4.73,249.0,Fort Walton Beach,Fort Walton Beach,Fort Walton Beach
+Apartment in Sarasota,Apartment,Private Bay area home !,[],0,May 1 - 6,May,1,May,6,117.0,4.67 (3),4.67,3.0,Sarasota,Sarasota,Sarasota
+Cabin in Kanab,Cabin,Altitude Adjustment,[],0,May 10 - 15,May,10,May,15,208.0,4.98 (161),4.98,161.0,Kanab,Kanab,Kanab
+Room in Los Angeles,Room,Private Room in Elegant French Gothic Home,[],0,May 1 - 6,May,1,May,6,114.0,4.87 (843),4.87,843.0,Los Angeles,Los Angeles,Los Angeles
+Room in Carlisle,Room,Stuart Manor Bed and Breakfast,[],0,May 1 - 6,May,1,May,6,223.0,5.0 (26),5.0,26.0,Carlisle,Carlisle,Carlisle
+Condo in Pensacola,Condo,The Beach Couldn't Be Any Closer!,[],0,May 1 - 6,May,1,May,6,260.0,4.9 (145),4.9,145.0,Pensacola,Pensacola,Pensacola
+Apartment in Richmond,Apartment,Point Richmond Top Floor Studio with Bay views,[],0,May 1 - 6,May,1,May,6,153.0,4.95 (128),4.95,128.0,Richmond,Richmond,Richmond
+Guest suite in Trinidad,Guest suite,Cottage by the Sea,[],0,May 1 - 6,May,1,May,6,138.0,4.92 (554),4.92,554.0,Trinidad,Trinidad,Trinidad
+Home in Kissimmee,Home,House by the Mouse: Something for Everyone!,[],0,May 19 - 24,May,19,May,24,250.0,4.89 (157),4.89,157.0,Kissimmee,Kissimmee,Kissimmee
+Apartment in Houston,Apartment,King Suite/Sky Lounge/Luxurious Experience.,[],0,May 1 - 6,May,1,May,6,108.0,4.85 (55),4.85,55.0,Houston,Houston,Houston
+Cabin in Fountain Green,Cabin,"Cozy Private Mountain Cabin on 1,000 acre property",[],0,May 1 - 6,May,1,May,6,186.0,4.96 (78),4.96,78.0,Fountain Green,Fountain Green,Fountain Green
+Cottage in Islamorada,Cottage,1 BD PRIVATE HOUSEBOAT/ COTTAGE TARPON,[],0,May 1 - 6,May,1,May,6,229.0,4.85 (74),4.85,74.0,Islamorada,Islamorada,Islamorada
+Home in Michigan City,Home,Sugar Babe Beach Retreat with Hot Tub!,['Jacuzzi'],1,May 1 - 6,May,1,May,6,160.0,4.95 (328),4.95,328.0,Michigan City,Michigan City,Michigan City
+Hotel in Kissimmee,Hotel,Modern room in boutique hotel near amusement parks,[],0,May 1 - 6,May,1,May,6,64.0,4.81 (54),4.81,54.0,Kissimmee,Kissimmee,Kissimmee
+Condo in Mary Esther,Condo,"Kayaks adventure, Dock, Pool, WiFi Courtyard view.","['Pool', 'Wi-Fi']",2,May 1 - 6,May,1,May,6,112.0,4.72 (94),4.72,94.0,Mary Esther,Mary Esther,Mary Esther
+Apartment in Los Angeles,Apartment,Historic Venice Apt 1/2 blocks to beach+parking,['Parking'],1,May 1 - 6,May,1,May,6,222.0,4.94 (431),4.94,431.0,Los Angeles,Los Angeles,Los Angeles
+Guesthouse in Greensboro,Guesthouse,A charmer!Great spot near downtown.,[],0,May 1 - 6,May,1,May,6,81.0,4.97 (990),4.97,990.0,Greensboro,Greensboro,Greensboro
+Apartment in Hallandale Beach,Apartment,Beachfront Apartment,['Ocean front'],1,May 1 - 6,May,1,May,6,170.0,4.43 (23),4.43,23.0,Hallandale Beach,Hallandale Beach,Hallandale Beach
+Apartment in Galveston,Apartment,Beach Front Condo In Casa Del Mar,[],0,May 1 - 6,May,1,May,6,122.0,4.72 (389),4.72,389.0,Galveston,Galveston,Galveston
+Guesthouse in Carrollton,Guesthouse,The Cooper Cottage | Guesthouse,[],0,May 1 - 6,May,1,May,6,91.0,5.0 (5),5.0,5.0,Carrollton,Carrollton,Carrollton
+Cabin in Wofford Heights,Cabin,Tillie Creek Retreat: a Creekside Oasis,[],0,May 1 - 6,May,1,May,6,145.0,4.85 (312),4.85,312.0,Wofford Heights,Wofford Heights,Wofford Heights
+Home in Phoenix,Home,New* Desert Moon* HeartofPhoenix,[],0,May 1 - 6,May,1,May,6,112.0,4.78 (9),4.78,9.0,Phoenix,Phoenix,Phoenix
+Cottage in Mackinaw City,Cottage,Private Mackinaw City Beach Cottage ~ Bridge view,[],0,May 23 - 28,May,23,May,28,355.0,4.91 (68),4.91,68.0,Mackinaw City,Mackinaw City,Mackinaw City
+Guest suite in Cave Creek,Guest suite,Room With The Views,[],0,May 1 - 6,May,1,May,6,127.0,4.99 (402),4.99,402.0,Cave Creek,Cave Creek,Cave Creek
+Home in Venice,Home,Venice Getaway,[],0,May 1 - 6,May,1,May,6,159.0,5.0 (30),5.0,30.0,Venice,Venice,Venice
+Cabin in Weaverville,Cabin,Reems Creek Mountain Cabin,[],0,May 9 - 14,May,9,May,14,237.0,5.0 (222),5.0,222.0,Weaverville,Weaverville,Weaverville
+Condo in Panama City Beach,Condo,Beachfront~Amazing Views~Walkable to Walmart/Shops,['Ocean front'],1,May 1 - 7,May,1,May,7,184.0,4.96 (26),4.96,26.0,Panama City Beach,Panama City Beach,Panama City Beach
+Cabin in Petrolia,Cabin,"The Lost Coast Tower, Petrolia",[],0,May 1 - 6,May,1,May,6,225.0,4.92 (214),4.92,214.0,Petrolia,Petrolia,Petrolia
+Apartment in New York,Apartment,THE SMALL ENGLISH MANOR NESTLED AMONGST THE TREES,[],0,May 1 - 6,May,1,May,6,276.0,4.89 (420),4.89,420.0,New York,New York,New York
+Guesthouse in Los Angeles,Guesthouse,Private Loft In the Hollywood Hills (by Universal),[],0,May 1 - 6,May,1,May,6,132.0,4.87 (981),4.87,981.0,Los Angeles,Los Angeles,Los Angeles
+Guesthouse in Dallas,Guesthouse,Ravinia Bungalow,[],0,May 1 - 6,May,1,May,6,105.0,4.96 (701),4.96,701.0,Dallas,Dallas,Dallas
+Home in Holden Beach,Home,Egret ~ Beachfront Cottage (pet-Friendly),['Ocean front'],1,May 4 - 9,May,4,May,9,248.0,4.93 (43),4.93,43.0,Holden Beach,Holden Beach,Holden Beach
+Cottage in Rockaway Beach,Cottage,Storybook Beach Cottage Twin Rocks,[],0,May 1 - 6,May,1,May,6,144.0,4.88 (259),4.88,259.0,Rockaway Beach,Rockaway Beach,Rockaway Beach
+Condo in Siesta Key,Condo,On the Beach; Siesta Key SunBum Studio,[],0,May 6 - 11,May,6,May,11,379.0,4.96 (218),4.96,218.0,Siesta Key,Siesta Key,Siesta Key
+Apartment in Laguna Beach,Apartment,Laguna Beach Charming Unit- Location/Value,[],0,May 1 - 6,May,1,May,6,385.0,4.96 (384),4.96,384.0,Laguna Beach,Laguna Beach,Laguna Beach
+Villa in Kissimmee,Villa,Windsor At Westside Avenger Newest PS5 Game room,[],0,May 11 - 16,May,11,May,16,209.0,4.92 (12),4.92,12.0,Kissimmee,Kissimmee,Kissimmee
+Home in Tucson,Home,Central House w/ Pool & Hot Tub,"['Jacuzzi', 'Pool']",2,May 1 - 6,May,1,May,6,142.0,4.88 (140),4.88,140.0,Tucson,Tucson,Tucson
+Apartment in Fort Lauderdale,Apartment,Direct Ocean View from the Balcony,['Ocean view'],1,May 1 - 6,May,1,May,6,219.0,4.83 (639),4.83,639.0,Fort Lauderdale,Fort Lauderdale,Fort Lauderdale
+Home in Terlingua,Home,Terlingua Mining Ruin - Lofthouse,[],0,May 1 - 6,May,1,May,6,194.0,4.97 (575),4.97,575.0,Terlingua,Terlingua,Terlingua
+Guesthouse in Naples,Guesthouse,Waterfront Sea Cottage,['Waterfront'],1,May 1 - 6,May,1,May,6,82.0,4.8 (276),4.8,276.0,Naples,Naples,Naples
+Bungalow in New Smyrna Beach,Bungalow,Relaxing Bungalow Steps from the Ocean,[],0,May 1 - 6,May,1,May,6,102.0,4.86 (364),4.86,364.0,New Smyrna Beach,New Smyrna Beach,New Smyrna Beach
+Room in Brooklyn,Room,"Private Studio+Bath+Balcony, 15 mins to Manhattan",[],0,May 1 - 6,May,1,May,6,144.0,4.96 (269),4.96,269.0,Brooklyn,Brooklyn,Brooklyn
+Guest suite in Los Angeles,Guest suite,Echo Park Retreat with Views,[],0,May 1 - 6,May,1,May,6,116.0,4.94 (580),4.94,580.0,Los Angeles,Los Angeles,Los Angeles
+Home in Huntington Beach,Home,Beachfront Oasis,['Ocean front'],1,May 6 - 11,May,6,May,11,798.0,4.99 (111),4.99,111.0,Huntington Beach,Huntington Beach,Huntington Beach
+Guesthouse in Colorado Springs,Guesthouse,The Enchanted Cottage at Easy Manor,[],0,May 1 - 6,May,1,May,6,115.0,4.96 (170),4.96,170.0,Colorado Springs,Colorado Springs,Colorado Springs
+Cabin in Hartsel,Cabin,☀Sunrise Cabin☀ Balcony Mtn Views┃Grill┃Firepit,[],0,May 11 - 16,May,11,May,16,113.0,4.98 (114),4.98,114.0,Hartsel,Hartsel,Hartsel
+Home in Phoenix,Home,Cactus House - private home with pool in Phoenix,['Pool'],1,May 1 - 8,May,1,May,8,277.0,4.99 (114),4.99,114.0,Phoenix,Phoenix,Phoenix
+Room in Fairfield,Room,"""Vacation-Sanctuary / Gateway to Napa """,[],0,May 1 - 6,May,1,May,6,114.0,4.97 (887),4.97,887.0,Fairfield,Fairfield,Fairfield
+Cabin in Kanab,Cabin,Elevation Celebration,[],0,May 1 - 6,May,1,May,6,225.0,4.97 (95),4.97,95.0,Kanab,Kanab,Kanab
+Apartment in North Bay Village,Apartment,Waterfront Studio Apartment with FREE Parking,"['Free parking', 'Parking', 'Waterfront']",3,May 1 - 6,May,1,May,6,160.0,4.63 (16),4.63,16.0,North Bay Village,North Bay Village,North Bay Village
+Home in Dana Point,Home,Betty's Beach Bungalow-Pet Friendly! STR21-1232,[],0,May 1 - 6,May,1,May,6,171.0,4.97 (478),4.97,478.0,Dana Point,Dana Point,Dana Point
+Home in Los Angeles,Home,"Casual Colorful Venice House near Canals,Beach &Abbot Kinney",[],0,May 1 - 6,May,1,May,6,323.0,4.95 (398),4.95,398.0,Los Angeles,Los Angeles,Los Angeles
+Condo in Miami Beach,Condo,Beachfront Penthouse studio w/ pool on Miami Beach,"['Ocean front', 'Pool']",2,May 1 - 8,May,1,May,8,181.0,4.85 (139),4.85,139.0,Miami Beach,Miami Beach,Miami Beach
+Dome in El Prado,Dome,Geodesic Earth Dome,[],0,May 1 - 6,May,1,May,6,91.0,4.9 (953),4.9,953.0,El Prado,El Prado,El Prado
+Home in Kissimmee,Home,7-bedroom vacation home near Disney with pool/spa,['Pool'],1,May 1 - 6,May,1,May,6,222.0,4.83 (174),4.83,174.0,Kissimmee,Kissimmee,Kissimmee
+Townhouse in Kissimmee,Townhouse,Beautiful 4BR Townhouse/Townhome close to Disney,[],0,May 1 - 7,May,1,May,7,132.0,4.83 (109),4.83,109.0,Kissimmee,Kissimmee,Kissimmee
+Condo in Saint Petersburg,Condo,Waterfront condo on top floor @ Boca Ciega Resort,['Waterfront'],1,May 1 - 6,May,1,May,6,143.0,4.87 (360),4.87,360.0,Saint Petersburg,Saint Petersburg,Saint Petersburg
+Townhouse in Destin,Townhouse,Scenic Gulf view! Steps to private beach entry!,[],0,May 1 - 6,May,1,May,6,305.0,5.0 (41),5.0,41.0,Destin,Destin,Destin
+Condo in Fernandina Beach,Condo,"Amelia Island, 2 bedroom beach front condo",[],0,May 1 - 6,May,1,May,6,327.0,4.92 (147),4.92,147.0,Fernandina Beach,Fernandina Beach,Fernandina Beach
+Home in Smithville,Home,"Fishing, Quiet & Wifi - 10 acres - Country Getaway",['Wi-Fi'],1,May 1 - 6,May,1,May,6,117.0,4.98 (51),4.98,51.0,Smithville,Smithville,Smithville
+Guesthouse in San Diego,Guesthouse,Cozy guest studio with private deck,[],0,May 1 - 6,May,1,May,6,101.0,4.9 (655),4.9,655.0,San Diego,San Diego,San Diego
+Cottage in San Diego,Cottage,Fabulous Cottage at the Beach,[],0,May 1 - 6,May,1,May,6,253.0,4.94 (215),4.94,215.0,San Diego,San Diego,San Diego
+Resort in Panama City Beach,Resort,Beautiful ocean front condo Panama City Beach,['Ocean front'],1,May 1 - 6,May,1,May,6,143.0,4.78 (99),4.78,99.0,Panama City Beach,Panama City Beach,Panama City Beach
+Guesthouse in Rolling Hills,Guesthouse,"A view, a pool, and, private cabana sleeps five",['Pool'],1,May 1 - 6,May,1,May,6,165.0,4.8 (260),4.8,260.0,Rolling Hills,Rolling Hills,Rolling Hills
+Home in Tampa,Home,The T and C Club,[],0,May 1 - 6,May,1,May,6,247.0,4.97 (90),4.97,90.0,Tampa,Tampa,Tampa
+Condo in Cocoa Beach,Condo,Oceanfront Apartment - Cocoa Beach,[],0,May 1 - 6,May,1,May,6,176.0,4.89 (53),4.89,53.0,Cocoa Beach,Cocoa Beach,Cocoa Beach
+Cottage in San Diego,Cottage,Charming Cottage at the Beach,[],0,May 11 - 16,May,11,May,16,253.0,4.91 (550),4.91,550.0,San Diego,San Diego,San Diego
+Condo in Fort Walton Beach,Condo,"PERFECT VIEW!! Waterfront, Marina, and 2 Pools!",['Waterfront'],1,May 4 - 9,May,4,May,9,99.0,4.98 (125),4.98,125.0,Fort Walton Beach,Fort Walton Beach,Fort Walton Beach
+Condo in Las Vegas,Condo,Breath-taking Strip View on 33rd Flr Luxury Resort,[],0,May 1 - 6,May,1,May,6,118.0,4.73 (318),4.73,318.0,Las Vegas,Las Vegas,Las Vegas
+Guest suite in Colorado Springs,Guest suite,Cañon Getaway- Cabin inspired home,[],0,May 1 - 6,May,1,May,6,112.0,4.97 (460),4.97,460.0,Colorado Springs,Colorado Springs,Colorado Springs
+Home in Waxhaw,Home,Fox Farms Little House,[],0,May 1 - 6,May,1,May,6,107.0,4.97 (430),4.97,430.0,Waxhaw,Waxhaw,Waxhaw
+Apartment in Miami,Apartment,Retro 1BR Apt #3 | Steps from the Water + Parking!,['Parking'],1,May 1 - 6,May,1,May,6,106.0,4.88 (136),4.88,136.0,Miami,Miami,Miami
+Townhouse in Washington,Townhouse,North Capitol Hill Luxury Townhome in Perfect Location,[],0,May 1 - 6,May,1,May,6,135.0,4.81 (538),4.81,538.0,Washington,Washington,Washington
+Room in Naples,Room,Sunset Suite @ The Vanderbilt | Boutique~BnB,[],0,May 1 - 6,May,1,May,6,224.0,4.96 (117),4.96,117.0,Naples,Naples,Naples
+Apartment in Washington,Apartment,#3 Foggy Bottom/Georgetown Apartment,[],0,May 7 - 12,May,7,May,12,209.0,4.82 (473),4.82,473.0,Washington,Washington,Washington
+Condo in Tybee Island,Condo,Direct Waterfront.Keyless entry.Dolphin watch.,['Waterfront'],1,May 1 - 6,May,1,May,6,220.0,4.97 (279),4.97,279.0,Tybee Island,Tybee Island,Tybee Island
+Room in Galveston,Room,Tropicana Suite-Grand Manor Luxury Mansion Loft,[],0,May 1 - 6,May,1,May,6,104.0,4.86 (494),4.86,494.0,Galveston,Galveston,Galveston
+Home in Netarts,Home,Retro Retreat by the Bay,[],0,May 1 - 6,May,1,May,6,136.0,4.9 (201),4.9,201.0,Netarts,Netarts,Netarts
+Apartment in Miami Beach,Apartment,Ocean Drive Beach Front Studio,[],0,May 1 - 6,May,1,May,6,153.0,4.56 (418),4.56,418.0,Miami Beach,Miami Beach,Miami Beach
+Home in Sedona,Home,Local Sedona Humble Home,[],0,May 1 - 6,May,1,May,6,236.0,4.91 (107),4.91,107.0,Sedona,Sedona,Sedona
+Room in Miami,Room,Luxe guest suite-perfect Staycation Pool & Parking,"['Parking', 'Pool']",2,May 1 - 6,May,1,May,6,101.0,4.91 (651),4.91,651.0,Miami,Miami,Miami
+Home in The Sea Ranch,Home,Casa Del Mar Spectacular Ocean Views!,[],0,May 1 - 6,May,1,May,6,434.0,4.97 (148),4.97,148.0,The Sea Ranch,The Sea Ranch,The Sea Ranch
+Apartment in Brooklyn,Apartment,Cozy Garden Apartment,[],0,May 1 - 6,May,1,May,6,117.0,4.93 (287),4.93,287.0,Brooklyn,Brooklyn,Brooklyn
+Cottage in Eastham,Cottage,Classic Cape Cod Cottage,[],0,May 1 - 6,May,1,May,6,143.0,4.92 (172),4.92,172.0,Eastham,Eastham,Eastham
+Home in Las Vegas,Home,Modern 3 bds house with pool in Las Vegas,['Pool'],1,May 1 - 7,May,1,May,7,313.0,5.0 (10),5.0,10.0,Las Vegas,Las Vegas,Las Vegas
+Home in Gulfport,Home,Gecko House Unit #1,[],0,May 1 - 6,May,1,May,6,88.0,4.88 (113),4.88,113.0,Gulfport,Gulfport,Gulfport
+Apartment in Sunny Isles Beach,Apartment,LOVELY OCEAN VIEW 1BD/1.5TH APT HIGH FLOOR|PARKING,"['Ocean view', 'Parking']",2,May 4 - 9,May,4,May,9,148.0,4.85 (47),4.85,47.0,Sunny Isles Beach,Sunny Isles Beach,Sunny Isles Beach
+Guest suite in Naples,Guest suite,Tropical Garden Studio Cottage (2 miles to beach),[],0,May 1 - 6,May,1,May,6,119.0,4.97 (231),4.97,231.0,Naples,Naples,Naples
+Guesthouse in Portland,Guesthouse,Cozy Portland Studio Apartment,[],0,May 1 - 6,May,1,May,6,104.0,4.98 (745),4.98,745.0,Portland,Portland,Portland
+Apartment in Pompano Beach,Apartment,Direct beautiful beach and ocean view,['Ocean view'],1,May 1 - 6,May,1,May,6,173.0,4.93 (124),4.93,124.0,Pompano Beach,Pompano Beach,Pompano Beach
+Condo in Hollywood,Condo,Beach paradise. Just minutes to restaurants shops.,[],0,May 1 - 6,May,1,May,6,320.0,4.89 (54),4.89,54.0,Hollywood,Hollywood,Hollywood
+Home in Palm Coast,Home,Spacious Heated Pool home with pool/pingpong table,['Pool'],1,May 1 - 6,May,1,May,6,212.0,4.93 (138),4.93,138.0,Palm Coast,Palm Coast,Palm Coast
+Guesthouse in Rockaway Beach,Guesthouse,The Strand Oceanview Studio - Dog Friendly!,[],0,May 1 - 6,May,1,May,6,121.0,4.85 (392),4.85,392.0,Rockaway Beach,Rockaway Beach,Rockaway Beach
+Home in Lehigh Acres,Home,Enjoy the most beautiful sunsets by the *pool,['Pool'],1,May 1 - 6,May,1,May,6,113.0,4.93 (42),4.93,42.0,Lehigh Acres,Lehigh Acres,Lehigh Acres
+Apartment in Carmel-by-the-Sea,Apartment,Private romantic 1 br in Carmel Woods- love dogs,[],0,May 1 - 6,May,1,May,6,149.0,4.86 (743),4.86,743.0,Carmel-by-the-Sea,Carmel-by-the-Sea,Carmel-by-the-Sea
+Condo in Sunny Isles Beach,Condo,SUNNY ISLES GORGEOUS Apart 2210!! (+hotel fees),[],0,May 1 - 6,May,1,May,6,191.0,4.91 (130),4.91,130.0,Sunny Isles Beach,Sunny Isles Beach,Sunny Isles Beach
+Cabin in Point Reyes Station,Cabin,Point Reyes Unique Creekside Home with Hot Tub,['Jacuzzi'],1,May 1 - 6,May,1,May,6,271.0,4.89 (601),4.89,601.0,Point Reyes Station,Point Reyes Station,Point Reyes Station
+Cottage in Mount Pleasant,Cottage,Perfect Cottage with Amazing Creek & Harbor Views & Location,[],0,May 1 - 6,May,1,May,6,321.0,4.99 (298),4.99,298.0,Mount Pleasant,Mount Pleasant,Mount Pleasant
+Home in Treasure Island,Home,Eiko Beach House 4BR/3BA Heatd Pool*Hot Tub* Pets,"['Jacuzzi', 'Pool']",2,May 8 - 15,May,8,May,15,722.0,4.79 (108),4.79,108.0,Treasure Island,Treasure Island,Treasure Island
+Condo in Siesta Key,Condo,New: Cozy 1BR Beach Condo on Siesta Key!!!,[],0,May 1 - 6,May,1,May,6,157.0,4.82 (148),4.82,148.0,Siesta Key,Siesta Key,Siesta Key
+Condo in Anaheim,Condo,Across the street from Disney/Pool/Free Parking,"['Free parking', 'Parking', 'Pool']",3,May 1 - 6,May,1,May,6,342.0,4.99 (76),4.99,76.0,Anaheim,Anaheim,Anaheim
+Condo in Pompano Beach,Condo,Spacious Studio - 1 minute walk to the beach!,[],0,May 1 - 6,May,1,May,6,115.0,5.0 (23),5.0,23.0,Pompano Beach,Pompano Beach,Pompano Beach
+Loft in Brooklyn,Loft,Authentic Luxury Designed Loft,[],0,May 1 - 6,May,1,May,6,178.0,4.88 (253),4.88,253.0,Brooklyn,Brooklyn,Brooklyn
+Home in Los Angeles,Home,Hollywood Sunset Strip Private Executive Hideaway,[],0,May 13 - 18,May,13,May,18,272.0,5.0 (99),5.0,99.0,Los Angeles,Los Angeles,Los Angeles
+Apartment in Las Vegas,Apartment,Trump Tower High Floor Strip View,[],0,May 1 - 6,May,1,May,6,181.0,4.87 (464),4.87,464.0,Las Vegas,Las Vegas,Las Vegas
+Condo in Pensacola Beach,Condo,Enjoy Sunsets at Fully Equipped 2BR Condo on Beach,[],0,May 1 - 6,May,1,May,6,215.0,4.93 (14),4.93,14.0,Pensacola Beach,Pensacola Beach,Pensacola Beach
+Condo in Long Beach,Condo,Oceanfront Belmont Shore Coastal Luxe,[],0,May 1 - 6,May,1,May,6,174.0,4.98 (125),4.98,125.0,Long Beach,Long Beach,Long Beach
+Condo in Treasure Island,Condo,Spectacular beach to bay views from this resort.,[],0,May 1 - 6,May,1,May,6,218.0,4.67 (148),4.67,148.0,Treasure Island,Treasure Island,Treasure Island
+Condo in Longboat Key,Condo,Directly on Longboat Key Beach - Kid Friendly/SRQ1,[],0,May 1 - 6,May,1,May,6,196.0,4.89 (415),4.89,415.0,Longboat Key,Longboat Key,Longboat Key
+Guest suite in Lake Worth,Guest suite,The Garden Suite at the Historic Chateau Bleu,[],0,May 1 - 6,May,1,May,6,141.0,4.85 (82),4.85,82.0,Lake Worth,Lake Worth,Lake Worth
+Room in Kissimmee,Room,Private Room in Orlando/Kissimmee (2Twins) T1,[],0,May 1 - 6,May,1,May,6,43.0,4.9 (300),4.9,300.0,Kissimmee,Kissimmee,Kissimmee
+Guesthouse in San Antonio,Guesthouse,Casa Alexander,[],0,May 1 - 6,May,1,May,6,73.0,4.92 (282),4.92,282.0,San Antonio,San Antonio,San Antonio
+Apartment in Englewood,Apartment,BEACH FRONT Unit w/ Pool Sandy Toe's # 5,['Pool'],1,May 7 - 12,May,7,May,12,233.0,4.96 (318),4.96,318.0,Englewood,Englewood,Englewood
+Room in Long Beach,Room,Across the Street from Beach Getaway/Near Convention Center,[],0,May 1 - 6,May,1,May,6,106.0,4.85 (97),4.85,97.0,Long Beach,Long Beach,Long Beach
